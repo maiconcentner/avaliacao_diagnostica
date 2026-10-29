@@ -1,0 +1,2880 @@
+[
+{
+"src": "ENEM 2024",
+"num": 136,
+"stem": "Contratos de vários serviços disponíveis na internet apresentam uma quantidade excessiva de informações. Isso faz com que o tempo necessário para a leitura desses contratos possa ser longo.\nO quadro apresenta uma amostra do tempo considerado necessário para a leitura completa do contrato de alguns serviços digitais.\n\n\n\n\n\n\n\n\n| Tipo de serviço    |   Tempo necessário para a leitura completa do contrato (em minuto)  |\n|:-------------------|--------------------------------------------------------------------:|\n| A                  |                                                                 36  |\n| B                  |                                                                 17  |\n| C                  |                                                                 27  |\n| D                  |                                                                 13  |\n| E                  |                                                                 13  |\n| F                  |                                                                 13  |\n\nO tempo médio, em minuto, necessário para a leitura completa de um contrato de serviço dentre os listados no quadro é, com uma casa decimal, aproximadamente,",
+"desc": [],
+"alts": [
+"13,0.",
+"15,0.",
+"19,8.",
+"20,0.",
+"23,3."
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 137,
+"stem": "Um proprietário pretende instalar um sensor de presença para a proteção de seu imóvel. O sensor deverá detectar movimentos de objetos e pessoas numa determinada região plana. A figura ilustra a vista superior da área de cobertura (setor circular em azul) de um sensor colocado no ponto S. Essa área depende da medida do ângulo alfa, em grau, e do raio R, em metro.\n[[placeholder]]\nAo aumentar o ângulo alfa ou o raio R aumenta-se a área de cobertura do sensor. Entretanto, quanto maior essa área, maior o preço do sensor.\nPara esse fim, há cinco tipos de sensores disponíveis no mercado, cada um com as seguintes características:\n•tipo 1: alfa é igual a 15 graus e R é igual a 20 metros;\n•tipo 2: alfa é igual a 30 graus e R é igual a 22 metros;\n•tipo 3: alfa é igual a 40 graus e R é igual a 12 metros;\n•tipo 4: alfa é igual a 60 graus e R é igual a 16 metros;\n•tipo 5: alfa é igual a 90 graus e R é igual a 10 metros.\nEsse proprietário pretende adquirir um desses sensores que seja capaz de cobrir, no mínimo, uma área de medida 70 metros quadrados, com o menor preço possível.\nUse 3 como valor aproximado para pi.\nO proprietário do imóvel deverá adquirir o sensor do tipo",
+"desc": [
+"Descrição da figura: A figura apresenta um setor circular, de centro S, raio R e ângulo alfa."
+],
+"alts": [
+"1",
+"2",
+"3",
+"4",
+"5"
+],
+"ans": "E",
+"figs": [
+"figures/2024/questao_137_fileoutpart69.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 138,
+"stem": "O uso de aplicativos de transporte tem sido uma alternativa à população que busca preços mais competitivos para se locomover, principalmente nas grandes cidades. As formas usadas para determinar o valor cobrado por cada viagem variam de um aplicativo para outro, mas, em geral, o valor V a ser pago, em real, varia em função de:\n•tarifa base F: valor fixo, em real, cobrado no início da viagem;\n•tempo T: tempo, em minuto, de duração da viagem;\n•distância D: distância percorrida, em quilômetro.\nUm desses aplicativos cobra 2,00 reais de valor fixo, acrescido de 0,26 real por minuto de viagem e de 1,40 real por quilômetro rodado.\nNessas condições, a expressão que fornece o valor V a ser pago por uma viagem desse aplicativo é",
+"desc": [],
+"alts": [
+"2,00 x F + 0,26 x T + 1,40 x D",
+"2,00 + 0,26 x T + 1,40 x D",
+"2,00 + 0,26 x T + D",
+"0,26 x T + 1,40 x D",
+"F + T + D"
+],
+"ans": "B",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 139,
+"stem": "Uma sala com piso no formato retangular, com lados de medidas 3 metros e 6 metros, será dividida em dois ambientes. Para isso, serão utilizadas colunas em formato cilíndrico, dispostas perpendicularmente ao piso e representadas na figura pelos círculos de cor azul. Os centros desses círculos estarão sobre uma reta paralela aos lados de menor medida do piso da sala. Os vãos entre duas colunas e entre uma coluna e a parede não poderão ser superiores a 15 centímetros.\n[[placeholder]]\nPara efetuar a compra dessas colunas, foram feitos orçamentos com base em dados fornecidos por cinco lojas.\n\n\n\n| Loja    |   Raio (cm)  |   Preço por unidade (R$)  |\n|:--------|-------------:|--------------------------:|\n| I       |           5  |                       60  |\n| II      |          10  |                       70  |\n| III     |          12  |                       75  |\n| IV      |          15  |                       90  |\n| V       |          20  |                      120  |\n\nA compra será realizada na loja cujo orçamento resulte no menor valor total possível.\nA compra será realizada na loja",
+"desc": [
+"Descrição da figura: A figura mostra um retângulo, com indicações das medidas dos lados de 6 metros e 3 metros, no qual são indicados alguns círculos alinhados, paralelos ao lado de menor comprimento, separando o retângulo em duas partes."
+],
+"alts": [
+"1",
+"2",
+"3",
+"4",
+"5"
+],
+"ans": "C",
+"figs": [
+"figures/2024/questao_139_fileoutpart71.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 140,
+"stem": "O arquiteto Renzo Piano exibiu a maquete da nova sede do Museu Whitney de Arte Americana, um prédio assimétrico que tem um vão aberto para a galeria principal, cuja medida da área é 1672 metros quadrados.\nConsidere que a escala da maquete exibida é 1 para 200.\nA medida da área do vão aberto nessa maquete, em centímetro quadrado, é",
+"desc": [],
+"alts": [
+"4,18",
+"8,36.",
+"41,80.",
+"83,60.",
+"418,00."
+],
+"ans": "E",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 141,
+"stem": "O gráfico apresenta o valor total de exportações e o valor total de importações, ao longo de um período, em bilhão de dólares. O saldo da balança comercial brasileira é dado pelo valor total de exportações menos o valor total de importações num mesmo período.\n\n## Valor total de exportações e importações[[placeholder]]\nConsidere que os saldos da balança comercial brasileira, nos três meses destacados no gráfico, sejam representados por:\n•S1: saldo em junho de 2009;\n•S2: saldo em janeiro de 2010;\n•S3: saldo em junho de 2010.\nA ordenação dos saldos S1, S2 e S3, do maior para o menor, é",
+"desc": [
+"Descrição do gráfico: Gráfico de linha intitulado “Valor Total de Exportações e Importações”, em bilhão de dólares, destacando os valores de importação e exportação: junho de 2009, janeiro de 2010 e junho de 2010, apresentando os seguintes dados:\nEm junho de 2009: importação de 10 bilhões e exportação de 14,5 bilhões;\nEm janeiro de 2010: importação de 11,5 bilhões e exportação de 11,2 bilhões;\nEm junho de 2010: importação de 14,8 bilhões e exportação de 17,1 bilhões."
+],
+"alts": [
+"S1, S3 e S2",
+"S2, S1 e S3",
+"S2, S3 e S1",
+"S3, S1 e S2",
+"S3, S2 e S1"
+],
+"ans": "A",
+"figs": [
+"figures/2024/questao_141_fileoutpart74.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 142,
+"stem": "Um instituto de pesquisa constatou que, nos últimos dez anos, o crescimento populacional de uma cidade foi de 135,25 por cento.\nQual é a representação decimal da taxa percentual desse crescimento populacional?",
+"desc": [],
+"alts": [
+"13525,0",
+"135,25",
+"13,525",
+"1,3525",
+"0,13525"
+],
+"ans": "D",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 143,
+"stem": "Um fazendeiro pretende construir um galinheiro ocupando uma região plana de formato retangular, com lados de comprimentos L metro e C metro. Os lados serão cercados por telas de tipos diferentes. Nos lados de comprimento L metro, será utilizada uma tela cujo metro linear custa 20 reais, enquanto, nos outros dois lados, uma que custa 15 reais. O fazendeiro quer gastar, no máximo, 6000 reais na compra de toda a tela necessária para o galinheiro, e deseja que o galinheiro tenha a maior área possível.\nQual será a medida, em metro, do maior lado do galinheiro?",
+"desc": [],
+"alts": [
+"85",
+"100",
+"175",
+"200",
+"350"
+],
+"ans": "B",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 144,
+"stem": "Uma professora de matemática utiliza em suas aulas uma “máquina caça-números” para verificar os conhecimentos de seus estudantes sobre representações de números racionais. Essa máquina tem um visor dividido em seis compartimentos e, na lateral, uma alavanca. Cada estudante puxa a alavanca e espera que os compartimentos parem de girar. A partir daí, precisa responder para a professora em quais posições se encontram os números que representam a mesma quantidade.\nUm estudante puxou a alavanca, aguardou que os compartimentos parassem de girar e observou os números apresentados no visor. A configuração da máquina naquele instante está apresentada na imagem.\n\n[[placeholder]]\n\nEsse estudante respondeu corretamente à pergunta da professora.\nAs posições indicadas pelo estudante foram",
+"desc": [
+"Descrição da imagem: Máquina caça-números com alavanca lateral apresenta a instrução “Encontre três quantidades iguais” e mostra um visor subdividido em seis compartimentos numerados, conforme a seguinte configuração: Compartimento 1: 4 elevado a um meio. Compartimento 2: 4 inteiros e um meio. Compartimento 3: dez quarenta e cinco avos. Compartimento 4: dezoito quartos.Compartimento 5: 4,5. Compartimento 6: quatro quintos."
+],
+"alts": [
+"1, 2 e 4",
+"2, 4 e 5",
+"2, 3 e 5",
+"3, 5 e 6",
+"3, 4 e 6"
+],
+"ans": "B",
+"figs": [
+"figures/2024/questao_144_fileoutpart77.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 145,
+"stem": "Uma caneca com água fervendo é retirada de um forno de micro-ondas. A temperatura T, em grau Celsius, da caneca, em função do tempo t, em minuto, pode ser modelada pela função T de t é igual a a mais 80 vezes, b elevado a t, representada no gráfico a seguir.\n[[placeholder]]\nOs valores das constantes a e b são",
+"desc": [
+"Descrição do gráfico: Sistema de coordenadas cartesianas, de eixo horizontal referente ao tempo de zero a 20, em minuto, com marcações de dois em dois, e de eixo vertical referente à temperatura de 40 a 100, em grau Celsius, com marcações de 10 em 10, apresentando o gráfico de uma curva com concavidade voltada para cima, iniciando no ponto (0 ; 100) e finalizando no ponto (20 ; 40)."
+],
+"alts": [
+"a é igual a 20; b é igual a logaritmo de 0,5",
+"a é igual a 100; b é igual a 0,5",
+"a é igual a 20; b é igual a 0,5 elevado a um décimo",
+"a é igual a 20; b é igual a fração, numerador 40 elevado a um décimo, denominador 80",
+"a é igual a 20; b é igual a 40"
+],
+"ans": "C",
+"figs": [
+"figures/2024/questao_145_fileoutpart78.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 146,
+"stem": "Em uma empresa é comercializado um produto em embalagens em formato de cilindro circular reto, com raio medindo 3 centímetros, e altura medindo 15 centímetros. Essa empresa planeja comercializar o mesmo produto em embalagens em formato de cubo, com capacidade igual a 80 por cento da capacidade da embalagem cilíndrica utilizada atualmente.\nUse 3 como valor aproximado para pi.\nA medida da aresta da nova embalagem, em centímetro, deve ser",
+"desc": [],
+"alts": [
+"6",
+"18",
+"6 vezes raiz quadrada de 6",
+"6 vezes raiz cúbica de 6",
+"3 vezes raiz cúbica de 12"
+],
+"ans": "E",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 147,
+"stem": "Uma criança, utilizando um aplicativo, escreveu uma mensagem para enviar a um amigo. Essa mensagem foi escrita seguindo estas etapas:\n\n\n\n\n\n| Etapas                                                                                             |   Visor de escrita  |\n|:---------------------------------------------------------------------------------------------------|--------------------:|\n| 1ª etapa: inseriu três figuras do tipo 🙂 no visor de escrita da mensagem;                         |               🙂🙂🙂 |\n| 2ª etapa: copiou o que havia inserido anteriormente e colou (inseriu o que havia copiado) ao lado; |            🙂🙂🙂🙂🙂🙂 |\n| 3ª etapa: copiou o que tinha no visor na 2ª etapa e colou ao lado.                                 |      🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂 |\n\nA criança seguiu copiando e colando, em cada etapa, o que tinha no visor na etapa imediatamente anterior, até concluir a vigésima etapa. Em seguida, enviou a mensagem.\nQual foi o total de figuras contidas na mensagem enviada?",
+"desc": [],
+"alts": [
+"3 × 2^19",
+"3 × 2^20",
+"3 × 2^21",
+"3(2^20) - 1",
+"3(2^20) - 3"
+],
+"ans": "A",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 148,
+"stem": "Uma casa de shows terá um evento cujo custo total de produção é de 34 350 reais, sendo que comporta 500 pessoas. O preço do ingresso será de 130 reais e, normalmente, 60 por cento das pessoas adquirem meia-entrada, pagando 65 reais pelo ingresso. Além do faturamento proveniente da venda de ingressos, a casa de shows vende, com 60 por cento de lucro, bebidas e petiscos ao público no dia do evento.\nApós ter vendido todos os 500 ingressos, constatou-se que a quantidade de meias-entradas vendidas superou em 50 por cento o que estava previsto, impactando o faturamento estimado com a venda de ingressos.\nNo dia do evento, decidiu-se manter o percentual de 60 por cento de lucro sobre as bebidas e petiscos, pois todo o público que comprou ingresso compareceu ao show. Com isso, espera-se ter lucro de 17000 reais nesse evento.\nPara que se alcance o lucro esperado, o gasto médio por pessoa com bebidas e petiscos, em real, deverá ser de",
+"desc": [],
+"alts": [
+"19,50.",
+"28,80.",
+"34,00.",
+"52,00.",
+"68,70."
+],
+"ans": "D",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 149,
+"stem": "Para obter um sólido de revolução (rotação de 360 graus em torno de um eixo fixo), uma professora realizou as seguintes etapas:\n•recortou o trapézio retângulo PQRS de um material rígido;\n•afixou o lado PS do trapézio em uma vareta fixa retilínea (eixo de rotação);\n•girou o trapézio 360 graus em torno da vareta e obteve um sólido de revolução.\nObserve a figura que apresenta o trapézio afixado na vareta e o sentido de giro.\n[[placeholder]]\nO sólido obtido foi um(a)",
+"desc": [
+"Descrição da figura: Trapézio PQRS, de lados PQ e RS perpendiculares ao lado SP, e PQ paralelo a RS. O lado SP está sobreposto a um segmento de reta representando uma vareta, em torno da qual será executado um giro no sentido anti-horário."
+],
+"alts": [
+"cone.",
+"cilindro.",
+"pirâmide.",
+"tronco de cone.",
+"tronco de pirâmide."
+],
+"ans": "D",
+"figs": [
+"figures/2024/questao_149_fileoutpart85.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 150,
+"stem": "O estádio do Maracanã passou por algumas modificações estruturais para a realização da Copa do Mundo de 2014, como, por exemplo, as dimensões do campo retangular. Para se adaptar aos padrões da Fifa, as dimensões do campo foram reduzidas de 110 metros por 75 metros para 105 metros por 68 metros.\nEm quantos metros quadrados a área do campo do Maracanã foi reduzida?",
+"desc": [],
+"alts": [
+"24",
+"35",
+"555",
+"1110",
+"1145"
+],
+"ans": "D",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 151,
+"stem": "Um artesão utiliza dois tipos de componentes, X e Y, nos enfeites que produz. Ele sempre compra todos os componentes em uma mesma loja. O quadro apresenta os preços dos dois tipos de componentes nas lojas 1 e 2.\n\n| Lojas    | Preços dos componentes (R$)    | Unnamed: 2   |\n|:---------|:-------------------------------|:-------------|\n| nan      | X                              | Y            |\n| I        | 3,00                           | 1,00         |\n| II       | 2,00                           | 4,00         |\n\nEle confeccionará enfeites formados por duas unidades do componente X e uma unidade do componente Y e efetuará a compra na loja que oferecer o menor valor total para a confecção de um enfeite.\nO artesão efetuará a compra na loja",
+"desc": [],
+"alts": [
+"1, pois o valor é 7 reais.",
+"1, pois o valor é 4 reais.",
+"2, pois o valor é 6 reais.",
+"1, pois anuncia o componente com o menor preço.",
+"2, pois o componente X, que é o mais utilizado, tem menor preço."
+],
+"ans": "A",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 152,
+"stem": "João e Felipe participaram, na escola, de uma maratona de matemática na qual, durante uma semana, resolveram 200 questões cada. Nessa maratona, a porcentagem P de acertos de cada participante é convertida em um conceito:\n•insatisfatório: se zero é menor ou igual a P que é menor que 50;\n•regular: se 50 é menor ou igual a P que é menor que 60;\n•bom: se 60 é menor ou igual a P que é menor que 75;\n•muito bom: se 75 é menor ou igual a P que é menor que 90;\n•excelente: se 90 é menor ou igual a P que é menor ou igual a 100.\nJoão acertou 75 por cento das questões da maratona e Felipe acertou 30 por cento a menos que a quantidade de questões que João acertou.\nOs conceitos de João e Felipe foram, respectivamente,",
+"desc": [],
+"alts": [
+"muito bom e bom.",
+"muito bom e regular.",
+"muito bom e insatisfatório.",
+"bom e regular.",
+"bom e insatisfatório."
+],
+"ans": "B",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 153,
+"stem": "Três grandezas (1, 2 e 3) se relacionam entre si. Os gráficos a seguir, formados por segmentos de reta, descrevem as relações de dependência existentes entre as grandezas 1 e 2, e entre as grandezas 2 e 3.\n[[placeholder]]\nO valor máximo assumido pela grandeza 3, quando a grandeza 1 varia de 1 a 3, é",
+"desc": [
+"Descrição dos gráficos: Dois gráficos esboçados em sistemas de coordenadas cartesianas sobre malha quadriculada, com os eixos graduados de zero a quatro, variando de 1 em 1. O primeiro gráfico apresenta a relação de dependência entre as grandezas 1 e 2, e o segundo apresenta a relação entre as grandezas 2 e 3. Gráfico 1: No eixo das abscissas estão indicados valores da grandeza 1, e no eixo das ordenadas estão indicados valores da grandeza 2. O gráfico é composto por dois segmentos de reta. O primeiro segmento inicia no ponto (0 ; 0) e termina no ponto (2 ; 3). O segundo segmento inicia no ponto (2 ; 3) e termina no ponto (4 ; 4). Gráfico 2: No eixo das abscissas estão indicados valores da grandeza 2, e no eixo das ordenadas estão indicados valores da grandeza 3. O gráfico é composto por dois segmentos de reta. O primeiro segmento inicia no ponto (0 ; 4) e termina no ponto (3 ; 1). O segundo segmento inicia no ponto (3 ; 1) e termina no ponto (4 ; 3)."
+],
+"alts": [
+"1,0.",
+"2,5.",
+"3,0.",
+"3,5.",
+"4,0."
+],
+"ans": "B",
+"figs": [
+"figures/2024/questao_153_fileoutpart88.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 154,
+"stem": "O tamanho mínimo que a visão humana é capaz de visualizar sem o uso de equipamento auxiliar é equivalente a 100 micrômetros (1 micrômetro é igual a 10 elevado a menos 3 milímetros). Uma estudante pretende visualizar e analisar hemácias do sangue humano, que medem 0,007 milímetros de diâmetro. Ela adquiriu um microscópio óptico que tem uma lente ocular que amplia em 10 vezes a imagem do objeto em observação, e um conjunto de lentes objetivas com estas capacidades de ampliação:\n•lente 1: 2 vezes;\n•lente 2: 10 vezes;\n•lente 3: 15 vezes;\n•lente 4: 1,1 vez;\n•lente 5: 1,4 vez.\n[[placeholder]]\nO funcionamento desse microscópio permite o uso da lente ocular sozinha ou a combinação dela com uma de suas lentes objetivas, proporcionando, nesse caso, um aumento de sua capacidade de ampliação final, que é dada pelo produto entre as capacidades de ampliação da ocular e da objetiva.\nEssa estudante pretende selecionar a lente objetiva de menor capacidade de ampliação que permita, na combinação com a ocular, visualizar hemácias do sangue humano.\nA lente objetiva a ser selecionada pela estudante é a",
+"desc": [
+"Descrição da imagem: Figura mostra um microscópio que possui uma lente ocular na parte superior do visor e lentes objetivas na parte inferior."
+],
+"alts": [
+"1.",
+"2.",
+"3.",
+"4.",
+"5."
+],
+"ans": "A",
+"figs": [
+"figures/2024/questao_154_fileoutpart89.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 155,
+"stem": "Ao calcular a média de suas notas em 4 provas, um estudante dividiu, por engano, a soma das notas por 5. Com isso, a média obtida foi 1 unidade menor do que deveria ser, caso fosse calculada corretamente.\nO valor correto da média das notas desse estudante é",
+"desc": [],
+"alts": [
+"4",
+"5",
+"6",
+"19",
+"21"
+],
+"ans": "B",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 156,
+"stem": "Para abrir a porta de uma empresa, cada funcionário deve cadastrar uma senha utilizando um teclado alfanumérico como o representado na figura.\n\n[[placeholder]]\nPor exemplo: a tecla que contém o número 2 traz as letras correlacionadas A, B e C. Cada toque nessa tecla mostra, sequencialmente, os seguintes caracteres: 2, A, B e C. Para os próximos toques, essa sequência se repete. As demais teclas funcionam da mesma maneira.\nAs senhas a serem cadastradas pelos funcionários devem conter 5 caracteres, sendo 2 algarismos distintos seguidos de 3 letras diferentes, nessa ordem. Um funcionário irá cadastrar a sua primeira senha, podendo escolher entre as teclas que apresentam os números 1, 2, 5, 7 e 0 e as respectivas letras correlacionadas, quando houver.\nO número de possibilidades diferentes que esse funcionário tem para cadastrar sua senha é",
+"desc": [
+"Descrição da figura: Teclado alfanumérico composto por 12 teclas, dispostas em 4 linhas e 3 colunas, apresentando a seguinte configuração:\nNa primeira linha, a primeira coluna indica 1; a segunda indica 2, A, B, C; e a terceira 3, D, E, F;\nNa segunda linha, a primeira coluna indica 4, G, H, I; a segunda indica 5, J, K, L; e a terceira 6, M, N, O;\nNa terceira linha, a primeira coluna indica 7, P, Q, R, S; a segunda indica 8, T, U, V; e a terceira 9, W, X, Y, Z. Na quarta linha, a primeira coluna indica traço horizontal; a segunda indica zero; e a terceira traço horizontal."
+],
+"alts": [
+"11520.",
+"14400.",
+"18000.",
+"312000.",
+"390000."
+],
+"ans": "B",
+"figs": [
+"figures/2024/questao_156_fileoutpart90.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 157,
+"stem": "Em uma loja de defensivos agrícolas, os preços de alguns produtos foram divulgados em um cartaz.\n[[placeholder]]\nSabe-se que 1 litro de defensivo do Tipo A é suficiente para aplicação em 0,5 hectare, enquanto que 1 litro de defensivo do Tipo B é suficiente para aplicação em 0,4 hectare. Um agricultor precisa comprar, nessa loja, uma quantidade de litros de defensivo suficiente para aplicar em uma área de 20 hectares, além de levar uma máscara para aplicação.\nO valor mínimo, em real, a ser gasto pelo agricultor é",
+"desc": [
+"Descrição da figura: Cartaz em que está escrito na parte superior: “Promoção: Compre pelo menos 35 litros de defensivos do tipo A e ganhe a máscara para aplicação”; e na parte inferior: “Defensivo tipo A: 4,20 reais por litro; defensivo tipo B: 3,00 reais por litro; máscara para aplicação: 12,50 reais”."
+],
+"alts": [
+"147,00.",
+"150,00.",
+"162,50.",
+"165,75.",
+"168,00."
+],
+"ans": "C",
+"figs": [
+"figures/2024/questao_157_fileoutpart91.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 158,
+"stem": "Uma doceira vende e entrega, em seu bairro, porções de 100 gramas de docinhos de aniversário. Atualmente, a taxa única de entrega é 10 reais, e o valor cobrado por uma porção é 25 reais. Por uma estratégia de vendas, a partir da próxima semana, a taxa única de entrega será 15 reais, e um novo valor será cobrado por uma porção, de maneira que o valor total a ser pago por um cliente na compra de 5 porções permaneça o mesmo.\nA partir da próxima semana, qual será o novo valor cobrado, em real, por uma porção?",
+"desc": [],
+"alts": [
+"12,50",
+"20,00",
+"24,00",
+"30,00",
+"37,50"
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 159,
+"stem": "Uma piscina tem capacidade de 2500000 litros. Seu sistema de abastecimento foi regulado para ter uma vazão constante de 6000 litros de água por minuto.\nO mesmo sistema foi instalado em uma segunda piscina, com capacidade de 2750000 litros, e regulado para ter uma vazão, também constante, capaz de enchê-la em um tempo 20 por cento maior que o gasto para encher a primeira piscina.\nA vazão do sistema de abastecimento da segunda piscina, em litro por minuto, é",
+"desc": [],
+"alts": [
+"8250",
+"7920.",
+"6545.",
+"5500.",
+"5280."
+],
+"ans": "D",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 160,
+"stem": "Uma tubulação despeja sempre o mesmo volume de água por unidade de tempo em uma caixa-d’água, o que significa dizer que a vazão de água nessa tubulação é constante. Na junção dessa tubulação com a caixa-d’água, está instalada uma membrana de filtragem cujo objetivo é filtrar eventuais impurezas presentes na água, combinado a um bom fluxo de água. O fluxo (fi) de água através da superfície da membrana é diretamente proporcional à vazão de água na tubulação, medida em mililitro por segundo, e inversamente proporcional à área da superfície da membrana, medida em centímetro quadrado.\nA unidade de medida adequada para descrever o fluxo (fi) de água que atravessa a superfície da membrana é",
+"desc": [],
+"alts": [
+"mililitro vezes segundo vezes centímetro ao quadrado",
+"abre parêntese, fração, numerador mililitro, denominador segundo, fecha parêntese, vezes centímetro ao quadrado",
+"fração, numerador mililitro, denominador, abre parêntese, centímetro ao quadrado vezes segundo, fecha parêntese",
+"fração, numerador, abre parêntese, centímetro ao quadrado vezes segundo, fecha parêntese, denominador mililitro",
+"fração, numerador centímetro ao quadrado, denominador, abre parêntese, mililitro vezes segundo, fecha parêntese"
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 161,
+"stem": "Uma empresa produz mochilas escolares sob encomenda. Essa empresa tem um custo total de produção composto por um custo fixo, que não depende do número de mochilas, mais um custo variável, que é proporcional ao número de mochilas produzidas. O custo total cresce de forma linear, e a tabela apresenta esse custo para três quantidades de mochilas produzidas.\n\n| Quantidade de mochilas    | 30       | 50       | 100      |\n|:--------------------------|:---------|:---------|:---------|\n| Custo total (R$)          | 1 050,00 | 1 650,00 | 3 150,00 |\n\nO custo total, em real, para a produção de 80 mochilas será",
+"desc": [],
+"alts": [
+"2400.",
+"2520.",
+"2550.",
+"2700.",
+"2800."
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 162,
+"stem": "A umidade relativa do ar é um dos indicadores utilizados na meteorologia para fazer previsões sobre o clima. O quadro apresenta as médias mensais, em porcentagem, da umidade relativa do ar em um período de seis meses consecutivos em uma cidade.\n\n\n| Meses                                      |   Maio  |   Jun.  |   Jul.  |   Ago.  |   Set.  |   Out.  |\n|:-------------------------------------------|--------:|--------:|--------:|--------:|--------:|--------:|\n| Média mensal da umidade relativa do ar (%) |     66  |     64  |     54  |     46  |     60  |     64  |\n\nNessa cidade, a mediana desses dados, em porcentagem, da umidade relativa do ar no período considerado foi",
+"desc": [],
+"alts": [
+"56.",
+"58.",
+"59.",
+"60.",
+"62."
+],
+"ans": "E",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 163,
+"stem": "Uma empresa de engenharia foi contratada para realizar um serviço no valor de 71250 reais. Os sócios da empresa decidiram que 40 por cento desse valor seria destinado ao pagamento de três engenheiros que gerenciaram o serviço. O pagamento para cada um deles será feito de forma diretamente proporcional ao total de horas trabalhadas. O número de dias e o número de horas diárias trabalhadas pelos engenheiros foram, respectivamente:\n•engenheiro 1: 4 dias, numa jornada de 5 horas e meia por dia;\n•engenheiro 2: 5 dias, numa jornada de 4 horas por dia;\n•engenheiro 3: 6 dias, numa jornada de 2 horas e meia por dia.\nQual a maior diferença, em real, entre os valores recebidos por esse serviço entre dois desses engenheiros?",
+"desc": [],
+"alts": [
+"1000",
+"1500",
+"3500",
+"3800",
+"5250"
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 164,
+"stem": "Um hospital tem 7 médicos cardiologistas e 6 médicos neurologistas em seu quadro de funcionários. Para executar determinada atividade, a direção desse hospital formará uma equipe com 5 médicos, sendo, pelo menos, 3 cardiologistas.\nA expressão numérica que representa o número máximo de maneiras distintas de formar essa equipe é",
+"desc": [],
+"alts": [
+"fração, numerador 7 fatorial, denominador 4 fatorial, vezes fração, numerador 6 fatorial, denominador 4 fatorial.",
+"fração, numerador 7 fatorial, denominador, 3 fatorial vezes 4 fatorial, vezes fração, numerador 6 fatorial, denominador, 2 fatorial vezes 4 fatorial.",
+"fração, numerador 7 fatorial, denominador, 3 fatorial vezes 4 fatorial, mais fração, numerador 6 fatorial, denominador, 2 fatorial vezes 4 fatorial, mais fração, numerador 5 fatorial, denominador, 1 fatorial vezes 4 fatorial.",
+"abre parêntese, fração, numerador 7 fatorial, denominador, 3 fatorial vezes 4 fatorial, mais fração, numerador 6 fatorial, denominador, 2 fatorial vezes 4 fatorial, fecha parêntese, vezes, abre parêntese, fração, numerador 7 fatorial, denominador, 4 fatorial vezes 3 fatorial, mais fração, numerador 6 fatorial, denominador, 1 fatorial vezes 5 fatorial, fecha parêntese, vezes, abre parêntese, fração, numerador 7 fatorial, denominador, 5 fatorial vezes 2 fatorial, mais fração, numerador 6 fatorial, denominador, zero fatorial vezes 6 fatorial, fecha parêntese.",
+"abre parêntese, fração, numerador 7 fatorial, denominador, 3 fatorial vezes 4 fatorial, vezes fração, numerador 6 fatorial, denominador, 2 fatorial vezes 4 fatorial, fecha parêntese, mais, abre parêntese, fração, numerador 7 fatorial, denominador, 4 fatorial vezes 3 fatorial, vezes fração, numerador 6 fatorial, denominador, 1 fatorial vezes 5 fatorial, fecha parêntese, mais, abre parêntese, fração, numerador 7 fatorial, denominador, 5 fatorial vezes 2 fatorial, vezes fração, numerador 6 fatorial, denominador, zero fatorial vezes 6 fatorial, fecha parêntese."
+],
+"ans": "E",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 165,
+"stem": "Uma indústria faz uma parceria com uma distribuidora de sucos para lançar no mercado dois tipos de embalagens. Para a fabricação dessas embalagens, a indústria dispõe de folhas de alumínio retangulares, de dimensões 10 centímetros por 20 centímetros. Cada uma dessas folhas é utilizada para formar a superfície lateral da embalagem, em formato de cilindro circular reto, que posteriormente recebe fundo e tampa circulares. A figura ilustra, dependendo de qual das duas extensões será utilizada como altura, as duas opções para formar a possível embalagem.\n[[placeholder]]\nDentre essas duas embalagens, a de maior capacidade apresentará volume, em centímetro cúbico, igual a",
+"desc": [
+"Descrição da figura: A figura tem duas partes. A primeira, intitulada “embalagem 1”, apresenta um retângulo de lados medindo 20 centímetros e 10 centímetros, e um cilindro de altura medindo 20 centímetros. A segunda, intitulada “embalagem 2”, apresenta um retângulo de lados medindo 10 centímetros e 20 centímetros, e um cilindro de altura medindo 10 centímetros."
+],
+"alts": [
+"4000 vezes pi",
+"2000 vezes pi",
+"fração, numerador 4000, denominador pi",
+"fração, numerador 1000, denominador pi",
+"fração, numerador 500, denominador pi."
+],
+"ans": "D",
+"figs": [
+"figures/2024/questao_165_fileoutpart96.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 166,
+"stem": "As receitas anuais obtidas por uma indústria no período de 2014 a 2021, em milhão de reais, foram registradas, por pontos, em um gráfico. Nele, também está representada a reta que descreve a tendência de evolução das receitas. Essa reta pode ser utilizada para estimar as receitas dos anos seguintes.\n[[placeholder]]\nA estimativa da receita, em milhão de reais, dessa indústria, para o ano de 2026, obtida a partir dessa reta de tendência, é",
+"desc": [
+"Descrição do gráfico: Gráfico cartesiano sobre malha quadriculada, mostra a seguinte configuração: o eixo horizontal apresenta os anos de 2014 a 2021; o eixo vertical apresenta a receita anual, em milhão de reais, de zero a 7. As receitas associadas aos anos de 2014 a 2021 são representadas por pontos que aparecem próximos à reta de tendência. Essa reta passa por (2014 ; 4), (2017 ; 5); (2020 ; 6)."
+],
+"alts": [
+"7.",
+"8.",
+"9.",
+"10.",
+"11."
+],
+"ans": "B",
+"figs": [
+"figures/2024/questao_166_fileoutpart97.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 167,
+"stem": "Uma empresa tem 400 funcionários, distribuídos em três setores: administrativo, logística e produção. O gráfico apresenta a distribuição quantitativa desses funcionários, por setor e por faixa etária.\n\n[[placeholder]]\n\nUma viagem de férias será sorteada entre esses funcionários, de forma que todos terão igual probabilidade de serem sorteados.\nA maior probabilidade é que o funcionário sorteado esteja na faixa etária",
+"desc": [
+"Descrição do gráfico: Gráfico de colunas, que representa a quantidade de funcionários que trabalham nos setores administrativo, logística e produção, e indica a porcentagem desses funcionários, por faixa etária, em cada um desses setores. O setor administrativo tem 80 funcionários, sendo 20 por cento com idades até 25 anos, 30 por cento com idades entre 25 e 45 anos, e 50 por cento com idades a partir de 45 anos. O setor logística tem 120 funcionários, sendo 25 por  cento com idades até 25 anos, 40 por cento com idades entre 25 e 45 anos, e 35 por cento com idades a partir de 45 anos. O setor produção tem 200 funcionários, sendo 40 por cento com idades até 25 anos, 35 por cento com idades entre 25 e 45 anos, e 25 por cento com idades a partir de 45 anos."
+],
+"alts": [
+"entre 25 e 45 anos, pois é a faixa etária com maior quantidade de funcionários.",
+"B entre 25 e 45 anos, pois é a única faixa etária cujas porcentagens são maiores do que as porcentagens mínimas de cada setor.",
+"até 25 anos, pois é a única faixa etária cujos percentuais associados aos setores aumentam com o aumento da quantidade de funcionários por setor.",
+"até 25 anos, pois é a faixa etária que apresenta maior quantidade de funcionários no setor de produção, que é o setor que emprega metade dos funcionários dessa empresa.",
+"a partir de 45 anos, pois a soma das porcentagens associadas a essa faixa etária é 110 por cento, que é maior do que as respectivas somas associadas às outras faixas etárias, que são 105 por cento e 85 por cento."
+],
+"ans": "A",
+"figs": [
+"figures/2024/questao_167_fileoutpart98.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 168,
+"stem": "Na construção de uma varanda retangular, com 5 metros de largura e 6 metros de comprimento, decidiu-se usar dois tipos de pedras para revestir o piso. Uma das pedras é quadrada, com 1 metro de lado, e a outra é retangular, com 0,25 metro de largura e 0,50 metro de comprimento. Serão utilizadas 10 pedras quadradas para decorar parte do piso, e o restante da área será revestida com pedras retangulares. A pedra do tipo retangular é vendida somente em caixas de 30 unidades.\nQuantas caixas da pedra retangular deverão ser compradas?",
+"desc": [],
+"alts": [
+"4",
+"5",
+"6",
+"8",
+"11"
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 169,
+"stem": "Um jardineiro dispõe de k metros lineares de cerca baixa para fazer um jardim ornamental. O jardim, delimitado por essa cerca, deve ter a forma de um triângulo equilátero, um quadrado ou um hexágono regular. A escolha será pela forma que resulte na maior área.\nO jardineiro escolherá a forma de",
+"desc": [],
+"alts": [
+"hexágono regular, pois a área do jardim, em metro quadrado, será fração, numerador k ao quadrado vezes raiz quadrada de 3, denominador 24.",
+"hexágono regular, pois a área do jardim, em metro quadrado, será fração, numerador 3 vezes k ao quadrado vezes raiz quadrada de 3, denominador 2.",
+"quadrado, pois a área do jardim, em metro quadrado, será fração, numerador k ao quadrado, denominador 16.",
+"triângulo equilátero, pois a área do jardim, em metro quadrado, será fração, numerador k ao quadrado vezes raiz quadrada de 3, denominador 36.",
+"triângulo equilátero, pois a área do jardim, em metro quadrado, será fração, numerador k ao quadrado vezes raiz quadrada de 3, denominador 4."
+],
+"ans": "A",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 170,
+"stem": "Um aeroporto disponibiliza o serviço de transporte gratuito entre seus dois terminais utilizando os ônibus A e B, que partem simultaneamente, de hora em hora, de terminais diferentes. A distância entre os terminais é de 9 000 metros, e o percurso total dos ônibus, de um terminal ao outro, é monitorado por um sistema de cinco câmeras que cobrem diferentes partes do trecho, conforme o esquema.\n[[placeholder]]\nO alcance de cada uma das cinco câmeras é:\n•câmera 1: um quinto do percurso;\n•câmera 2: três décimos do percurso;\n•câmera 3: um décimo do percurso;\n•câmera 4: um décimo do percurso;\n•câmera 5: três décimos do percurso.\nEm determinado horário, o ônibus A parte do terminal 1 e realiza o percurso total com velocidade constante de 250 metros por minuto; enquanto o ônibus B, que parte do terminal 2, realiza o percurso total com velocidade constante de 150 metros por minuto.\nQual câmera registra o momento em que os ônibus A e B se encontram?",
+"desc": [
+"Descrição da figura: Figura que apresenta um segmento de reta, em seu início está indicado Terminal 1 e ao seu término está indicado Terminal 2. O segmento é dividido em cinco partes, cada uma servindo de base para um triângulo isósceles. Os vértices dos triângulos que não se encontram sobre o segmento de reta indicam as posições das câmeras, numeradas de 1 a 5, e as áreas desses triângulos representam as regiões monitoradas por cada câmera."
+],
+"alts": [
+"1",
+"2",
+"3",
+"4",
+"5"
+],
+"ans": "D",
+"figs": [
+"figures/2024/questao_170_fileoutpart99.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 171,
+"stem": "A criptografia refere-se à construção e análise de protocolos que impedem terceiros de lerem mensagens privadas. Júlio César, imperador romano, utilizava um código para proteger as mensagens enviadas a seus generais. Assim, se a mensagem caísse em mãos inimigas, a informação não poderia ser compreendida. Nesse código, cada letra do alfabeto era substituída pela letra três posições à frente, ou seja, o “A” era substituído pelo “D”, o “B” pelo “E”, o “C” pelo “F”, e assim sucessivamente.\n[[placeholder]]\nQualquer código que tenha um padrão de substituição de letras como o descrito é considerado uma Cifra de César ou um Código de César. Note que, para decifrar uma Cifra de César, basta descobrir por qual letra o “A” foi substituído, pois isso define todas as demais substituições a serem feitas.\nUma mensagem, em um alfabeto de 26 letras, foi codificada usando uma Cifra de César. Considere a probabilidade de se descobrir, aleatoriamente, o padrão utilizado nessa codificação, e que uma tentativa frustrada deverá ser eliminada nas tentativas seguintes.\nA probabilidade de se descobrir o padrão dessa Cifra de César apenas na terceira tentativa é dada por",
+"desc": [
+"Descrição da figura: Figura que mostra uma possível relação entre letras do alfabeto para realizar a criptografia usando a Cifra de César: a letra A é substituída pela letra D, a letra B é substituída pela letra E, a letra C é substituída pela letra F, e assim sucessivamente, até que a letra W é substituída pela letra Z, a letra X é substituída pela letra A, a letra Y é substituída pela letra B e a letra Z é substituída pela letra C."
+],
+"alts": [
+"um vinte e cinco avos mais um vinte e cinco avos mais um vinte e cinco avos",
+"vinte e quatro vinte e cinco avos mais vinte e três vinte e quatro avos mais um vinte e três avos",
+"um vinte e cinco avos vezes um vinte e quatro avos vezes um vinte e três avos",
+"vinte e quatro vinte e cinco avos vezes vinte e três vinte e cinco avos vezes um vinte e cinco avos",
+"vinte e quatro vinte e cinco avos vezes vinte e três vinte e quatro avos vezes um vinte e três avos"
+],
+"ans": "E",
+"figs": [
+"figures/2024/questao_171_fileoutpart100.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 172,
+"stem": "Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram magnitudes M índice 1 e M índice 2, medidos segundo a escala Richter, e liberaram energias iguais a E índice 1 e E índice 2, respectivamente. Entre os estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores dada por M índice 2 menos M índice 1 é igual a dois terços vezes logaritmo de abre parêntese, fração, numerador E índice 2, denominador E índice 1, fecha parêntese.\nEstudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude M índice 1 é igual a 6,9 e a energia liberada foi um décimo da observada no segundo terremoto.\nO valor aproximado da magnitude M índice 2 do segundo terremoto, expresso com uma casa decimal, é igual a",
+"desc": [],
+"alts": [
+"5,4.",
+"6,2.",
+"7,6.",
+"8,2.",
+"8,4."
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 173,
+"stem": "Um comprador assinou um contrato com uma construtora adquirindo um imóvel, ainda na fase de lançamento da construção, cujo valor total, em reais, era de 420 000 reais, pagando o equivalente a 35 por cento desse valor, sem quaisquer outros ônus até a data de entrega das chaves. Nesse contrato existia uma cláusula prévia que, no caso de desistência da compra, quando da entrega das chaves, o comprador poderia cancelar o contrato e a construtora pagaria a ele 75 por cento do valor que ele já havia pago inicialmente, a título de devolução. Suponha que em função de problemas inesperados, o comprador desistiu da aquisição do imóvel, cancelando o contrato de compra no momento da entrega das chaves.\nQual o valor, em real, que o comprador recebeu da construtora como devolução?",
+"desc": [],
+"alts": [
+"110250",
+"147000",
+"168000",
+"257250",
+"315000"
+],
+"ans": "A",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 174,
+"stem": "Para melhorar o fluxo de ônibus em uma avenida que tem dois semáforos, a prefeitura reduzirá o tempo em que cada sinal ficará vermelho, que atualmente é de 15 segundos a cada 60 segundos. Admita que o instante de chegada de um ônibus a cada semáforo é aleatório.\nO engenheiro de tráfego da prefeitura calculou a probabilidade de um ônibus encontrar cada um deles vermelho, obtendo quinze sessenta avos. A partir daí, estabeleceu uma mesma redução na quantidade do tempo, em segundo, em que cada sinal ficará vermelho, de maneira que a probabilidade de um ônibus encontrar ambos os sinais vermelhos numa mesma viagem seja igual a quatro centésimos, considerando os eventos independentes.\nPara isso, a redução do tempo em que o sinal ficará vermelho, em segundo, estabelecida pelo engenheiro foi de",
+"desc": [],
+"alts": [
+"1,35.",
+"3,00.",
+"9,00.",
+"12,60.",
+"13,80."
+],
+"ans": "B",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 175,
+"stem": "A densidade demográfica de uma região é definida como sendo a razão entre o número de habitantes dessa região e sua área, expressa na unidade habitante por quilômetro quadrado.\nUma região R é subdividida em várias outras, sendo uma delas a região Q. A área de Q é igual a três quartos da área de R, e o número de habitantes de Q é igual à metade do número de habitantes de R. As densidades demográficas correspondentes a essas regiões são denotadas por d de Q e d de R.\nA expressão que relaciona d de Q e d de R é",
+"desc": [],
+"alts": [
+"d de Q é igual a um quarto de d de R",
+"d de Q é igual a um meio de d de R",
+"d de Q é igual a três quartos de d de R",
+"d de Q é igual a três meios de d de R",
+"d de Q é igual a dois terços de d de R"
+],
+"ans": "E",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 176,
+"stem": "Atualmente, há telefones celulares com telas de diversos tamanhos e em formatos retangulares. Alguns deles apresentam telas medindo três inteiros e um meio polegadas, com determinadas especificações técnicas. Além disso, em muitos modelos, com a inclusão de novas funções no celular, suas telas ficaram maiores, sendo muito comum encontrarmos atualmente telas medindo quatro inteiros e cinco sextos polegadas, conforme a figura.\n[[placeholder]]\n\n. A diferença de tamanho, em valor absoluto, entre as medidas, em polegada, das telas do celular 2 e do celular 1, representada apenas com uma casa decimal, é",
+"desc": [
+"Descrição da figura: Figura apresenta dois celulares: a tela do celular 1 tem uma diagonal que mede 3 inteiros e um meio polegadas; a tela do celular 2 mede 4 inteiros e cinco sextos polegadas."
+],
+"alts": [
+"0,1",
+"0,5.",
+"1,0.",
+"1,3.",
+"1,8."
+],
+"ans": "D",
+"figs": [
+"figures/2024/questao_176_fileoutpart101.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 177,
+"stem": "Uma imobiliária iniciou uma campanha de divulgação para promover a venda de apartamentos que podem ser pagos em 100 parcelas mensais. O valor da primeira delas é fixado no momento da compra, com o pagamento dessa primeira parcela. A partir da segunda parcela, o valor é determinado pela aplicação de um acréscimo percentual fixo ao valor da parcela anterior. Como atrativo, a imobiliária fará o pagamento de todas as parcelas correspondentes ao mês de aniversário do comprador.\nUm cliente, que faz aniversário no mês de maio, decidiu comprar um desses apartamentos por meio do financiamento oferecido pela imobiliária, e pretende escolher o mês mais adequado para realizar essa compra, de modo que o valor total dos pagamentos seja o menor possível.\nQual é o mês que esse cliente deverá escolher para realizar a compra do apartamento?",
+"desc": [],
+"alts": [
+"0Fevereiro.",
+"Abril.",
+"Maio.",
+"Junho.",
+"Agosto."
+],
+"ans": "A",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 178,
+"stem": "Um professor de desenho, apresentou uma peça de 45 centímetros de comprimento e solicitou aos alunos reproduzir no papel o objeto, onde as medidas devem ser proporcionais às medidas reais, e o comprimento deste desenho tem que ser de 9 centímetros.\nA escala utilizada para realizar esse desenho é",
+"desc": [],
+"alts": [
+"50 para 1.",
+"1 para 36.",
+"1 para 45.",
+"1 para 5.",
+"1 para 54."
+],
+"ans": "D",
+"figs": []
+},
+{
+"src": "ENEM 2024",
+"num": 179,
+"stem": "A prefeitura de uma cidade planeja construir três postos de saúde. Esses postos devem ser construídos em locais equidistantes entre si e de forma que as distâncias desses três postos ao hospital dessa cidade sejam iguais. Foram conseguidos três locais para a construção dos postos de saúde que apresentam as características desejadas, e que distam 10 quilômetros entre si, conforme o esquema, no qual o ponto H representa o local onde está construído o hospital; os pontos P índice 1, P índice 2 e P índice 3, os postos de saúde; e esses quatro pontos estão em um mesmo plano.\n[[placeholder]]\nA distância, em quilômetro, entre o hospital e cada um dos postos de saúde, é um valor entre",
+"desc": [
+"Descrição da figura: Figura apresenta 4 pontos: P índice 1, acima ao centro; P índice 2, abaixo à direita; P índice 3, abaixo à esquerda; e H, entre esses pontos, na seguinte configuração: a distância de P índice 1 a P índice 2, de P índice 2 a P índice 3, e de P índice 3 a P índice 1 é de 10 quilômetros. As distâncias de H a cada um desses pontos têm a mesma medida."
+],
+"alts": [
+"2 e 3.",
+"4 e 5.",
+"5 e 6.",
+"7 e 8.",
+"8 e 9."
+],
+"ans": "C",
+"figs": [
+"figures/2024/questao_179_fileoutpart102.png"
+]
+},
+{
+"src": "ENEM 2024",
+"num": 180,
+"stem": "Um tanque, em formato de paralelepípedo reto retângulo, tem em seu interior dois anteparos verticais, fixados na sua base e em duas paredes opostas, sendo perpendiculares a elas, conforme a figura.\n[[placeholder]]\nEsses anteparos, de espessuras desprezíveis, estão instalados de maneira a dividir a base do tanque em três retângulos congruentes, tendo suas alturas iguais à metade e a um quarto da altura do tanque. O tanque é abastecido por uma entrada situada no teto, através de um duto que despeja água a uma vazão constante, sendo necessárias 12 horas para finalizar o seu enchimento.\nO gráfico que descreve, em cada instante, a maior altura de coluna de água, dentre aquelas que vão sendo formadas ao longo do enchimento do tanque, é\n[[placeholder]]\n",
+"desc": [
+"Descrição da figura: Figura de um tanque de comprimento L e altura H, com um orifício de entrada para abastecimento no tampo superior do lado direito, está dividido em três seções, correspondentes a um terço do comprimento L do tanque, cada uma. Da direita para a esquerda, a primeira seção é limitada por um anteparo vertical de altura um meio de H e, a segunda sessão é também limitada, por outro anteparo vertical de altura um quarto de H.",
+"Descrição das alternativas: As alternativas são gráficos. Em cada uma, há a representação de um plano cartesiano sobre uma malha quadriculada; o eixo das abscissas representa o tempo, em hora, de zero a 12, graduados de 2 em 2; o eixo das ordenadas representa a maior altura da coluna de água, em metro.",
+"Descrição do gráfico: O gráfico é formado por quatro segmentos de reta: o primeiro liga o ponto (0 ; 0) ao ponto (2 ; 3); o segundo liga o ponto (2 ; 3) ao ponto (4 ; 3); o terceiro liga o ponto (4 ; 3) ao ponto (6 ; 4); o quarto liga o ponto (6 ; 4) ao ponto (12 ; 6).",
+"Descrição do gráfico: O gráfico é formado por três segmentos de reta: o primeiro liga o ponto (0 ; 0) ao ponto (2 ; 3); o segundo liga o ponto (2 ; 3) ao ponto (6 ; 3); o terceiro liga o ponto (6 ; 3) ao ponto (12 ; 6).",
+"Descrição do gráfico: O gráfico é formado por três segmentos de reta: o primeiro liga o ponto (0 ; 0) ao ponto (2 ; 3); o segundo liga o ponto (2 ; 3) ao ponto (10 ; 3); o terceiro liga o ponto (10 ; 3) ao ponto (12 ; 6).",
+"Descrição do gráfico: O gráfico é formado por quatro segmentos de reta horizontais: o primeiro liga o ponto (0 ; 3) ao ponto (2 ; 3); o segundo liga o ponto (2 ; 1) ao ponto (4 ; 1); o terceiro liga o ponto (4 ; 3) ao ponto (6 ; 3); o quarto liga o ponto (6 ; 6) ao ponto (12 ; 6).",
+"Descrição do gráfico: O gráfico é formado por sete segmentos de reta, sendo quatro horizontais e três verticais; o primeiro liga o ponto (0 ; 3) ao ponto (2 ; 3); o segundo liga o ponto (2 ; 3) ao ponto (2 ; 1); o terceiro liga o ponto (2 ; 1) ao ponto (4 ; 1); o quarto liga o ponto (4 ; 1) ao ponto (4 ; 3); o quinto liga o ponto (4 ; 3) ao ponto (6 ; 3); o sexto liga o ponto (6 ; 3) ao ponto (6 ; 6); o sétimo liga o ponto (6 ; 6) ao ponto (12 ; 6)."
+],
+"alts": [
+"[[placeholder]]",
+"[[placeholder]]",
+"[[placeholder]]",
+"[[placeholder]]",
+"[[placeholder]]"
+],
+"ans": "B",
+"figs": [
+"figures/2024/questao_180_fileoutpart103.png",
+"figures/2024/questao_180_fileoutpart109.png",
+"figures/2024/questao_180_fileoutpart104.png",
+"figures/2024/questao_180_fileoutpart105.png",
+"figures/2024/questao_180_fileoutpart106.png",
+"figures/2024/questao_180_fileoutpart107.png",
+"figures/2024/questao_180_fileoutpart108.png"
+]
+},
+{
+"src": "ENEM 2022",
+"num": 136,
+"stem": "A  esperança  de  vida  ao  nascer  é  o  número  médio  de  anos  que \num indivíduo tende a viver a partir de seu nascimento, considerando \ndados  da  população.  No  Brasil,  esse  número  vem  aumentando \nconsideravelmente, como mostra o gráfico.\nEsperança de vida ao nascer\n75\n74,23\n74\n73,95\n73,67\n73,4\n73,09\n73\n72,78\n72\n2008 2009 2010 2011 2012 2013\nDisponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado).\nPode-se observar que a esperança de vida ao nascer em 2012 \nfoi exatamente a média das registradas nos anos de 2011 e 2013. \nSuponha que esse fato também ocorreu com a esperança de vida\nao nascer em 2013, em relação às esperanças de vida de 2012 e \nde 2014.\nCaso a suposição feita tenha sido confirmada, a esperança de vida \nao nascer no Brasil no ano de 2014 terá sido, em ano, igual a",
+"desc": [],
+"alts": [
+"74,23.",
+"74,51.",
+"75,07.",
+"75,23.",
+"78,49."
+],
+"ans": "B",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 137,
+"stem": "Na figura estão destacadas duas trajetórias sobre a superfície do \nglobo terrestre, descritas ao se percorrer parte dos meridianos 1, 2 e \nda Linha do Equador, sendo que os meridianos 1 e 2 estão contidos \nem  planos  perpendiculares  entre  si.  O  plano  α  é  paralelo  ao  que \ncontém a Linha do Equador.\nMeridiano 2 N\nMeridiano 1\nLinha do\nEquador\nS\nα\nA vista superior da projeção ortogonal sobre o plano α dessas duas \ntrajetórias é\nA D\nB E\nC",
+"desc": [],
+"alts": [],
+"ans": "E",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 138,
+"stem": "Ao  escutar  a  notícia  de  que  um  filme  recém-lançado  arrecadou, \nno primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um \nestudante  escreveu  corretamente  o  número  que  representa  essa \nquantia, com todos os seus algarismos.\nO número escrito pelo estudante foi",
+"desc": [],
+"alts": [
+"135 000,00.",
+"1 350 000,00.",
+"13 500 000,00.",
+"135 000 000,00.",
+"1 350 000 000,00."
+],
+"ans": "E",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 139,
+"stem": "O  governo  de  um  estado  pretende  realizar  uma  obra  de\ninfraestrutura  para  auxiliar  na  integração  e  no  processo  \nde escoamento da produção agrícola de duas cidades. O projeto \nconsiste na interligação direta das cidades A e B com a Rodovia 003, \npela construção das Rodovias 001 e 002. As duas rodovias serão \nconstruídas em linha reta e deverão se conectar à Rodovia 003 \nem  um  mesmo  ponto,  conforme  esboço  apresentado  na  figura, \nna qual estão também indicadas as posições das cidades A e B, \nconsiderando o eixo x posicionado sobre a Rodovia 003, e cinco \nlocalizações sugeridas para o ponto de conexão entre as três rodovias.\ny (km)\nRodovia 001\nCidade A\n40\nRodovia 002\n30\nCidade B\n20\n10\nI II III IV V\nRodovia 003\n0 5 10 15 20 25 30 35 40 45 50 55 x (km)\nPretende-se que a distância percorrida entre as duas cidades, pelas \nRodovias 001 e 002, passando pelo ponto de conexão, seja a menor \npossível.\nDadas as exigências do projeto, qual das localizações sugeridas deve \nser a escolhida para o ponto de conexão?",
+"desc": [],
+"alts": [
+"I",
+"II",
+"III",
+"IV",
+"V"
+],
+"ans": "D",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 140,
+"stem": "Uma pessoa precisa contratar um operário para fazer um serviço \nem sua casa. Para isso, ela postou um anúncio em uma rede social.\nCinco  pessoas  responderam  informando  preços  por  hora\ntrabalhada, gasto diário com transporte e tempo necessário para \nconclusão do serviço, conforme valores apresentados no quadro.\nPreço por  Preço do  Tempo até \nOperário hora transporte conclusão\n(real) (real) (hora)\nI 120 0,00 8\nII 180 0,00 6\nIII 170 20,00 6\nIV 110 10,00 9\nV 110 0,00 10\nSe  a  pessoa  pretende  gastar  o  mínimo  possível  com  essa \ncontratação, irá contratar o operário",
+"desc": [],
+"alts": [
+"I.",
+"II.",
+"III.",
+"IV.",
+"V."
+],
+"ans": "A",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 141,
+"stem": "Uma  cozinheira  produz  docinhos  especiais  por  encomenda. \nUsando uma receita-base de massa, ela prepara uma porção, com \na qual produz 50 docinhos maciços de formato esférico, com 2 cm \nde  diâmetro.  Um  cliente  encomenda  150  desses  docinhos,  mas \npede que cada um tenha formato esférico com 4 cm de diâmetro.  \nA  cozinheira  pretende  preparar  o  número  exato  de  porções  da \nreceita-base de massa necessário para produzir os docinhos dessa \nencomenda.\nQuantas porções da receita-base de massa ela deve preparar para \natender esse cliente?",
+"desc": [],
+"alts": [
+"2",
+"3",
+"6",
+"12",
+"24"
+],
+"ans": "E",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 142,
+"stem": "Nos  cinco  jogos  finais  da  última  temporada,  com  uma  média  de \n18 pontos por jogo, um jogador foi eleito o melhor do campeonato \nde  basquete.  Na  atual  temporada,  cinco  jogadores  têm  a  chance \nde igualar ou melhorar essa média. No quadro estão registradas as \npontuações desses cinco jogadores nos quatro primeiros jogos das \nfinais deste ano.\nJogadores Jogo 1 Jogo 2 Jogo 3 Jogo 4\nI 12 25 20 20\nII 12 12 27 20\nIII 14 14 17 26\nIV 15 18 21 21\nV 22 15 23 15\nO  quinto  e  último  jogo  será  realizado  para  decidir  a  equipe  \ncampeã e qual o melhor jogador da temporada.\nO  jogador  que  precisa  fazer  a  menor  quantidade  de  pontos  no \nquinto jogo, para igualar a média de pontos do melhor jogador da \ntemporada passada, é o",
+"desc": [],
+"alts": [
+"I.",
+"II.",
+"III.",
+"IV.",
+"V."
+],
+"ans": "A",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 143,
+"stem": "Um casal planeja construir em sua chácara uma piscina com o \nformato de um paralelepípedo reto retângulo com capacidade para \n90 000 L de água. O casal contratou uma empresa de construções\nque  apresentou  cinco  projetos  com  diferentes  combinações  nas \ndimensões  internas  de  profundidade,  largura  e  comprimento.  \nA  piscina  a  ser  construída  terá  revestimento  interno  em  suas \nparedes e fundo com uma mesma cerâmica, e o casal irá escolher \no projeto que exija a menor área de revestimento.\nAs  dimensões  internas  de  profundidade,  largura  e  comprimento, \nrespectivamente, para cada um dos projetos, são:\n•  projeto I: 1,8 m, 2,0 m e 25,0 m;\n•  projeto II: 2,0 m, 5,0 m e 9,0 m;\n•  projeto III: 1,0 m, 6,0 m e 15,0 m; \n•  projeto IV: 1,5 m, 15,0 m e 4,0 m;\n•  projeto V: 2,5 m, 3,0 m e 12,0 m.\nO projeto que o casal deverá escolher será o",
+"desc": [],
+"alts": [
+"I.",
+"II.",
+"III.",
+"IV.",
+"V."
+],
+"ans": "B",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 144,
+"stem": "Uma instituição de ensino superior ofereceu vagas em um processo \nseletivo  de  acesso  a  seus  cursos.  Finalizadas  as  inscrições,  foi \ndivulgada a relação do número de candidatos por vaga em cada um \ndos cursos oferecidos. Esses dados são apresentados no quadro.\nNúmero  Número \nCurso de vagas  de candidatos \noferecidas por vaga\nAdministração 30 6\nCiências Contábeis 40 6\nEngenharia Elétrica 50 7\nHistória 30 8\nLetras 25 4\nPedagogia 25 5\nQual  foi  o  número  total  de  candidatos  inscritos  nesse  processo \nseletivo?",
+"desc": [],
+"alts": [
+"200",
+"400",
+"1 200",
+"1 235",
+"7 200"
+],
+"ans": "D",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 145,
+"stem": "Peças metálicas de aeronaves abandonadas em aeroportos serão \nrecicladas. Uma dessas peças é maciça e tem o formato cilíndrico, \ncom a medida do raio da base igual a 4 cm e a da altura igual a  \n50  cm.  Ela  será  derretida,  e  o  volume  de  metal  resultante  será \nutilizado  para  a  fabricação  de  esferas  maciças  com  diâmetro  de  \n1 cm, a serem usadas para confeccionar rolamentos. Para estimar \na  quantidade  de  esferas  que  poderão  ser  produzidas  a  partir  de \ncada uma das peças cilíndricas, admite-se que não ocorre perda  \nde material durante o processo de derretimento.\nQuantas dessas esferas poderão ser obtidas a partir de cada peça \ncilíndrica?",
+"desc": [],
+"alts": [
+"800",
+"1 200",
+"2 400",
+"4 800",
+"6 400"
+],
+"ans": "D",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 146,
+"stem": "Uma pessoa precisa se deslocar de automóvel do ponto P para o \nponto Q, indicados na figura, na qual as linhas verticais e horizontais \nsimbolizam ruas.\nQ\nP\nPor  causa  do  sentido  de  tráfego  nessas  ruas,  o  caminho \npoligonal destacado é a possibilidade mais curta de efetuar esse \ndeslocamento.  Para  descrevê-lo,  deve-se  especificar  qual  o \nsentido a ser tomado em cada cruzamento de ruas, em relação \nà direção de deslocamento do automóvel, que se movimentará \ncontinuamente. Para isso, empregam-se as letras E, F e D para \nindicar  “vire  à  esquerda”,  “siga  em  frente”  e  “vire  à  direita”, \nrespectivamente.\nA sequência de letras que descreve o caminho poligonal destacado é",
+"desc": [],
+"alts": [
+"DDEFDDEEFFD.",
+"DFEFDDDEFFD.",
+"DFEFDDEEFFD. D EFDFEEDDFFE. E EFDFEEE",
+"DFF",
+"E."
+],
+"ans": "C",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 147,
+"stem": "Uma loja comercializa cinco modelos de caixas-d’água (I, II, III, IV e V), \ntodos  em  formato  de  cilindro  reto  de  base  circular.  Os  modelos \nII, III, IV e V têm as especificações de suas dimensões dadas em \nrelação às dimensões do modelo I, cuja profundidade é P e área da \nbase é A , como segue:\nb\n•  m  odelo II: o dobro da profundidade e a metade da área da base \ndo modelo I;\n•  m  odelo III: o dobro da profundidade e a metade do raio da base \ndo modelo I;\n•  m  odelo IV: a metade da profundidade e o dobro da área da base \ndo modelo I;\n•  m  odelo V: a metade da profundidade e o dobro do raio da base \ndo modelo I.\nUma pessoa pretende comprar nessa loja o modelo de caixa-d’água \nque ofereça a maior capacidade volumétrica.\nO modelo escolhido deve ser o",
+"desc": [],
+"alts": [
+"I.",
+"II.",
+"III.",
+"IV.",
+"V."
+],
+"ans": "E",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 148,
+"stem": "No período de 2005 a 2013, o valor de venda dos imóveis em uma \ncidade  apresentou  alta,  o  que  resultou  no  aumento  dos  aluguéis.  \nOs gráficos apresentam a evolução desses valores, para um mesmo \nimóvel, no mercado imobiliário dessa cidade.\n$) 3 240\nR\n(\n \nl\ne\nu\ng\nu\n1 800\nl\na\no  1 350\nd\n  960\nl\na\ns 630\nn\ne\nm\n \nr\no 2005 2007 2009 2011 2013\nl\na\nV Ano\nl 540\ne\nv\nó\nm\ni\no  $)\nd R\n  450\no  \ne\nd\nd 270\na\n \nrc ar 120\ne h\nm l 90\ni\nm\n \ne\n(\nd\n \nr\no 2005 2007 2009 2011 2013\nl\na\nV Ano\nA  rentabilidade  do  aluguel  de  um  imóvel  é  calculada  pela  razão \nentre o valor mensal de aluguel e o valor de mercado desse imóvel.\nCom  base  nos  dados  fornecidos,  em  que  ano  a  rentabilidade  do \naluguel foi maior?",
+"desc": [],
+"alts": [
+"2005",
+"2007",
+"2009",
+"2011",
+"2013"
+],
+"ans": "B",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 149,
+"stem": "Em  uma  universidade,  atuam  professores  que  estão  enquadrados \nfuncionalmente  pela  sua  maior  titulação:  mestre  ou  doutor.  Nela  há, \natualmente,  60  mestres  e  40  doutores.  Os  salários  mensais  dos \nprofessores mestres e dos doutores são, respectivamente, R$ 8 000,00 \ne R$ 12 000,00.\nA  diretoria  da  instituição  pretende  proporcionar  um  aumento \nsalarial diferenciado para o ano seguinte, de tal forma que o salário \nmédio  mensal  dos  professores  dessa  instituição  não  ultrapasse  \nR$ 12 240,00. A universidade já estabeleceu que o aumento salarial \nserá de 25% para os mestres e precisa ainda definir o percentual \nde reajuste para os doutores.\nMantido o número atual de professores com suas atuais titulações, \no aumento salarial, em porcentagem, a ser concedido aos doutores \ndeverá ser de, no máximo,",
+"desc": [],
+"alts": [
+"14,4.",
+"20,7.",
+"22,0.",
+"30,0.",
+"37,5."
+],
+"ans": "D",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 150,
+"stem": "Um borrifador de atuação automática libera, a cada acionamento, uma \nmesma quantidade de inseticida. O recipiente desse produto, quando \ncheio, contém 360 mL de inseticida, que duram 60 dias se o borrifador \npermanecer ligado ininterruptamente e for acionado a cada 48 minutos.\nA quantidade de inseticida que é liberada a cada acionamento do \nborrifador, em mililitro, é",
+"desc": [],
+"alts": [
+"0,125.",
+"0,200.",
+"4,800.",
+"6,000.",
+"12,000."
+],
+"ans": "B",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 151,
+"stem": "Definem-se o dia e o ano de um planeta de um sistema solar como \nsendo, respectivamente, o tempo que o planeta leva para dar 1 volta \ncompleta em torno de seu próprio eixo de rotação e o tempo para dar  \n1 volta completa em torno de seu Sol.\nSuponha que exista um planeta Z, em algum sistema solar, onde um \ndia corresponda a 73 dias terrestres e que 2 de seus anos correspondam \na 1 ano terrestre. Considere que 1 ano terrestre tem 365 de seus dias.\nNo planeta Z, seu ano corresponderia a quantos de seus dias?",
+"desc": [],
+"alts": [
+"2,5",
+"10,0",
+"730,0",
+"13 322,5",
+"53 290,0"
+],
+"ans": "A",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 152,
+"stem": "Em uma competição de velocidade, diz-se que há uma ultrapassagem \nquando  um  veículo  que  está  atrás  de  outro  passa  à  sua  frente, \ncom  ambos  se  deslocando  no  mesmo  sentido.  Considere  uma \ncompetição automobilística entre cinco carros em uma pista com \n100 m de comprimento, onde todos largam no mesmo instante e da \nmesma linha. O gráfico mostra a variação da distância percorrida \npor cada veículo, em função do tempo, durante toda a competição.\n100\n)\nm\n(\n \na\ni\nc\nn\nâ\nt\ns\ni\nD\n0\nTempo (s)\n0 15\nQual  o  número  de  ultrapassagens,  após  o  início  da  competição, \nefetuadas pelo veículo que chegou em último lugar?",
+"desc": [],
+"alts": [
+"0",
+"1",
+"2",
+"3",
+"4"
+],
+"ans": "A",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 153,
+"stem": "Em  uma  loja,  o  preço  promocional  de  uma  geladeira  é  de  \nR$ 1 000,00 para pagamento somente em dinheiro. Seu preço normal, \nfora da promoção, é 10% maior. Para pagamento feito com o cartão \nde crédito da loja, é dado um desconto de 2% sobre o preço normal.\nUma  cliente  decidiu  comprar  essa  geladeira,  optando  pelo \npagamento  com  o  cartão  de  crédito  da  loja.  Ela  calculou  que  o \nvalor a ser pago seria o preço promocional acrescido de 8%. Ao ser \ninformada pela loja do valor a pagar, segundo sua opção, percebeu \numa diferença entre seu cálculo e o valor que lhe foi apresentado.\nO valor apresentado pela loja, comparado ao valor calculado pela \ncliente, foi",
+"desc": [],
+"alts": [
+"R$ 2,00 menor.",
+"R$ 100,00 menor.",
+"R$ 200,00 menor.",
+"R$ 42,00 maior.",
+"R$ 80,00 maior."
+],
+"ans": "A",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 154,
+"stem": "Um  robô,  que  tem  um  ímã  em  sua  base,  se  desloca  sobre  a \nsuperfície externa de um cubo metálico, ao longo de segmentos de\nreta cujas extremidades são pontos médios de arestas e centros \nde faces. Ele inicia seu deslocamento no ponto P, centro da face \nsuperior do cubo, segue para o centro da próxima face, converte à \nesquerda e segue para o centro da face seguinte, converte à direita \ne continua sua movimentação, sempre alternando entre conversões \nà esquerda e à direita quando alcança o centro de uma face. O robô \nsó termina sua movimentação quando retorna ao ponto P. A figura \napresenta os deslocamentos iniciais desse robô.\nP\nA projeção ortogonal do trajeto descrito por esse robô sobre o plano \nda base, após terminada sua movimentação, visualizada da posição \nem que se está enxergando esse cubo, é",
+"desc": [],
+"alts": [
+"A",
+"B",
+"C",
+"D",
+"E"
+],
+"ans": "A",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 155,
+"stem": "Uma empresa de engenharia projetou uma casa com a forma de um \nretângulo para um de seus clientes. Esse cliente solicitou a inclusão \nde uma varanda em forma de L. A figura apresenta a planta baixa \ndesenhada pela empresa, já com a varanda incluída, cujas medidas, \nindicadas em centímetro, representam os valores das dimensões da \nvaranda na escala de 1 : 50.\n16 cm\nVARANDA 5 cm\nBANHO BANHO\nCOZINHA SOCIAL SUÍTE\nSUÍTE\n18,4 cm\nSALA\nQUARTO QUARTO\n4 cm ESCALA 1 : 50\nA medida real da área da varanda, em metro quadrado, é",
+"desc": [],
+"alts": [
+"33,40.",
+"66,80.",
+"89,24.",
+"133,60.",
+"534,40."
+],
+"ans": "A",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 156,
+"stem": "Uma loja de roupas fixou uma meta de vendas de 77 000 reais \npara um determinado mês de 30 dias. O gráfico mostra o volume de \nvendas dessa loja, em real, nos dez primeiros dias do mês e entre\no dia dez e o dia vinte desse mês, nos seus dois únicos setores \n(infantil e adulto). Suponha que a variação no volume de vendas, \npara  o  período  registrado,  tenha  se  dado  de  forma  linear,  como \nmostrado no gráfico, e que essa tendência se mantenha a mesma \npara os próximos dez dias.\n18 000\nAdulto\n15 000\n8 000\n7 000\nInfantil\n10 20 30\nDias\nAo final do trigésimo dia, quanto faltará no volume de vendas, em \nreal, para que a meta fixada para o mês seja alcançada?",
+"desc": [],
+"alts": [
+"5 000",
+"7 000",
+"11 000",
+"18 000",
+"29 000"
+],
+"ans": "C",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 158,
+"stem": "Ao analisar os dados de uma epidemia em uma cidade, peritos \nobtiveram  um  modelo  que  avalia  a  quantidade  de  pessoas \ninfectadas a cada mês, ao longo de um ano. O modelo é dado \npor p(t) = -t 2 + 10t + 24, sendo t um número natural, variando de \n1  a  12,  que  representa  os  meses  do  ano,  e  p(t)  a  quantidade \nde pessoas infectadas no mês t do ano. Para tentar diminuir o \nnúmero de infectados no próximo ano, a Secretaria Municipal de \nSaúde decidiu intensificar a propaganda oficial sobre os cuidados \ncom a epidemia. Foram apresentadas cinco propostas (I, II, III, IV e V), \ncom diferentes períodos de intensificação das propagandas:\n•  I: 1 ≤ t ≤ 2;\n•  II: 3 ≤ t ≤ 4;\n•  III: 5 ≤ t ≤ 6;\n•  IV: 7 ≤ t ≤ 9; \n•  V: 10 ≤ t ≤ 12.\nA sugestão dos peritos é que seja escolhida a proposta cujo período \nde intensificação da propaganda englobe o mês em que, segundo o \nmodelo, há a maior quantidade de infectados. A sugestão foi aceita.\nA proposta escolhida foi a",
+"desc": [],
+"alts": [
+"I.",
+"II.",
+"III.",
+"IV.",
+"V."
+],
+"ans": "C",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 159,
+"stem": "Um atleta iniciou seu treinamento visando as competições de fim de \nano. Seu treinamento consiste em cinco tipos diferentes de treinos: \ntreino T , treino T , treino T , treino T  e treino T . A sequência dos \n1 2 3 4 5\ntreinamentos deve seguir esta ordem:\nA  letra  R  significa  repouso.  Após  completar  a  sequência  de \ntreinamentos,  o  atleta  começa  novamente  a  sequência  a  partir do \ntreino T  e segue a ordem descrita. Após 24 semanas completas de \n1\ntreinamento, se dará o início das competições.\nA sequência de treinamentos que o atleta realizará na 24ª semana \nde treinos é",
+"desc": [],
+"alts": [
+"T3 R T4 R R T5 R.",
+"R T3 R T4 R R T5.",
+"R T4 R R T5 R T1.",
+"R R T5 R T1 R R.",
+"R T5 R T1 R R T2."
+],
+"ans": "B",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 160,
+"stem": "O  professor  de  artes  orientou  seus  estudantes  a  realizarem  a \nseguinte sequência de atividades:\n•     Dobrar uma folha de papel em formato quadrado duas vezes, \nem  sequência,  ao  longo  das  linhas  tracejadas,  conforme \nilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme  \nFigura 3.\n  O\nO\nFigura 1 Figura 2 Figura 3\n•     Em seguida, no papel dobrado da Figura 3, considerar o ponto R, \nsobre o segmento OM, sendo M o ponto médio do lado do quadrado \n1\noriginal, de modo que OR =   OM, traçar um arco de circunferência \n4\n1\nde raio medindo   OM com centro no ponto R, obtendo a Figura 4. \n2\nPor último, recortar o papel ao longo do arco de circunferência e \nexcluir a parte que contém o setor circular, obtendo o papel dobrado, \nconforme Figura 5.\nR\nO M ⇒\nFigura 4 Figura 5\nApós desdobrado o papel que restou na Figura 5, a figura plana que os \nestudantes obterão será",
+"desc": [],
+"alts": [
+"A",
+"B",
+"C",
+"D",
+"E"
+],
+"ans": "C",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 161,
+"stem": "Uma  empresa  produz  e  vende  um  tipo  de  chocolate,  maciço,  em \nformato de cone circular reto com as medidas do diâmetro da base e da \naltura iguais a 8 cm e 10 cm, respectivamente, como apresenta a figura.\n8 cm\n10 cm\nDevido  a  um  aumento  de  preço  dos  ingredientes  utilizados  na \nprodução desse chocolate, a empresa decide produzir esse mesmo \ntipo de chocolate com um volume 19% menor, no mesmo formato de \ncone circular reto com altura de 10 cm.\nPara isso, a empresa produzirá esses novos chocolates com medida \ndo raio da base, em centímetro, igual a",
+"desc": [],
+"alts": [
+"1,52.",
+"3,24.",
+"3,60.",
+"6,48.",
+"7,20."
+],
+"ans": "C",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 162,
+"stem": "Em janeiro de 2013, foram declaradas 1 794 272 admissões e 1 765 372 \ndesligamentos no Brasil, ou seja, foram criadas 28 900 vagas de emprego, \nsegundo dados do Cadastro Geral de Empregados e Desempregados \n(Caged),  divulgados  pelo  Ministério  do  Trabalho  e  Emprego  (MTE). \nSegundo o Caged, o número de vagas criadas em janeiro de 2013 sofreu \numa queda de 75%, quando comparado com o mesmo período de 2012.\nDisponível em: http://portal.mte.gov.br. Acesso em: 23 fev. 2013 (adaptado).\nDe acordo com as informações dadas, o número de vagas criadas \nem janeiro de 2012 foi",
+"desc": [],
+"alts": [
+"16 514.",
+"86 700.",
+"115 600.",
+"441 343.",
+"448 568."
+],
+"ans": "C",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 163,
+"stem": "Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, \nestá  com  todos  os  seus  apartamentos  à  venda.  Os  apartamentos \nsão identificados por números formados por dois algarismos, sendo \nque a dezena indica o andar onde se encontra o apartamento, e a \nunidade, um algarismo de 1 a 8, que diferencia os apartamentos de \num mesmo andar. Quanto à incidência de sol nos quartos desses \napartamentos, constatam-se as seguintes características, em função \nde seus números de identificação:\n•  n  aqueles que finalizam em 1 ou 2, ambos os quartos recebem sol \napenas na parte da manhã; \n•  n  aqueles que finalizam em 3, 4, 5 ou 6, apenas um dos quartos \nrecebe sol na parte da manhã;\n•  n  aqueles que finalizam em 7 ou 8, ambos os quartos recebem sol \napenas na parte da tarde.\nUma  pessoa  pretende  comprar  2  desses  apartamentos  em  um \nmesmo andar, mas quer que, em ambos, pelo menos um dos quartos \nreceba sol na parte da manhã.\nDe  quantas  maneiras  diferentes  essa  pessoa  poderá  escolher  \n2 desses apartamentos para compra nas condições desejadas?\n6!",
+"desc": [],
+"alts": [
+"9 x (6! / (6 - 2)!)",
+"9 x (6! / ((6 - 2)! x 2!))",
+"9 x (4! / ((4 - 2)! x 2!))",
+"9 x (2! / ((2 - 2)! x 2!))",
+"9 x ((8! / ((8 - 2)! x 2!)) - 1)"
+],
+"ans": "B",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 164,
+"stem": "Um  médico  faz  o  acompanhamento  clínico  de  um  grupo \nde  pessoas  que  realizam  atividades  físicas  diariamente.  Ele\nobservou que a perda média de massa dessas pessoas para cada \nhora de atividade física era de 1,5 kg. Sabendo que a massa de  \n1 L de água é de 1 kg, ele recomendou que ingerissem, ao longo \ndas 3 horas seguintes ao final da atividade, uma quantidade total \nde água correspondente a 40% a mais do que a massa perdida na \natividade física, para evitar desidratação.\nSeguindo a recomendação médica, uma dessas pessoas ingeriu, \ncerto dia, um total de 1,7 L de água após terminar seus exercícios \nfísicos.\nPara  que  a  recomendação  médica  tenha  efetivamente  sido \nrespeitada, a atividade física dessa pessoa, nesse dia, durou",
+"desc": [],
+"alts": [
+"30 minutos ou menos.",
+"mais de 35 e menos de 45 minutos.",
+"mais de 45 e menos de 55 minutos.",
+"mais de 60 e menos de 70 minutos.",
+"70 minutos ou mais."
+],
+"ans": "C",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 165,
+"stem": "Em uma sala de cinema, para garantir que os espectadores vejam \ntoda a imagem projetada na tela, a disposição das poltronas deve \nobedecer  à  norma  técnica  da  Associação  Brasileira  de  Normas \nTécnicas (ABNT), que faz as seguintes indicações:\n•  D  istância mínima (D ) entre a tela de projeção e o encosto da \nmín\npoltrona da primeira fileira deve ser de, pelo menos, 60% da largura \n(L) da tela.\n•  D  istância máxima (D ) entre a tela de projeção e o encosto da \nmáx\npoltrona da última fileira deve ser o dobro da largura (L) da tela, \nsendo aceitável uma distância de até 2,9 vezes a largura (L) da \ntela.\nPara o espaçamento entre as fileiras de poltronas, é considerada a \ndistância de 1 metro entre os encostos de poltronas em duas fileiras \nconsecutivas.\nDisponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.\nUma sala de cinema, cuja largura da tela mede 12 m, está montada \nem conformidade com as normas da ABNT e tem suas dimensões \nespecificadas na figura.\nÁrea de instalação\nde novas poltronas\nm Fileira\n \n1\nD = 2,9L\naceitável \nFileira\nm\nD = 2L\nmáx 1 \nD = 0,6L\nmín\nTela Fileira\nL\nPretende-se  ampliar  essa  sala,  mantendo-se  na  mesma  posição \na tela e todas as poltronas já instaladas, ampliando-se ao máximo \na  sala  para  os  fundos  (área  de  instalação  de  novas  poltronas), \nrespeitando-se o limite aceitável da norma da ABNT. A intenção é \naumentar, ao máximo, a quantidade de poltronas da sala, instalando-se  \nnovas unidades, iguais às já instaladas.\nQuantas  fileiras  de  poltronas  a  sala  comportará  após  essa \nampliação?",
+"desc": [],
+"alts": [
+"26",
+"27",
+"28",
+"29",
+"35"
+],
+"ans": "C",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 166,
+"stem": "A  luminosidade  L  de  uma  estrela  está  relacionada  com  o \nraio R e com a temperatura T dessa estrela segundo a Lei de \nStefan-Boltzmann: L = c ⋅ R 2 ⋅ T 4, em que c é uma constante \nigual para todas as estrelas.\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).\nConsidere duas estrelas E e F, sendo que a estrela E tem metade \ndo raio da estrela F e o dobro da temperatura de F.\nIndique por L  e L  suas respectivas luminosidades.\nE F\nA relação entre as luminosidades dessas duas estrelas é dada por\nL",
+"desc": [],
+"alts": [
+"Le = Lf / 2",
+"Le = Lf / 4",
+"Le = Lf",
+"Le = 4 ⋅ Lf",
+"Le = 8 ⋅ Lf"
+],
+"ans": "D",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 167,
+"stem": "Uma das informações que pode auxiliar no dimensionamento do \nnúmero de pediatras que devem atender em uma Unidade Básica de \nSaúde (UBS) é o número que representa a mediana da quantidade \nde crianças por família existente na região sob sua responsabilidade.  \nO quadro mostra a distribuição das frequências do número de crianças \npor família na região de responsabilidade de uma UBS.\nNúmero de crianças por família Frequência\n0 100\n1 400\n2 200\n3 150\n4 100\n5 50\nO número que representa a mediana da quantidade de crianças por \nfamília nessa região é",
+"desc": [],
+"alts": [
+"1,0.",
+"1,5.",
+"1,9.",
+"2,1.",
+"2,5."
+],
+"ans": "B",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 168,
+"stem": "Em  jogos  de  voleibol,  um  saque  é  invalidado  se  a  bola  atingir  o \nteto do ginásio onde ocorre o jogo. Um jogador de uma equipe tem \num saque que atinge uma grande altura. Seu recorde foi quando a \nbatida do saque se iniciou a uma altura de 1,5 m do piso da quadra, \nx2 7x\ne a trajetória da bola foi descrita pela parábola y � � � �12, em \n6 3\nque y representa a altura da bola em relação ao eixo x (das abscissas) \nque está localizado a 1,5 m do piso da quadra, como representado \nna  figura.  Suponha  que  em  todas  as  partidas  algum  saque  desse \njogador atinja a mesma altura do seu recorde.\ny\n1,5 m 1,5 m 1,5 m x\nA equipe desse jogador participou de um torneio de voleibol no qual \njogou cinco partidas, cada uma delas em um ginásio diferente. As alturas \ndos tetos desses ginásios, em relação aos pisos das quadras, são:\n•  ginásio I: 17 m; \n• ginásio II: 18 m; \n•  ginásio III: 19 m; \n•  ginásio IV: 21 m;\n•  ginásio V: 40 m.\nO saque desse atleta foi invalidado",
+"desc": [],
+"alts": [
+"apenas no ginásio I.",
+"apenas nos ginásios I e II.",
+"apenas nos ginásios I, II e III.",
+"apenas nos ginásios I, II, III e IV.",
+"em todos os ginásios."
+],
+"ans": "D",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 169,
+"stem": "O pacote básico de um jogo para smartphone, que é vendido a \nR$ 50,00, contém 2 000 gemas e 100 000 moedas de ouro, que \nsão itens utilizáveis nesse jogo.\nA empresa  que  comercializa  esse  jogo  decidiu  criar  um  pacote\nespecial que será vendido a R$ 100,00 e que se diferenciará do pacote \nbásico por apresentar maiores quantidades de gemas e moedas de \nouro. Para estimular as vendas desse novo pacote, a empresa decidiu \ninserir nele 6 000 gemas a mais, em relação ao que o cliente teria caso \noptasse por comprar, com a mesma quantia, dois pacotes básicos.\nA quantidade de moedas de ouro que a empresa deverá inserir \nao  pacote  especial,  para  que  seja  mantida  a  mesma  proporção \nexistente entre as quantidades de gemas e de moedas de ouro \ncontidas no pacote básico, é",
+"desc": [],
+"alts": [
+"50 000.",
+"100 000.",
+"200 000.",
+"300 000.",
+"400 000."
+],
+"ans": "E",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 170,
+"stem": "Um parque tem dois circuitos de tamanhos diferentes para corridas. \nUm corredor treina nesse parque e, no primeiro dia, inicia seu treino \npercorrendo 3 voltas em torno do circuito maior e 2 voltas em torno \ndo  menor,  perfazendo  um  total  de  1  800  m.  Em  seguida,  dando \ncontinuidade a seu treino, corre mais 2 voltas em torno do circuito \nmaior e 1 volta em torno do menor, percorrendo mais 1 100 m.\nNo segundo dia, ele pretende percorrer 5 000 m nos circuitos do \nparque, fazendo um número inteiro de voltas em torno deles e de \nmodo que o número de voltas seja o maior possível.\nA soma do número de voltas em torno dos dois circuitos, no segundo \ndia, será",
+"desc": [],
+"alts": [
+"10.",
+"13.",
+"14.",
+"15.",
+"16."
+],
+"ans": "E",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 171,
+"stem": "Uma equipe de marketing digital foi contratada para aumentar as vendas \nde um produto ofertado em um site de comércio eletrônico. Para isso, \nelaborou um anúncio que, quando o cliente clica sobre ele, é direcionado \npara a página de vendas do produto. Esse anúncio foi divulgado em \nduas redes sociais, A e B, e foram obtidos os seguintes resultados:\n•  rede  social  A:  o  anúncio  foi  visualizado  por  3  000  pessoas;  \n10% delas clicaram sobre o anúncio e foram redirecionadas para o \nsite; 3% das que clicaram sobre o anúncio compraram o produto. \nO investimento feito para a publicação do anúncio nessa rede foi \nde R$ 100,00;\n•  rede  social  B:  o  anúncio  foi  visualizado  por  1  000  pessoas;  \n30% delas clicaram sobre o anúncio e foram redirecionadas para o \nsite; 2% das que clicaram sobre o anúncio compraram o produto. \nO investimento feito para a publicação do anúncio nessa rede foi \nde R$ 200,00.\nPor experiência, o pessoal da equipe de marketing considera que \na quantidade de novas pessoas que verão o anúncio é diretamente \nproporcional  ao  investimento  realizado,  e  que  a  quantidade  de \npessoas que comprarão o produto também se manterá proporcional \nà quantidade de pessoas que clicarão sobre o anúncio.\nO responsável pelo produto decidiu, então, investir mais R$ 300,00 \nem cada uma das duas redes sociais para a divulgação desse anúncio \ne obteve, de fato, o aumento proporcional esperado na quantidade \nde clientes que compraram esse produto. Para classificar o aumento \nobtido  na  quantidade  (Q)  de  compradores  desse  produto,  em \nconsequência dessa segunda divulgação, em relação aos resultados \nobservados  na  primeira  divulgação,  o  responsável  pelo  produto \nadotou o seguinte critério:\n•  Q ≤ 60%: não satisfatório;\n•  60% < Q ≤ 100%: regular;\n•  100% < Q ≤ 150%: bom;\n•  150% < Q ≤ 190%: muito bom;\n•  190% < Q ≤ 200%: excelente.\nO aumento na quantidade de compradores, em consequência dessa \nsegunda divulgação, em relação ao que foi registrado com a primeira \ndivulgação, foi classificado como",
+"desc": [],
+"alts": [
+"não satisfatório.",
+"regular.",
+"bom.",
+"muito bom.",
+"excelente."
+],
+"ans": "C",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 172,
+"stem": "Uma montadora de automóveis divulgou que oferta a seus clientes \nmais de 1 000 configurações diferentes de carro, variando o modelo, a \nmotorização, os opcionais e a cor do veículo. Atualmente, ela oferece \n7 modelos de carros com 2 tipos de motores: 1.0 e 1.6. Já em relação \naos opcionais, existem 3 escolhas possíveis: central multimídia, rodas \nde liga leve e bancos de couro, podendo o cliente optar por incluir \num, dois, três ou nenhum dos opcionais disponíveis.\nPara ser fiel à divulgação feita, a quantidade mínima de cores que a \nmontadora deverá disponibilizar a seus clientes é",
+"desc": [],
+"alts": [
+"8.",
+"9.",
+"11.",
+"18.",
+"24."
+],
+"ans": "B",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 173,
+"stem": "Dentre as diversas planificações possíveis para o cubo, uma delas \né a que se encontra apresentada na Figura 1.\nFigura 1\nEm um cubo, foram pintados, em três de suas faces, quadrados de \ncor cinza escura, que ocupam um quarto dessas faces, tendo esses três \nquadrados um vértice em comum, conforme ilustrado na Figura 2.\nFigura 2\nA planificação do cubo da Figura 2, conforme o tipo de planificação \napresentada na Figura 1, é\nA D\nB E\nC",
+"desc": [],
+"alts": [],
+"ans": "D",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 174,
+"stem": "Cada  número  que  identifica  uma  agência  bancária  tem  quatro \ndígitos: N , N , N , N  mais um dígito verificador N .\n1 2 3 4 5\nN N N N N\n1 2 3 4 5\nTodos esses dígitos são números naturais pertencentes ao conjunto \n{0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Para a determinação de N , primeiramente \n5\nmultiplica-se ordenadamente os quatro primeiros dígitos do número \nda agência por 5, 4, 3 e 2, respectivamente, somam-se os resultados \ne obtém-se S = 5 N  + 4 N  + 3 N  + 2 N .\n1 2 3 4\nPosteriormente,  encontra-se  o  resto  da  divisão  de  S  por  11, \ndenotando por R esse resto. Dessa forma, N  é a diferença 11 - R.\n5\nConsidere o número de uma agência bancária cujos quatro primeiros \ndígitos são 0100.\nQual é o dígito verificador N  dessa agência bancária?\n5",
+"desc": [],
+"alts": [
+"0",
+"6",
+"7",
+"8",
+"9"
+],
+"ans": "C",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 175,
+"stem": "Um casal está reformando a cozinha de casa e decidiu comprar um \nrefrigerador novo. Observando a planta da nova cozinha, desenhada  \nna  escala  de  1  :  50,  notaram  que  o  espaço  destinado  ao\nrefrigerador tinha 3,8 cm de altura e 1,6 cm de largura. Eles sabem \nque os fabricantes de refrigeradores indicam que, para um bom \nfuncionamento e fácil manejo na limpeza, esses eletrodomésticos \ndevem ser colocados em espaços que permitam uma distância de, \npelo menos, 10 cm de outros móveis ou paredes, tanto na parte \nsuperior quanto nas laterais. O casal comprou um refrigerador que \ncaberia  no  local  a  ele  destinado  na  nova  cozinha,  seguindo  as \ninstruções do fabricante.\nEsse  refrigerador  tem  altura  e  largura  máximas,  em  metro, \nrespectivamente, iguais a",
+"desc": [],
+"alts": [
+"1,80 e 0,60.",
+"1,80 e 0,70.",
+"1,90 e 0,80.",
+"2,00 e 0,90.",
+"2,00 e 1,00."
+],
+"ans": "A",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 176,
+"stem": "Foram convidadas 32 equipes para um torneio de futebol, que foram \ndivididas em 8 grupos com 4 equipes, sendo que, dentro de um grupo, \ncada equipe disputa uma única partida contra cada uma das demais \nequipes de seu grupo. A primeira e a segunda colocadas de cada grupo \nseguem para realizar as 8 partidas da próxima fase do torneio, chamada \noitavas de final. Os vencedores das partidas das oitavas de final seguem \npara jogar as 4 partidas das quartas de final. Os vencedores das quartas \nde final disputam as 2 partidas das semifinais, e os vencedores avançam \npara a grande final, que define a campeã do torneio.\nPelas regras do torneio, cada equipe deve ter um período de descanso \nde, no mínimo, 3 dias entre dois jogos por ela disputados, ou seja, se \num time disputar uma partida, por exemplo, num domingo, só poderá \ndisputar a partida seguinte a partir da quinta-feira da mesma semana.\nO número mínimo de dias necessários para a realização desse torneio é",
+"desc": [],
+"alts": [
+"22.",
+"25.",
+"28.",
+"48.",
+"64."
+],
+"ans": "B",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 177,
+"stem": "Em um jogo de bingo, as cartelas contêm 16 quadrículas dispostas \nem linhas e colunas. Cada quadrícula tem impresso um número, \ndentre os inteiros de 1 a 50, sem repetição de número. Na primeira \nrodada,  um  número  é  sorteado,  aleatoriamente,  dentre  os  50 \npossíveis. Em todas as rodadas, o número sorteado é descartado \ne  não  participa  dos  sorteios  das  rodadas  seguintes.  Caso  o \njogador tenha em sua cartela o número sorteado, ele o assinala na \ncartela. Ganha o jogador que primeiro conseguir preencher quatro\nquadrículas que formam uma linha, uma coluna ou uma diagonal, \nconforme os tipos de situações ilustradas na Figura 1.\nPreenchimento em linha Preenchimento em coluna Preenchimento em diagonal\nFigura 1\nO jogo inicia e, nas quatro primeiras rodadas, foram sorteados os \nseguintes números: 03, 27, 07 e 48. Ao final da quarta rodada, somente \nPedro  possuía  uma  cartela  que  continha  esses  quatro  números \nsorteados,  sendo  que  todos  os  demais  jogadores  conseguiram \nassinalar, no máximo, um desses números em suas cartelas. Observe \nna Figura 2 o cartão de Pedro após as quatro primeiras rodadas.\n03 48 12 27\n49 11 22 05\n29 50 19 45\n33 23 38 07\nFigura 2\nA probabilidade de Pedro ganhar o jogo em uma das duas próximas \nrodadas é\n1 1 1 43\nA + D �\n46 46�45\n46 45\n1 2 1 49\n� �\nB E\n46 46�45 46 46�45\n1 8\n�\nC\n46 46�45",
+"desc": [],
+"alts": [],
+"ans": "E",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 178,
+"stem": "Uma máquina em operação tem sua temperatura T monitorada por \nmeio de um registro gráfico, ao longo do tempo t. Essa máquina possui \num pistão cuja velocidade V varia com a temperatura T da máquina, \nde acordo com a expressão V = T 2 - 4. Após a máquina funcionar \ndurante o intervalo de tempo de 10 horas, o seu operador analisa o \nregistro gráfico, apresentado na figura, para avaliar a necessidade \nde eventuais ajustes, sabendo que a máquina apresenta falhas de \nfuncionamento quando a velocidade do pistão se anula.\nT (ºC)\n4\n2\n0 t (h)\n10\n−2\nQuantas vezes a velocidade do pistão se anulou durante as 10 horas \nde funcionamento?",
+"desc": [],
+"alts": [
+"1",
+"2",
+"3",
+"4",
+"5"
+],
+"ans": "E",
+"figs": [],
+"iu": true
+},
+{
+"src": "ENEM 2022",
+"num": 179,
+"stem": "A  World  Series  é  a  decisão  do  campeonato  norte-americano  de \nbeisebol. Os dois times que chegam a essa fase jogam, entre si, até \nsete partidas. O primeiro desses times que completar quatro vitórias \né declarado campeão.\nConsidere que, em todas as partidas, a probabilidade de qualquer \n1\num dos dois times vencer é sempre  .\n2\nQual é a probabilidade de o time campeão ser aquele que venceu a \nprimeira partida da World Series?\n35 44\nA D\n64 64\n40 52\nB E\n64 64\n42\nC\n64",
+"desc": [],
+"alts": [
+"35/64",
+"40/64",
+"42/64",
+"44/64",
+"52/64"
+],
+"ans": "C",
+"figs": [],
+"iu": false
+},
+{
+"src": "ENEM 2022",
+"num": 180,
+"stem": "O  gráfico  apresenta  os  totais  de  receitas  e  despesas  de  uma\nempresa, expressos em milhão de reais, no decorrer dos meses de \num determinado ano. A empresa obtém lucro quando a diferença \nentre  receita  e  despesa  é  positiva  e  tem  prejuízo  quando  essa \ndiferença é negativa.\n9\n8\n7\n6\n5\n4\n3\n2\n1\n0\nJan.  Fev.  Mar.  Abr.  Maio  Jun.  Jul.   Ago.  Set.  Out.  Nov.  Dez.\nReceitas             Despesas\nQual é a mediana, em milhão de reais, dos valores dos lucros apurados \npela empresa nesse ano?",
+"desc": [],
+"alts": [
+"1,5",
+"2,0",
+"2,9",
+"3,0",
+"5,5"
+],
+"ans": "D",
+"figs": [],
+"iu": true
+},
+{
+"src": "FUVEST 2018",
+"num": 24,
+"stem": "Em uma urna, há bolas amarelas, brancas e vermelhas. Sabe-\nse que:\n\nI. A probabilidade de retirar uma bola vermelha dessa urna é\no dobro da probabilidade de retirar uma bola amarela.\nII. Se forem retiradas 4 bolas amarelas dessa urna, a\nprobabilidade de retirar uma bola vermelha passa a ser 1/2.\nIII. Se forem retiradas 12 bolas vermelhas dessa urna, a\nprobabilidade de retirar uma bola branca passa a ser 1/2.\n\nA quantidade de bolas brancas na urna é",
+"desc": [],
+"alts": [
+"a) 8.",
+"b) 10.",
+"c) 12.",
+"d) 14.",
+"e) 16."
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "FUVEST 2018",
+"num": 25,
+"stem": "Sejam f: R->R e g: R+-> R definidas por\n\nf(x) = (1/2)*5^x e g(x) = log_10(X),\n\nrespectivamente.\n\nO gráfico da função composta gof é:",
+"desc": [],
+"alts": [
+"a) [IMAGE 0]",
+"b) [IMAGE 1]",
+"c) [IMAGE 2]",
+"d) [IMAGE 3]",
+"e) [IMAGE 4]"
+],
+"ans": "A",
+"figs": [
+"imgs/USP/2018/25/4.jpg"
+]
+},
+{
+"src": "FUVEST 2018",
+"num": 26,
+"stem": "Doze pontos são assinalados sobre quatro segmentos de reta\nde forma que três pontos sobre três segmentos distintos nunca\nsão colineares, como na figura.\n\n[IMAGE 0]\n\nO número de triângulos distintos que podem ser desenhados\ncom os vértices nos pontos assinalados é",
+"desc": [],
+"alts": [
+"a) 200.",
+"b) 204.",
+"c) 208.",
+"d) 212.",
+"e) 220."
+],
+"ans": "D",
+"figs": [
+"imgs/USP/2018/26/0.jpg"
+]
+},
+{
+"src": "FUVEST 2018",
+"num": 27,
+"stem": "Dentre os candidatos que fizeram provas de matemática,\nportuguês e inglês num concurso, 20 obtiveram nota mínima\npara aprovação nas três disciplinas. Além disso, sabe-se que:\n\nI. 14 não obtiveram nota mínima em matemática;\nII. 16 não obtiveram nota mínima em português;\nIII. 12 não obtiveram nota mínima em inglês;\nIV. 5 não obtiveram nota mínima em matemática e em\nportuguês;\nV. 3 não obtiveram nota mínima em matemática e em inglês;\nVI. 7 não obtiveram nota mínima em português e em inglês e\nVII. 2 não obtiveram nota mínima em português, matemática\ne inglês.\n\nA quantidade de candidatos que participaram do concurso foi",
+"desc": [],
+"alts": [
+"a) 44.",
+"b) 46.",
+"c) 47.",
+"d) 48.",
+"e) 49."
+],
+"ans": "E",
+"figs": []
+},
+{
+"src": "FUVEST 2018",
+"num": 28,
+"stem": "Sejam D_f e D_g os maiores subconjuntos de R nos quais estão\ndefinidas, respectivamente, as funções reais\n\nf(x) = sqrt((x^3 + 2x^2 - 4x - 8)/x-2) e g(x) = sqrt(x^3 + 2x^2 - 4x - 8)/sqrt(x-2) \n\nConsidere, ainda, I_f e I_g as imagens de f e de g, respectivamente\n\nNessas condições,",
+"desc": [],
+"alts": [
+"a) D_f = D_g e I_f = I_g.",
+"b) tanto D_f e D_g quanto I_f e I_g diferem em apenas um ponto.",
+"c) D_f e D_g diferem em apenas um ponto, I_f e I_g diferem em\nmais de um ponto.",
+"d) D_f e D_g diferem em mais de um ponto, I_f e I_g diferem em\napenas um ponto.",
+"e) tanto D_f e D_g quanto I_f e I_g diferem em mais de um ponto."
+],
+"ans": "E",
+"figs": []
+},
+{
+"src": "FUVEST 2018",
+"num": 29,
+"stem": "Prolongando1se os lados de um octógono convexo ABCDEFGH,\nobtém-se um polígono estrelado, conforme a figura.\n\n[IMAGE 0]\n\nA soma α_1 + ... + α_8 vale",
+"desc": [],
+"alts": [
+"a) 180°",
+"b) 360°",
+"c) 540°",
+"d) 720°",
+"e) 900°"
+],
+"ans": "B",
+"figs": [
+"imgs/USP/2018/29/0.jpg"
+]
+},
+{
+"src": "FUVEST 2018",
+"num": 30,
+"stem": "[IMAGE 0]\n\n\nAdmitindo que a linha pontilhada represente o gráfico da\nfunção f(x) = sen(x) e que a linha contínua represente o\ngráfico da função g(x) = asen(βx) segue que",
+"desc": [],
+"alts": [
+"a) 1 < a < 1 e 0 < β < 1.",
+"b) a > 1 e 0 < β < 1.",
+"c) a = 1 e β > 1.",
+"d) 0 < a < 1 e β > 1.",
+"e) 0 < a < 1 e β = 1."
+],
+"ans": "A",
+"figs": [
+"imgs/USP/2018/30/0.jpg"
+]
+},
+{
+"src": "FUVEST 2018",
+"num": 31,
+"stem": "Maria quer comprar uma TV que está sendo vendida por\nR$ 1.500,00 à vista ou em 3 parcelas mensais sem juros de\nR$ 500,00. O dinheiro que Maria reservou para essa compra\nnão é suficiente para pagar à vista, mas descobriu que o banco\noferece uma aplicação financeira que rende 1% ao mês. Após\nfazer os cálculos, Maria concluiu que, se pagar a primeira\nparcela e, no mesmo dia, aplicar a quantia restante, conseguirá\npagar as duas parcelas que faltam sem ter que colocar nem tirar\num centavo sequer. Quanto Maria reservou para essa compra,\nem reais",
+"desc": [],
+"alts": [
+"a) 1.450,20",
+"b) 1.480,20",
+"c) 1.485,20",
+"d) 1.495,20",
+"e) 1.490,20"
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "FUVEST 2018",
+"num": 32,
+"stem": "Considere o polinômio\n\nP(x) = x^n + a_(n_1) x^(n_1) + ... + a_1 x + a_0,\n\nem que a_0, ..., a_(n-1) ∈ ℝ. Sabe-se que as suas n raízes estão\nsobre a circunferência unitária e que a_0 < 0.\n\nO produto das n raízes de P(x), para qualquer inteiro n >= 1, é:",
+"desc": [],
+"alts": [
+"a) 0/",
+"b) i^n",
+"c) i^(n+1)",
+"d) (-1)^n",
+"e) (-1)^(n+1)"
+],
+"ans": "E",
+"figs": []
+},
+{
+"src": "FUVEST 2018",
+"num": 33,
+"stem": "O quadrilátero da figura está inscrito em uma circunferência de\nraio 1. A diagonal desenhada é um diâmetro dessa\ncircunferência.\n\n[IMAGE 0]\n\nSendo x e y as medidas dos ângulos indicados na figura, a área\nda região cinza, em função de x e y, é:",
+"desc": [],
+"alts": [
+"a) π + sen(2x) + sen(2y)",
+"b) π - sen(2x) - sen(2y)",
+"c) π - cos(2x) - cos(2y)",
+"d) π - (cos(2x) + cos(2y))/2",
+"e) π - (sen(2x) + sen(2y))/2"
+],
+"ans": "B",
+"figs": [
+"imgs/USP/2018/33/0.jpg"
+]
+},
+{
+"src": "FUVEST 2018",
+"num": 34,
+"stem": "Dois atletas correm com velocidades constantes em uma pista\nretilínea, partindo simultaneamente de extremos opostos, A e\nB. Um dos corredores parte de A, chega a B e volta para A. O\noutro corredor parte de B, chega a A e volta para B. Os\ncorredores cruzam-se duas vezes, a primeira vez a 800 metros\nde A e a segunda vez a 500 metros de B. O comprimento da\npista, em metros, é",
+"desc": [],
+"alts": [
+"a) 1.000.",
+"b) 1.300.",
+"c) 1.600.",
+"d) 1.900.",
+"e) 2.100."
+],
+"ans": "D",
+"figs": []
+},
+{
+"src": "FUVEST 2019",
+"num": 46,
+"stem": "Em uma família, o número de irmãs de cada filha é igual à\nmetade do número de irmãos. Cada filho tem o mesmo número\nde irmãos e irmãs.\nO número total de filhos e filhas da família é",
+"desc": [],
+"alts": [
+"a) 4",
+"b) 5",
+"c) 7",
+"d) 10",
+"e) 15"
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "FUVEST 2019",
+"num": 47,
+"stem": "Se a função f:ℝ - {2} → ℝ é definida por f(x) = (2x+1)/(x-2) e a\nfunção g:ℝ - {2} → ℝ é definida por g(x)=f(f(x)), então\n g(x) é igual a\n",
+"desc": [],
+"alts": [
+"a) x/2",
+"b) x^2",
+"c) 2x",
+"d) 2x + 3",
+"e) x"
+],
+"ans": "E",
+"figs": []
+},
+{
+"src": "FUVEST 2019",
+"num": 48,
+"stem": "Considere a função polinomial f: ℝ → ℝ definida por\n f(x) = ax^2 +bx+c,\nem que a,b,c ∈ ℝ e a ≠ 0. No plano cartesiano xy, a única\nintersecção da reta y = 2 com o gráfico de f é o ponto (2;2) e\na intersecção da reta x = 0 com o gráfico de f é o ponto\n(0;-6). O valor de a+b+c é",
+"desc": [],
+"alts": [
+"a) –2",
+"b) 0",
+"c) 2",
+"d) 4",
+"e) 6"
+],
+"ans": "B",
+"figs": []
+},
+{
+"src": "FUVEST 2019",
+"num": 49,
+"stem": "Um dono de restaurante assim descreveu a evolução do\nfaturamento quinzenal de seu negócio, ao longo dos dez\nprimeiros meses após a inauguração: \"Até o final dos três\nprimeiros meses, tivemos uma velocidade de crescimento mais\nou menos constante, quando então sofremos uma queda\nabrupta, com o faturamento caindo à metade do que tinha sido\natingido. Em seguida, voltamos a crescer, igualando, um mês e\nmeio depois dessa queda, o faturamento obtido ao final do\nterceiro mês. Agora, ao final do décimo mês, estamos\nestabilizando o faturamento em um patamar 50% acima do\nfaturamento obtido ao final do terceiro mês\".\nConsiderando que, na ordenada, o faturamento quinzenal está\nrepresentado em unidades desconhecidas, porém uniformemente\nespaçadas, qual dos gráficos é compatível com a descrição do\ncomerciante?",
+"desc": [],
+"alts": [
+"a)[IMAGE 0]",
+"b)[IMAGE 1]",
+"c)[IMAGE 2]",
+"d)[IMAGE 3]",
+"e)[IMAGE 4]"
+],
+"ans": "E",
+"figs": [
+"imgs/USP/2019/49/A.jpg",
+"imgs/USP/2019/49/B.jpg",
+"imgs/USP/2019/49/C.jpg",
+"imgs/USP/2019/49/D.jpg",
+"imgs/USP/2019/49/E.jpg"
+]
+},
+{
+"src": "FUVEST 2019",
+"num": 50,
+"stem": "Forma‐se uma pilha de folhas de papel, em que cada folha tem\n0,1 mm de espessura. A pilha é formada da seguinte maneira:\ncoloca‐se uma folha na primeira vez e, em cada uma das vezes\nseguintes, tantas quantas já houverem sido colocadas\nanteriormente. Depois de 33 dessas operações, a altura da\npilha terá a ordem de grandeza",
+"desc": [],
+"alts": [
+"a) da altura de um poste.",
+"b) da altura de um prédio de 30 andares.",
+"c) do comprimento da Av. Paulista.",
+"d) da distância da cidade de São Paulo (SP) à cidade do Rio de\nJaneiro (RJ).",
+"e) do diâmetro da Terra."
+],
+"ans": "D",
+"figs": []
+},
+{
+"src": "FUVEST 2019",
+"num": 51,
+"stem": "A figura mostra uma escada maciça de quatro degraus, todos\neles com formato de um paralelepípedo reto‐retângulo. A base\nde cada degrau é um retângulo de dimensões 20 cm por 50 cm,\ne a diferença de altura entre o piso e o primeiro degrau e entre\nos degraus consecutivos é de 10 cm. Se essa escada for\nprolongada para ter 20 degraus, mantendo o mesmo padrão,\nseu volume será igual a\n[IMAGE 0]",
+"desc": [],
+"alts": [
+"a) 2,1 m^3",
+"b) 2,3 m^3",
+"c) 3,0 m^3",
+"d) 4,2 m^3",
+"e) 6,0 m^3"
+],
+"ans": "A",
+"figs": [
+"imgs/USP/2019/51/0.jpg"
+]
+},
+{
+"src": "FUVEST 2019",
+"num": 52,
+"stem": "Uma empresa estuda cobrir um vão entre dois prédios (com\nformato de paralelepípedos reto‐retângulos) que têm paredes\nlaterais paralelas, instalando uma lona na forma de um\nquadrilátero, com pontas presas nos pontos A,B,C e D,\nconforme indicação da figura.\nSabendo que a lateral de um prédio tem 80 m de altura e 28 m\nde largura, que a lateral do outro prédio tem 60 m de altura e\n20 m de largura e que essas duas paredes laterais distam 15 m\numa da outra, a área total dessa lona seria de\n[IMAGE 0]",
+"desc": [],
+"alts": [
+"a) 300 m^2",
+"b) 360 m^2",
+"c) 600 m^2",
+"d) 720 m^2",
+"e) 1.200 m^2"
+],
+"ans": "C",
+"figs": [
+"imgs/USP/2019/52/0.jpg"
+]
+},
+{
+"src": "FUVEST 2019",
+"num": 53,
+"stem": "Se log₂y = (-1/2)+(2/3)*log₂x, para x > 0, então\n",
+"desc": [],
+"alts": [
+"a) y = ³√(x^2) / √2",
+"b) y = √((x^3)/2)",
+"c) y = -1/√2 + ³√(x^2)",
+"d) y = √2 ∙ ³√(x^2)",
+"e) y = √(2(x^3))"
+],
+"ans": "A",
+"figs": []
+},
+{
+"src": "FUVEST 2019",
+"num": 54,
+"stem": "Um triângulo retângulo com vértices denominados A,B e C\napoia‐se sobre uma linha horizontal, que corresponde ao solo,\ne gira sem escorregar no sentido horário. Isto é, se a posição\ninicial é aquela mostrada na figura, o movimento começa com\numa rotação em torno do vértice C até o vértice A tocar o solo,\napós o que passa a ser uma rotação em torno de A, até o vértice\nB tocar o solo, e assim por diante.\n[IMAGE 0]\nUsando as dimensões indicadas na figura (AB = 1 e BC = 2),\nqual é o comprimento da trajetória percorrida pelo vértice B,\ndesde a posição mostrada, até a aresta BC apoiar‐se no solo\nnovamente?",
+"desc": [],
+"alts": [
+"a) 3/2π",
+"b) ((3+√3)/3)*π",
+"c) (13/6)π",
+"d) ((3+√3)/2)*π",
+"e) ((8+2√3)/3)*π"
+],
+"ans": "C",
+"figs": [
+"imgs/USP/2019/54/0.jpg"
+]
+},
+{
+"src": "FUVEST 2019",
+"num": 55,
+"stem": "Uma seta aponta para a posição zero no instante inicial. A cada\nrodada, ela poderá ficar no mesmo lugar ou mover‐se uma\nunidade para a direita ou mover‐se uma unidade para a\nesquerda, cada uma dessas três possibilidades com igual\nprobabilidade.\n[IMAGE 0]\nQual é a probabilidade de que, após 5 rodadas, a seta volte à\nposição inicial?",
+"desc": [],
+"alts": [
+"a) 1/9",
+"b) 17/81",
+"c) 1/3",
+"d) 51/125",
+"e) 125/243"
+],
+"ans": "B",
+"figs": [
+"imgs/USP/2019/55/0.jpg"
+]
+},
+{
+"src": "FUVEST 2019",
+"num": 56,
+"stem": "O gráfico mostra a evolução diária, em certo intervalo de tempo\nnão especificado na abscissa, de dois índices econômicos,\nnormalizados para que suas médias, no mesmo período, sejam\nambas iguais a 1. O valor do índice 1 no dia i é x_i e o valor do\níndice 2 no dia i é y_i. O gráfico ilustra como cada um dos índices\nx_i e y_i varia em função de i, mostrando os pontos (i, x_i) (pontos escuros) e (i, y_i) (pontos claros).\n[IMAGE 0]\nPara entender melhor a relação entre os dois índices, um novo\ngráfico foi feito com os pares (x_i, y_i), isto é, com o índice 1 na\nabscissa contra o índice 2 na ordenada. O resultado foi:",
+"desc": [],
+"alts": [
+"a)[IMAGE 1]",
+"b)[IMAGE 2]",
+"c)[IMAGE 3]",
+"d)[IMAGE 4]",
+"e)[IMAGE 5]"
+],
+"ans": "B",
+"figs": [
+"imgs/USP/2019/56/0.jpg",
+"imgs/USP/2019/56/A.jpg",
+"imgs/USP/2019/56/B.jpg",
+"imgs/USP/2019/56/C.jpg",
+"imgs/USP/2019/56/D.jpg",
+"imgs/USP/2019/56/E.jpg"
+]
+},
+{
+"src": "FUVEST 2019",
+"num": 84,
+"stem": "Examine a tabela.\nPorcentagem da variação do desempenho\neconômico do Brasil\n[IMAGE 0]\nFISHLOW, A., Uma história de dois presidentes: a economia política da gestão\nda crise. STEPHAN, A. (org), Democratizando o Brasil. Rio de Janeiro: Paz e\nTerra: 1988, p. 144\nOs dados da tabela referem‐se a anos transcorridos durante a\nDitadura Militar no Brasil. O desempenho econômico nesse\nperíodo entrelaçou‐se ao panorama político do país. Nesse\nsentido, é correto afirmar:",
+"desc": [],
+"alts": [
+"a) Os sinais de esgotamento do \"milagre brasileiro\",\nassociados à crise internacional do petróleo entre 1973 e\n1974, foram os responsáveis pelo recrudescimento da\npolítica repressiva dos governos militares.",
+"b) As eleições pluripartidárias de 1982 ocorreram em meio à\nrecessão de 1981 e 1983, no governo de João Baptista\nFigueiredo, e caracterizaram‐se como um passo importante\nno processo de democratização do país.",
+"c) A crise internacional do petróleo de 1979 e seus efeitos na\neconomia brasileira provocaram uma queda abrupta no PIB\nnacional e o fim imediato do regime, por falta de\nsustentação política.",
+"d) As oscilações do PIB brasileiro, registradas na tabela,\ncorrespondem igualmente às variações das taxas de\ncrescimento e retração na indústria e na agricultura e aos\nprocessos de intensificação da repressão política e da\ncensura.",
+"e) A crise internacional do petróleo de 1979 não afetou a\nagricultura brasileira, mas coincidiu com as primeiras\neleições pluripartidárias desde 1966, marcadas pela\nestrondosa vitória dos partidos de oposição."
+],
+"ans": "B",
+"figs": [
+"imgs/USP/2019/84/0.jpg"
+]
+},
+{
+"src": "FUVEST 2020",
+"num": 12,
+"stem": "Note e adote:  \nConsidere a seguinte relação entre pH do meio e coloração do indicador \nalaranjado de metila: \n  Menor que 3,3 -> vermelho\n 3,3 a 4,4 -> laranja \n Maior que 4,4 -> Amarelo\nPara exemplificar probabilidade, um grupo de estudantes fez \numa  atividade  envolvendo  química,  conforme  o \nprocedimento descrito. \nCada estudante recebeu um recipiente contendo 800 mL de \nágua  destilada  com  algumas  gotas  do  indicador  de  pH \nalaranjado de metila e soluções de HCl e NaOH em diversas \nconcentrações. \nCada estudante deveria jogar apenas uma vez dois dados, um \namarelo e um vermelho, ambos contendo os números de 1 a 6. \n• Ao jogar o dado vermelho, o estudante deveria adicionar ao \nrecipiente  100  mL  de  solução  do  ácido  clorídrico  na \nconcentração 10^(−n) mol/L, sendo n o número marcado no dado \n(por exemplo, se saísse o número 1 no dado, a solução seria \nde 10^(−1) mol/L; se saísse 6, a solução seria de 10^(−6) mol/L). \n• Ao jogar o dado amarelo, o estudante deveria executar o \nmesmo procedimento, mas substituindo o ácido por NaOH, \ntotalizando assim 1,0 L de solução.  \n• O estudante deveria observar a cor da solução ao final do \nexperimento. \nA  professora mostrou  a tabela  com  alguns  valores  de  pH \nresultantes  conforme  os  números  tirados  nos  dados.  Ela \npediu,  então,  aos  estudantes  que  utilizassem  seus \nconhecimentos e a tabela para prever em quais combinações \nde dados a cor final do indicador seria vermelha.\n [IMAGE 0] \nA probabilidade de, após realizar o procedimento descrito, a \nsolução final preparada por um estudante ser vermelha é de:",
+"desc": [],
+"alts": [
+"a) 1/12",
+"b) 1/6",
+"c) 1/4",
+"d) 11/36",
+"e) 5/12"
+],
+"ans": "C",
+"figs": [
+"imgs/USP/2020/12/0.png"
+]
+},
+{
+"src": "FUVEST 2020",
+"num": 13,
+"stem": "Carros que saem da cidade A rumo a alguma das cidades \nturísticas E, F e G fazem caminhos diversos, passando por pelo \nmenos uma das cidades B, C e D, apenas no sentido indicado \npelas setas, como mostra a figura. Os números indicados nas \nsetas são as probabilidades, dentre esses carros, de se ir de \numa cidade a outra.\n [IMAGE 0] \nNesse cenário, a probabilidade de um carro ir de A a F é",
+"desc": [],
+"alts": [
+"a) 0,120.",
+"b) 0,216.",
+"c) 0,264.",
+"d) 0,336.",
+"e) 0,384."
+],
+"ans": "E",
+"figs": [
+"imgs/USP/2020/13/0.png"
+]
+},
+{
+"src": "FUVEST 2020",
+"num": 14,
+"stem": "Se, em 15 anos, o salário mínimo teve um aumento nominal \nde 300% e a inflação foi de 100%, é correto afirmar que o \naumento real do salário mínimo, nesse período, foi de",
+"desc": [],
+"alts": [
+"a) 50%.",
+"b) 100%.",
+"c) 150%.",
+"d) 200%.",
+"e) 250%."
+],
+"ans": "B",
+"figs": []
+},
+{
+"src": "FUVEST 2020",
+"num": 15,
+"stem": "Note e adote: \nπ = 3,14.\n [IMAGE 0]\nO cilindro de papelão central de uma fita crepe tem raio \nexterno de 3 cm. A fita tem espessura de 0,01 cm e dá 100 \nvoltas  completas.  Considerando  que,  a  cada  volta,  o  raio \nexterno  do  rolo  é \naumentado  no  valor  da \nespessura  da  fita,  o \ncomprimento total da fita \né de, aproximadamente,",
+"desc": [],
+"alts": [
+"a) 9,4 m.",
+"b) 11,0 m.",
+"c) 18,8 m.",
+"d) 22,0 m.",
+"e) 25,1 m."
+],
+"ans": "D",
+"figs": [
+"imgs/USP/2020/15/0.png"
+]
+},
+{
+"src": "FUVEST 2020",
+"num": 16,
+"stem": "Um objeto é formado por 4 hastes rígidas conectadas em seus \nextremos por articulações, cujos centros são os vértices de um \nparalelogramo. As hastes movimentam-se de tal forma que o \nparalelogramo permanece sempre no mesmo plano. A cada \nconfiguração desse objeto, associa-se θ, a medida do menor \nângulo interno do paralelogramo. A área da região delimitada \npelo paralelogramo quando θ = 90° é A.\n [IMAGE 0] \nPara que a área da região delimitada pelo paralelogramo seja \nA/2, o valor de θ é, necessariamente, igual a ",
+"desc": [],
+"alts": [
+"a) 15°.",
+"b) 22,5°.",
+"c) 30°.",
+"d) 45°.",
+"e) 60°."
+],
+"ans": "C",
+"figs": [
+"imgs/USP/2020/16/0.jpg"
+]
+},
+{
+"src": "FUVEST 2020",
+"num": 17,
+"stem": "A menor esfera na qual um paralelepípedo reto‐retângulo de \nmedidas 7 cm × 4 cm × 4 cm está inscrito tem diâmetro de",
+"desc": [],
+"alts": [
+"a) 9 cm.",
+"b) 10 cm.",
+"c) 11 cm.",
+"d) 12 cm.",
+"e) 15 cm."
+],
+"ans": "A",
+"figs": []
+},
+{
+"src": "FUVEST 2020",
+"num": 18,
+"stem": "A  dona  de  uma  lanchonete  observou  que,  vendendo  um \ncombo a R$ 10,00, 200 deles são vendidos por dia, e que, para \ncada redução de R$ 1,00 nesse preço, ela vende 100 combos \na mais. Nessas condições, qual é a máxima arrecadação diária \nque ela espera obter com a venda desse combo?",
+"desc": [],
+"alts": [
+"a) R$ 2.000,00",
+"b) R$ 3.200,00",
+"c) R$ 3.600,00",
+"d) R$ 4.000,00",
+"e) R$ 4.800,00"
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "FUVEST 2020",
+"num": 19,
+"stem": "A função E de Euler determina, para cada número natural n, a \nquantidade  de  números  naturais  menores  do  que  n  cujo \nmáximo  divisor  comum  com  n  é  igual  a  1.  Por  exemplo, \nE (6) = 2  pois  os  números  menores  do  que  6  com  tal \npropriedade são 1 e 5. Qual o valor máximo de E(n), para n de \n20 a 25?",
+"desc": [],
+"alts": [
+"a) 19",
+"b) 20",
+"c) 22",
+"d) 24",
+"e) 25"
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "FUVEST 2020",
+"num": 20,
+"stem": "Se 3x^2 - 9x + 7 = (x-a)^3 - (x-b)^3, para todo número \nreal x, o valor de a+b é",
+"desc": [],
+"alts": [
+"a) 3.",
+"b) 5.",
+"c) 6.",
+"d) 9.",
+"e) 12."
+],
+"ans": "A",
+"figs": []
+},
+{
+"src": "FUVEST 2020",
+"num": 21,
+"stem": "Uma agência de turismo vendeu um total de 78 passagens \npara os destinos: Lisboa, Paris e Roma. Sabe-se que o número \nde passagens vendidas para Paris foi o dobro do número de \npassagens  vendidas  para  os  outros  dois  destinos \nconjuntamente.  Sabe-se  também  que,  para  Roma,  foram \nvendidas duas passagens a mais que a metade das vendidas \npara  Lisboa.  Qual  foi  o  total  de  passagens  vendidas, \nconjuntamente, para Paris e Roma?",
+"desc": [],
+"alts": [
+"a) 26",
+"b) 38",
+"c) 42",
+"d) 62",
+"e) 68"
+],
+"ans": "D",
+"figs": []
+},
+{
+"src": "FUVEST 2020",
+"num": 22,
+"stem": "Um ponto (x,y) do plano cartesiano pertence ao conjunto F \nse é equidistante dos eixos OX e OY e (cid:1841)(cid:1851) e pertence ao círculo de \nequação x^2 + y^2 -2x -6y + 2 = 0. É correto afirmar que F",
+"desc": [],
+"alts": [
+"a) é um conjunto vazio.",
+"b) tem exatamente 2 pontos, um no primeiro quadrante e \noutro no segundo quadrante.",
+"c) tem exatamente 2 pontos, ambos no primeiro quadrante.",
+"d) tem  exatamente  3  pontos,  sendo  dois  no  primeiro \nquadrante e outro no segundo quadrante.",
+"e) tem  exatamente  4  pontos,  sendo  dois  no  primeiro \nquadrante e dois no segundo quadrante."
+],
+"ans": "D",
+"figs": []
+},
+{
+"src": "FUVEST 2020",
+"num": 23,
+"stem": "Uma cidade é dividida em dois Setores: o Setor Sul, com área \nde 10 km2, e o Setor Norte, com área de 30 km2. Após um final \nde  semana,  foram  divulgados  os  seguintes  totais \npluviométricos: \nDia  Sul  Norte \nsábado  7 mm  11 mm \ndomingo  9 mm  17 mm \nÉ correto afirmar que o total pluviométrico desse final de \nsemana na cidade inteira foi de",
+"desc": [],
+"alts": [
+"a) 15 mm.",
+"b) 17 mm.",
+"c) 22 mm.",
+"d) 25 mm.",
+"e) 28 mm."
+],
+"ans": "D",
+"figs": []
+},
+{
+"src": "FUVEST 2020",
+"num": 24,
+"stem": "[IMAGE 0] \nBill Waterson, Calvin and Hobbes. Disponível em https://www.gocomics.com/. \nAs possíveis soluções, em polegadas (inches, em inglês), para \no problema matemático proposto no quadrinho, no caso em \nque os pontos A, B e C estão em uma mesma reta, são",
+"desc": [],
+"alts": [
+"a) 10/3 e 10. ",
+"b) 10/3, 5 e 10",
+"c) 5/3,10/3 e 10",
+"d) 5/3 e 10",
+"e) 10/3 e 5"
+],
+"ans": "A",
+"figs": [
+"imgs/USP/2020/24/0.jpg"
+]
+},
+{
+"src": "FUVEST 2021",
+"num": 1,
+"stem": "[IMAGE 0] \n A figura ilustra graficamente uma região de um bairro, com ruas ortogonais entre si.\n O ponto X indica um condomínio residencial,  e o ponto Y indica a entrada de um parque. \nTrês moradores realizam caminhos diferentes para chegar ao ponto Y, partindo do ponto X, ilustrados com cores diferentes.\n S e a, b e c representam as distancias percorridas por esses moradores nesses caminhos, é correto afirmar que ",
+"desc": [],
+"alts": [
+"a) a = b = c.",
+"b) b = c < a.",
+"c) c < b  < a.",
+"d) b < c = a.",
+"e) c < a = b."
+],
+"ans": "B",
+"figs": [
+"imgs/USP/2021/1/0.png"
+]
+},
+{
+"src": "FUVEST 2021",
+"num": 10,
+"stem": "[IMAGE 0]\nA região hachurada do plano cartesiano xOy contida no círculo de centro na origem O e raio 1, \nmostrada na figura, pode ser descrita por",
+"desc": [],
+"alts": [
+"a) {(x,y); x^2 + y^2 ≤1 e y - x ≤ 1}.",
+"b) {(x,y); x^2 + y^2  ≥ 1 e y + x ≥ 1}.",
+"c) {(x, y); x^2 + y^2  ≤ 1 e y - x ≥ 1}.",
+"d) {(x,y); x^2 + y^2 ≤ 1 e y + x ≥ 1}.",
+"e) {(x,y); x^2 + y^2  ≥ 1 e y + x ≤ 1}."
+],
+"ans": "C",
+"figs": [
+"imgs/USP/2021/10/0.png"
+]
+},
+{
+"src": "FUVEST 2021",
+"num": 11,
+"stem": "Se f: ℝ → ℝ e g: ℝ → ℝ são funções dadas por f (x) = c + x^2, \nonde c ∈ ℝ, e g(x) = x, seus gráficos se intersectam quando, e somente quando,",
+"desc": [],
+"alts": [
+"a) c ≤ 1/4",
+"b) c ≥ 1/4",
+"c) c ≤ 1/2",
+"d) c ≥ 1/2",
+"e) c ≤ 1"
+],
+"ans": "A",
+"figs": []
+},
+{
+"src": "FUVEST 2021",
+"num": 12,
+"stem": "Um marceneiro possui um pedaço de madeira no formato de um triângulo retângulo, cujos catetos medem 12 cm e 35 cm.\n A partir desta peça, ele precisa extrair o maior quadrado possível, de tal forma que um dos ângulos retos do quadrado coincida \n com o ângulo reto do triângulo. A medida do lado do quadrado desejado pelo marceneiro está mais próxima de",
+"desc": [],
+"alts": [
+"a) 8,0 cm",
+"b) 8,5 cm",
+"c) 9,0 cm",
+"d) 9,5 cm",
+"e) 10,0 cm"
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "FUVEST 2021",
+"num": 13,
+"stem": "Suponha, para simplificar, que a Terra é perfeitamente esférica e que a linha do Equador mede 40.000 km.\n O trajeto que sai do Polo Norte, segue até a linha do Equador pelo meridiano de Greenwich, depois se desloca ao longo\nda linha do Equador até o meridiano 45ºL e então retorna ao Polo Norte por esse meridiano tem comprimento total de",
+"desc": [],
+"alts": [
+"a) 15.000 km.",
+"b) 20.000 km.",
+"c) 25.000 km.",
+"d) 30.000 km.",
+"e) 35.000 km."
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "FUVEST 2021",
+"num": 2,
+"stem": "Qual dos gráficos representa uma relação entre as grandezas x e y em que y sempre diminui na medida em que x aumenta?",
+"desc": [],
+"alts": [
+"a) [IMAGE 0]",
+"b) [IMAGE 1]",
+"c) [IMAGE 2]",
+"d) [IMAGE 3]",
+"e) [IMAGE 4]"
+],
+"ans": "E",
+"figs": [
+"imgs/USP/2021/2/0.png",
+"imgs/USP/2021/2/1.png",
+"imgs/USP/2021/2/2.png",
+"imgs/USP/2021/2/3.png",
+"imgs/USP/2021/2/4.png"
+]
+},
+{
+"src": "FUVEST 2021",
+"num": 3,
+"stem": "[IMAGE 0] \n O quadrinho aborda o tema de números primos, sobre os quais é correto afirmar:",
+"desc": [],
+"alts": [
+"a) todos os números primos são impares",
+"b) existem, no máximo, 7 trilhões de números primos",
+"c) todo número da forma 2^(n+ 1), n pertencendo aos naturais, é primo",
+"d) entre 24 e 36, existem somente 2 números primos",
+"e) o número do quadrinho, 143, é um número primo"
+],
+"ans": "D",
+"figs": [
+"imgs/USP/2021/3/0.png"
+]
+},
+{
+"src": "FUVEST 2021",
+"num": 4,
+"stem": "[IMAGE 0]\nTrês triângulos equiláteros e dois quadrados formam uma figura plana, como ilustrado\n Seus centros são os vértices de um pentágono irregular, que está destacado na figura.\n Se T é a área de cada um dos triângulos e Q a área de cada um dos quadrados, a área desse pentágono é",
+"desc": [],
+"alts": [
+"a) T + Q",
+"b) (1/2)T + (1/2)Q",
+"c) T + (1/2)Q",
+"d) (1/3)T + (1/4)Q",
+"e) (1/3)T + (1/2)Q"
+],
+"ans": "C",
+"figs": [
+"imgs/USP/2021/4/0.png"
+]
+},
+{
+"src": "FUVEST 2021",
+"num": 5,
+"stem": "Um comerciante adotou como forma de pagamento uma máquina de cartões, \ncuja operadora cobra uma taxa de 6% em cada venda. Para continuar recebendo exatamente o mesmo valor por cada produto, \nele resolveu aplicar um reajuste nos preços de todos os produtos da loja. Se P era o valor de uma mercadoria antes da\n adoção da máquina, o novo valor V deve ser calculado por",
+"desc": [],
+"alts": [
+"a) V = P + 0,06",
+"b) V = 0,94 · 1,06 · P",
+"c) V = 1,6 · P",
+"d) V = P/0,94",
+"e) V = 0,94 · P"
+],
+"ans": "A",
+"figs": []
+},
+{
+"src": "FUVEST 2021",
+"num": 6,
+"stem": "Uma treinadora de basquete aplica o seguinte sistema de pontuação em seus treinos\n de arremesso à cesta: cada jogadora recebe 5 pontos por arremesso acertado e perde 2 pontos por arremesso errado.\n Ao fim de 50 arremessos, uma das jogadoras contabilizou 124 pontos. Qual é a diferença entre as quantidades \nde arremessos acertados e errados dessa jogadora?",
+"desc": [],
+"alts": [
+"a) 12",
+"b) 14",
+"c) 16",
+"d) 18",
+"e) 20"
+],
+"ans": "B",
+"figs": []
+},
+{
+"src": "FUVEST 2021",
+"num": 7,
+"stem": "Alice quer construir um paralelepípedo reto retângulo de dimensões 60 cm x 24 cm x 18 cm, com a menor quantidade possível de cubos idênticos cujas medidas das arestas são números naturais. Quantos cubos serão necessários para construir esse paralelepípedo?",
+"desc": [],
+"alts": [
+"a) 60",
+"b) 72",
+"c) 80",
+"d) 96",
+"e) 120"
+],
+"ans": "E",
+"figs": []
+},
+{
+"src": "FUVEST 2021",
+"num": 8,
+"stem": "Um aplicativo de videoconferências estabelece, para cada reunião, \num código de 10 letras, usando um alfabeto completo de 26 letras. \nA quantidade de códigos distintos possíveis está entre",
+"desc": [],
+"alts": [
+"a) 10 bilhões e 100 bilhões.",
+"b) 100 bilhões e 1 trilhão.",
+"c) 1 trilhão e 10 trilhões.",
+"d) 10 trilhões e 100 trilhões.",
+"e) 100 trilhões e 1 quadrilhão."
+],
+"ans": "E",
+"figs": []
+},
+{
+"src": "FUVEST 2021",
+"num": 9,
+"stem": "[IMAGE 0]\nNa figura, os segmentos AC e DE são paralelos entre si e perpendiculares ao segmento CD;\n o ponto B pertence ao segmento AC; F é o ponto médio do segmento AB e ABE é um triângulo equilátero.\n Além disso, o segmento BC mede 10 unidades de comprimento e o segmento AE mede 6 unidades de comprimento.\n A medida do segmento DF, em unidades de comprimento, é igual a",
+"desc": [],
+"alts": [
+"a) 14.",
+"b) 15.",
+"c) 16.",
+"d) 17.",
+"e) 18."
+],
+"ans": "A",
+"figs": [
+"imgs/USP/2021/9/0.png"
+]
+},
+{
+"src": "FUVEST 2022",
+"num": 30,
+"stem": "Atualmente, no Brasil, coexistem dois sistemas de placas de \nidentificação  de  automóveis:  o  padrão  Mercosul  (o  mais \nrecente) e aquele que se iniciou em 1990 (o sistema anterior, \nusado  ainda  pela  maioria  dos  carros  em  circulação).  No \nsistema anterior, utilizavam-se 3 letras (em um alfabeto de 26 \nletras)  seguidas  de  4  algarismos  (de  0  a  9).  No  padrão \nMercosul adotado no Brasil para automóveis, são usadas 4 \nletras e 3 algarismos, com 3 letras nas primeiras 3 posições e \na quarta letra na quinta posição, podendo haver repetições de \nletras ou de números. A figura ilustra os dois tipos de placas. \n [IMAGE 0] \nDessa forma, o número de placas possíveis do padrão Mercosul \nbrasileiro de automóveis é maior do que o do sistema anterior em",
+"desc": [],
+"alts": [
+"a) 1,5 vezes.",
+"b) 2 vezes.",
+"c) 2,6 vezes.",
+"d) 2,8 vezes.",
+"e) 3 vezes."
+],
+"ans": "C",
+"figs": [
+"imgs/USP/2022/30/2.png"
+]
+},
+{
+"src": "FUVEST 2022",
+"num": 31,
+"stem": "O sistema de numeração conhecido como chinês científico (ou \nem barras) surgiu provavelmente há mais de dois milênios. O \nsistema  é  essencialmente  posicional,  de  base  10,  com  o \nprimeiro  algarismo  à  direita  representando  a  unidade.  A \nprimeira linha horizontal de símbolos da figura mostra como \nse representam os algarismos 1, 2, 3, 4, 5, 6, 7, 8 e 9 quando \naparecem em posições ímpares (unidades, centenas etc.), e a \nsegunda linha quando tais algarismos aparecem em posições \npares (dezenas, milhares etc.). Nesse sistema, passou-se a \nusar um círculo para representar o algarismo zero a partir da \nDinastia Sung (960-1126). \n [IMAGE 3]\nHoward Eves, Introdução à História da Matemática. Tradução: Hygino H. \nDomingues. Editora Unicamp, 2011 (5ª ed.). \nAssinale a alternativa que representa o número 91625 nesse \nsistema de numeração.",
+"desc": [],
+"alts": [
+"a) [IMAGE 4]",
+"b) [IMAGE 5]",
+"c) [IMAGE 1]",
+"d) [IMAGE 0]",
+"e) [IMAGE 2]"
+],
+"ans": "A",
+"figs": [
+"imgs/USP/2022/31/4.jpg",
+"imgs/USP/2022/31/3.jpg",
+"imgs/USP/2022/31/5.jpg",
+"imgs/USP/2022/31/0.jpg",
+"imgs/USP/2022/31/1.jpg",
+"imgs/USP/2022/31/2.jpg"
+]
+},
+{
+"src": "FUVEST 2022",
+"num": 32,
+"stem": "Um  vídeo  tem  três  minutos  de  duração.  Se  o  vídeo  for \nreproduzido, desde o seu início, com velocidade de 1,5 vezes \na velocidade original, o tempo de reprodução do vídeo inteiro \nserá de",
+"desc": [],
+"alts": [
+"a) 1min30s.",
+"b) 1min50s.",
+"c) 2min00s.",
+"d) 2min30s.",
+"e) 2min50s."
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "FUVEST 2022",
+"num": 33,
+"stem": "Uma indústria produz três modelos de cadeiras (indicadas por \n𝑀1 ,𝑀2  e 𝑀3 ), cada um deles em duas opções de cores: preta \ne vermelha (indicadas por P e V, respectivamente). A tabela \nmostra  o  número  de  cadeiras  produzidas  semanalmente \nconforme a cor e o modelo: \n [IMAGE 3]\nAs  porcentagens  de  cadeiras  com  defeito  são  de  2%  do \nmodelo 𝑀1 , 5% do modelo 𝑀2  e 8% do modelo 𝑀3 . As cadeiras \nque não apresentam defeito são denominadas boas. \nA  tabela  que  indica  o  número  de  cadeiras  produzidas \nsemanalmente com defeito (D) e boas (B), de acordo com a \ncor, é:",
+"desc": [],
+"alts": [
+"a) [IMAGE 4]",
+"b) [IMAGE 5]",
+"c) [IMAGE 1]",
+"d) [IMAGE 0]",
+"e) [IMAGE 2]"
+],
+"ans": "C",
+"figs": [
+"imgs/USP/2022/33/4.jpg",
+"imgs/USP/2022/33/3.jpg",
+"imgs/USP/2022/33/5.jpg",
+"imgs/USP/2022/33/0.jpg",
+"imgs/USP/2022/33/1.jpg",
+"imgs/USP/2022/33/2.jpg"
+]
+},
+{
+"src": "FUVEST 2022",
+"num": 34,
+"stem": "Os  funcionários  de  um  salão  de  beleza  compraram  um \npresente  no  valor  de  R$  200,00  para  a  recepcionista  do \nestabelecimento. No momento da divisão igualitária do valor, \ndois deles desistiram de participar e, por causa disso, cada \npessoa que ficou no grupo precisou pagar R$ 5,00 a mais que \na quantia originalmente prevista. O valor pago por pessoa que \npermaneceu na divisão do custo do presente foi:",
+"desc": [],
+"alts": [
+"a) R$ 10,00",
+"b) R$ 15,00",
+"c) R$ 20,00",
+"d) R$ 25,00",
+"e) R$ 40,00"
+],
+"ans": "D",
+"figs": []
+},
+{
+"src": "FUVEST 2022",
+"num": 35,
+"stem": "Uma empresa construiu um poço para  armazenar água de \nreúso.  O  custo  para  construir  o  primeiro  metro  foi  de \nR$ 1.000,00, e cada novo metro custou R$ 200,00 a mais do que \no imediatamente anterior. Se o custo total da construção foi de \nR$ 48.600,00, a profundidade do poço é:",
+"desc": [],
+"alts": [
+"a) 15 m",
+"b) 18 m",
+"c) 21 m",
+"d) 24 m",
+"e) 27 m"
+],
+"ans": "B",
+"figs": []
+},
+{
+"src": "FUVEST 2022",
+"num": 36,
+"stem": "Note e adote: \nEm poliedros convexos, vale a relação de Euler 𝐹−𝐴+𝑉 = 2, em que 𝐹 \né o número de faces, 𝐴 é o número de arestas e 𝑉 é o número de vértices \ndo poliedro.\nUm deltaedro é um poliedro cujas faces são todas triângulos \nequiláteros. Se um deltaedro convexo possui 8 vértices, então \no número de faces desse deltaedro é:",
+"desc": [],
+"alts": [
+"a) 4",
+"b) 6",
+"c) 8",
+"d) 10",
+"e) 12"
+],
+"ans": "E",
+"figs": []
+},
+{
+"src": "FUVEST 2022",
+"num": 37,
+"stem": "A figura mostra um quadrado e um círculo, ambos com centro no \nponto 𝑂. O quadrado tem lado medindo 1 unidade de medida \n(u.m.) e o círculo tem raio igual a 2 u.m. O ponto 𝐴 está sobre o \ncontorno do quadrado, o ponto 𝐵 está sobre o contorno do círculo, \ne o segmento 𝐴𝐵 tem tamanho 2 u.m. \n [IMAGE 0] \nQuando o ângulo 𝜃 = 𝐴𝑂𝐵 for máximo, seu cosseno será:",
+"desc": [],
+"alts": [
+"a)   1/8",
+"b)   1/4",
+"c)   1/2",
+"d)   √2/2",
+"e)   √3/2"
+],
+"ans": "A",
+"figs": [
+"imgs/USP/2022/37/0.jpg"
+]
+},
+{
+"src": "FUVEST 2022",
+"num": 38,
+"stem": "Suponha que o polinômio p(x) = x^3 +𝑚x -2, em que 𝑚 é \num número real, tenha uma raiz real dupla 𝑎 e uma raiz real \nsimples 𝑏. O valor da soma de 𝑚 com 𝑎 é:",
+"desc": [],
+"alts": [
+"a) 0",
+"b) -1",
+"c) -2",
+"d) -3",
+"e) -4"
+],
+"ans": "E",
+"figs": []
+},
+{
+"src": "FUVEST 2022",
+"num": 39,
+"stem": "Quatro  tanques  cilíndricos  são  vistos  de  cima  (em  planta \nbaixa) conforme a figura. Todos têm 10 m de raio e seus \ncentros  se  posicionam  em  vértices  dos  dois  quadrados \ntracejados adjacentes, ambos com 30 m de lado. Uma fita de \nisolamento, esticada e paralela ao solo, envolve os 4 tanques, \ndando uma volta completa (linha em laranja na figura). \n [IMAGE 0] \nO comprimento da fita, em metros, é:",
+"desc": [],
+"alts": [
+"a) 20𝜋 +30(3 +√2)",
+"b) 20𝜋 +30(4+√2)",
+"c) 25𝜋 +15(4+√2)",
+"d) 25𝜋 +30(4+√2)",
+"e) 25𝜋 +30(4 +2√2)"
+],
+"ans": "B",
+"figs": [
+"imgs/USP/2022/39/0.png"
+]
+},
+{
+"src": "FUVEST 2022",
+"num": 41,
+"stem": "A  quantidade  de  bactérias  em  um  líquido  é  diretamente \nproporcional à medida da turbidez desse líquido. O gráfico \nmostra, em escala logarítmica, o crescimento da turbidez 𝑥 de \num líquido ao longo do tempo 𝑡 (medido em minutos), isto é, \nmostra log10(𝑥) em função de 𝑡. Os dados foram coletados de \n30 em 30 minutos, e uma curva de interpolação foi obtida \npara inferir valores intermediários. \n [IMAGE 0] \nDisponível em https://fankhauserblog.wordpress.com/. \nCom  base  no  gráfico,  em  quantas  vezes  a  população  de \nbactérias aumentou, do instante 𝑡0  para o instante 𝑡1 ?",
+"desc": [],
+"alts": [
+"a) 2",
+"b) 4",
+"c) 5",
+"d) 10",
+"e) 100"
+],
+"ans": "D",
+"figs": [
+"imgs/USP/2022/41/1.png"
+]
+},
+{
+"src": "FUVEST 2022",
+"num": 5,
+"stem": "O gráfico mostra dados coletados na cidade do Rio de Janeiro, \nentre fevereiro e abril de 2020, período que inclui o início das \nmedidas  de  restrição  de  circulação  na  cidade  por  causa  da \npandemia  de  COVID-19.  Para  cada  dia,  representado  por  um \nsímbolo no gráfico, foram coletadas duas grandezas: uma média \nda energia de vibração sísmica durante o dia (na abscissa) e o índice \n𝐹 (na ordenada), que é a fração de pessoas que saiu de casa \nalguma vez naquele dia. A energia sísmica média foi medida em \n(nm/s)2 na faixa de frequências que tem causas humanas. Os \ntriângulos  representam  domingos  e  feriados;  os  quadrados \nreferem-se aos sábados; e os círculos correspondem aos dias úteis \nda semana. Para cada um desses subconjuntos de dados, uma reta \nmédia foi obtida, expressando a relação aproximada entre as duas \ngrandezas medidas. \n [IMAGE 0]\nDias, F L et al. (2020), Geophysical Research Letters, 47:16, \ndoi:10.1029/2020GL088748. Adaptado. \nSobre o estudo descrito, o que é possível inferir a partir dos dados \napresentados?",
+"desc": [],
+"alts": [
+"a)  Em  nenhum  sábado,  a  energia  sísmica  média  registrada \nsuperou 380 (nm/s)2.",
+"b) Em todos os dias úteis da semana, pelo menos 20% das pessoas \npermaneceram o tempo todo em casa.",
+"c) Em alguns dos dias de domingo ou feriado, a energia sísmica \nmédia foi maior do que 600 (nm/s)2.",
+"d) Em dias úteis da semana, a energia sísmica média foi maior ou \nigual do que em sábados, domingos e feriados, para o mesmo \nnúmero de pessoas que saiu de casa em um dia.",
+"e)  Aos  sábados,  uma  medição  de  energia  sísmica  média  de \n190 (nm/s)2 indica que mais de 60% das pessoas saíram de casa \nnesse dia."
+],
+"ans": "D",
+"figs": [
+"imgs/USP/2022/5/1.jpg"
+]
+},
+{
+"src": "FUVEST 2022",
+"num": 57,
+"stem": "Note e adote: \nO valor obtido, embora da ordem de magnitude correta, não é o mesmo \ncalculado por estimativas mais precisas.\nEm virtude do movimento das placas tectônicas, a distância entre \na América do Sul e a África aumenta, nos dias atuais, cerca de \n2,0 cm a cada ano. Supondo que essa velocidade tivesse sido \nconstante ao longo do tempo, e tomando uma distância atual de \ncerca  de  5.000 km  entre  os  limites  dessas  duas  massas \ncontinentais, indique a melhor estimativa para quanto tempo \nteria transcorrido desde quando ambas estavam unidas em um \núnico supercontinente.",
+"desc": [],
+"alts": [
+"a) 250.000 anos",
+"b) 2.500.000 anos",
+"c) 25.000.000 anos",
+"d) 250.000.000 anos",
+"e) 2.500.000.000 anos"
+],
+"ans": "D",
+"figs": []
+},
+{
+"src": "FUVEST 2023",
+"num": 38,
+"stem": "Na teoria musical, o intervalo entre duas notas é medido pela\nrazão entre suas frequências (medidas em Hz). Na escala\npitagórica, os intervalos de um tom e de um semitom\ncorrespondem, respectivamente, às razões 9/8 e 256/243. A soma\nde intervalos corresponde ao produto das razões. Por\nexemplo, no intervalo de dois tons, a razão entre as\nfrequências é de (9/8)*(9/8) = (81/4).\n [IMAGE 0] \nEm um instrumento afinado de acordo com a escala\npitagórica, se o intervalo entre uma nota de 220 Hz e outra de\n990 Hz é composto por n tons e 𝑚 semitons, a soma 𝑚 + n é\nigual a:",
+"desc": [],
+"alts": [
+"a) 13",
+"b) 14",
+"c) 15",
+"d) 16",
+"e) 17"
+],
+"ans": "C",
+"figs": [
+"imgs/USP/2023/38/0.jpg"
+]
+},
+{
+"src": "FUVEST 2023",
+"num": 39,
+"stem": "Um ladrilhamento é chamado de uniforme se é composto por\npolígonos regulares que preenchem todo o plano sem\nsobreposição e, além disso, o padrão é o mesmo em cada\nvértice. Para classificá-los, utilizamos uma notação dada por\numa sequência de números que é definida desta forma:\nescolhemos um vértice qualquer e indicamos o número de\nlados de cada polígono que contém este vértice, seguindo o\nsentido anti-horário, iniciando com os polígonos de menos\nlados, conforme os exemplos: \n [IMAGE 0] \n [IMAGE 1] \nA foto mostra o piso de um museu em Sevilha.\n [IMAGE 2] \nA notação que representa o padrão do ladrilhamento do piso\né:",
+"desc": [],
+"alts": [
+"a) (3 . 3 . 3 . 4)",
+"b) (3 . 3 . 4 . 6)",
+"c) (3 . 4 . 4 . 4)",
+"d) (3 . 4 . 4 . 6)",
+"e) (3 . 4 . 6 . 4)"
+],
+"ans": "E",
+"figs": [
+"imgs/USP/2023/39/0.jpg",
+"imgs/USP/2023/39/1.jpg",
+"imgs/USP/2023/39/2.jpg"
+]
+},
+{
+"src": "FUVEST 2023",
+"num": 40,
+"stem": "Dado um número natural n ≥ 2, o primorial de n, denotado\npor n#, é o produto de todos os números primos menores\nque ou iguais a n. Por exemplo,\n6# = 2 ⋅ 3 ⋅ 5 = 30.\nO menor número da forma n# que é maior que 2000 é:",
+"desc": [],
+"alts": [
+"a) 2300",
+"b) 2305",
+"c) 2310",
+"d) 2312",
+"e) 2322"
+],
+"ans": "C",
+"figs": []
+},
+{
+"src": "FUVEST 2023",
+"num": 68,
+"stem": "O gráfico mostra a quantidade de emissão de CO2 (em bilhões\nde toneladas) em função do ano.\n [IMAGE 0] \nDisponível em https://www.bbc.com/. Adaptado.\nO total de emissão de CO2, em bilhões de toneladas, entre os\nanos de 1950 e 1990, está entre",
+"desc": [],
+"alts": [
+"a) 1 e 5.",
+"b) 5 e 100.",
+"c) 100 e 300.",
+"d) 300 e 800.",
+"e) 800 e 1000."
+],
+"ans": "D",
+"figs": [
+"imgs/USP/2023/68/0.jpg"
+]
+},
+{
+"src": "FUVEST 2023",
+"num": 72,
+"stem": "André e Bianca possuem automóveis que podem ser\nabastecidos com etanol, gasolina ou uma mistura dos dois\ncombustíveis. Em um mesmo posto de combustível, André\nabasteceu seu carro com 18 litros da bomba de etanol e 32\nlitros da bomba de gasolina; já Bianca abasteceu seu carro\ncom 30 litros da bomba de etanol e 20 litros da bomba de\ngasolina. Sabendo que o valor total pago por André foi 10%\nmaior do que o pago por Bianca, a razão entre os preços, por\nlitro, de etanol e de gasolina é:",
+"desc": [],
+"alts": [
+"a) 5/8",
+"b) 2/3",
+"c) 7/10",
+"d) 3/4",
+"e) 4/5"
+],
+"ans": "B",
+"figs": []
+},
+{
+"src": "FUVEST 2023",
+"num": 80,
+"stem": "Em uma feira de produtos orgânicos é vendido arroz a granel.\nA gerente da feira decidiu oferecer descontos progressivos na\nvenda de arroz, de acordo com os seguintes critérios:\n Quem comprar exatamente 1 kg de arroz paga\nR$ 5,00.\n Quanto maior for a quantidade que o cliente\ncomprar, maior será o total a pagar.\n Quanto maior for a quantidade que o cliente\ncomprar, menor será o valor por quilo.\nCada uma das alternativas listadas apresenta uma possível\nfórmula para o total que o cliente irá pagar, em reais, se\ncomprar uma quantidade x, em quilos, de arroz. A única\nalternativa que atende aos critérios estabelecidos é:",
+"desc": [],
+"alts": [
+"a) 5x^2",
+"b) 5√x",
+"c) 5/x",
+"d) 5x",
+"e) 5x - x^2"
+],
+"ans": "B",
+"figs": []
+},
+{
+"src": "FUVEST 2023",
+"num": 81,
+"stem": "Joana comprou um celular e dividiu o pagamento em 24\nparcelas mensais que formam uma progressão aritmética\ncrescente. As três primeiras parcelas foram de R$ 120,00,\nR$ 126,00 e R$ 132,00. Sabendo que, ao final, constatou-se\nque Joana não pagou a 19ª parcela, o valor pago por ela foi:",
+"desc": [],
+"alts": [
+"a) R$ 3.954,00",
+"b) R$ 4.026,00",
+"c) R$ 4.200,00",
+"d) R$ 4.308,00",
+"e) R$ 4.382,00"
+],
+"ans": "D",
+"figs": []
+},
+{
+"src": "FUVEST 2023",
+"num": 82,
+"stem": "Note e adote:\nlog102 2 = 0,3\nA FIFA (Federação Internacional de Futebol) implementou, em\n2018, a versão mais recente do ranking das seleções. Suponha\nque as seleções A e B, com pontuações PA e PB,\nrespectivamente, disputarão uma final de Copa do Mundo.\nA pontuação atualizada da seleção A após a partida será dada\npor\n\nP'A = PA + 60(VA - EA),\nonde \n\nEA = (10*(PA-Pb)/600)/(1 + 10*(PA-PB)/600)\n\ne o valor de VA depende do resultado da partida de acordo\ncom a tabela:\n [IMAGE 0] \nSabendo que PA - PB = 360, se a seleção A vencer a partida,\nsua pontuação aumentará em",
+"desc": [],
+"alts": [
+"a) 6 pontos.",
+"b) 10 pontos.",
+"c) 12 pontos.",
+"d) 15 pontos.",
+"e) 20 pontos."
+],
+"ans": "C",
+"figs": [
+"imgs/USP/2023/82/0.jpg"
+]
+},
+{
+"src": "FUVEST 2023",
+"num": 83,
+"stem": "Um professor precisa elaborar uma prova multidisciplinar que\nconsta de duas questões de Matemática e seis de Física. Ele\ndeve escolher questões de um banco de dados que contém\ntrês questões de Matemática e oito de Física. O número de\nprovas distintas possíveis, sem levar em conta a ordem em\nque as questões aparecem, é:",
+"desc": [],
+"alts": [
+"a) 42",
+"b) 54",
+"c) 62",
+"d) 72",
+"e) 84"
+],
+"ans": "E",
+"figs": []
+},
+{
+"src": "FUVEST 2023",
+"num": 88,
+"stem": "Para medir o volume de uma pedra com formato irregular,\nAna utilizou um recipiente cilíndrico de raio r = 8 𝑐𝑚 e com\nágua até a altura de 20 𝑐𝑚. Após colocar a pedra no\nrecipiente, a altura da água subiu para 23,5 𝑐𝑚.\n [IMAGE 0] \nO volume da pedra é:",
+"desc": [],
+"alts": [
+"a) 128𝜋 c𝑚3",
+"b) 224𝜋 c𝑚3",
+"c) 240𝜋 c𝑚3",
+"d) 282𝜋 c𝑚3",
+"e) 320𝜋 c𝑚3"
+],
+"ans": "B",
+"figs": [
+"imgs/USP/2023/88/0.jpg"
+]
+},
+{
+"src": "FUVEST 2023",
+"num": 89,
+"stem": "Considere a região do plano cartesiano\n? A = {(x,y) ∈ R^2: |x| + |y| ≤ 1} \nesboçada na figura.\n [IMAGE 0] \nDado B = {(x,y) ∈ R^2: (x + 1)^2 + y^2 ≥ 1}, a área da região\nA ∩ B é:",
+"desc": [],
+"alts": [
+"a) 2 - π/4",
+"b) 2 - π/2",
+"c) 4 + π/2",
+"d) 4 - π/4",
+"e) 2 + π/2"
+],
+"ans": "A",
+"figs": [
+"imgs/USP/2023/89/1.jpg"
+]
+},
+{
+"src": "FUVEST 2023",
+"num": 90,
+"stem": "No plano cartesiano, os pontos (3,2) e (5,4) pertencem ao\ngráfico da função dada por\ny = log_2 (ax + b).\nO valor de a + b é:",
+"desc": [],
+"alts": [
+"a) -8",
+"b) -6",
+"c) 0",
+"d) 4",
+"e) 8"
+],
+"ans": "A",
+"figs": []
+},
+{
+"src": "FUVEST 2024",
+"num": 13,
+"stem": "Matrizes podem ser usadas para se obter informações sobre \numa rede social. Para compreender como isso pode ser feito, \nconsideremos  como  exemplo  uma  pequena  rede  social \nformada por 4 pessoas: 𝑃_1 ,𝑃_2 ,𝑃_3 ,𝑃_4 . A matriz associada a essa \nrede social é a matriz 4×4: \n [IMAGE 0] \nO valor 1 (um) na posição 𝑎_32  (linha 3, coluna 2) da matriz \nsignifica que a pessoa 𝑃_3  segue a pessoa 𝑃2 , ao passo que o \nvalor 0 (zero) na posição 𝑎24  (linha 2, coluna 4) significa que a \npessoa  𝑃2   não  segue  a  pessoa  𝑃4.  O  valor  0  (zero)  será \natribuído às posições 𝑎_ii . O significado do valor da posição \n𝑏_mn   da  matriz  produto  𝑀×𝑀 = 𝑀^2 é  a  quantidade  de \nconexões da pessoa 𝑃_n até a pessoa 𝑃_m  passando exatamente \npor uma pessoa, diferente delas duas, que chamaremos de \nconexão de grau 2. \nDessa forma, os valores das posições da matriz 𝑀^2 podem \nrefletir  o  alcance  da  rede  social,  suas  potencialidades  e \nfraquezas, a influência de certos membros dela, dentre outros \naspectos.\n Note e adote: \nA posição 𝑏_mn da matriz produto 𝑀×𝑀 = 𝑀^2 é dada pela expressão\n𝑏_mn = 𝑎_m1 * 𝑎_1n + 𝑎_m2 * 𝑎_2n + 𝑎_m3 * 𝑎_3n + 𝑎_m4 * 𝑎_4n.\nCom relação à rede social apresentada, é correto afirmar que:",
+"desc": [],
+"alts": [
+"a) Existem 5 pares de pessoas diferentes (𝑃_i ≠ 𝑃_j) que não \npossuem conexões de grau 2.",
+"b) Existem  6  pares  de  pessoas  diferentes  (𝑃_i ≠ 𝑃_j)  que \npossuem apenas uma conexão de grau 2.",
+"c) Existem  3  pares  de  pessoas  diferentes  (𝑃_i ≠ 𝑃_j)  que \npossuem 2 conexões de grau 2 diferentes.",
+"d) Existem 3 pessoas que possuem conexões de grau 2 com \ntodas as outras pessoas da rede social.",
+"e) Existe apenas 1 pessoa 𝑃_i (𝑖  ≠ 3) tal que 𝑃_i e 𝑃_3  seguem-se \n mutuamente."
+],
+"ans": "B",
+"figs": [
+"imgs/USP/2024/13/0.jpg"
+]
+},
+{
+"src": "FUVEST 2024",
+"num": 31,
+"stem": "O reservatório de um caminhão-pipa tem a forma de um \ncilindro circular reto com eixo horizontal e dimensões internas \nde 6 metros de comprimento e 2 metros de diâmetro. Uma \nescola contratou o serviço do caminhão-pipa para abastecer \nsua  caixa  d'água.  Após  o  abastecimento,  o  motorista \npercebeu que o reservatório do caminhão estava cheio até \n3/4 de sua altura, conforme ilustrado na figura. \n [IMAGE 0] \nQual foi o volume, em metros cúbicos, de água utilizada para \nabastecer  a  caixa  d'água  da  escola,  sabendo  que  o \nreservatório  do  caminhão  estava  cheio  antes  do \nabastecimento? \n(cid:2871)",
+"desc": [],
+"alts": [
+"a) (2π - √3/4)",
+"b) (2π - 3*√3/2)",
+"c) (2π + 3*√3/2)",
+"d) (4π + √3/4)",
+"e) (4π + 3*√3/2)"
+],
+"ans": "B",
+"figs": [
+"imgs/USP/2024/31/0.jpg"
+]
+},
+{
+"src": "FUVEST 2024",
+"num": 33,
+"stem": "Uma  empresa  farmacêutica  produz  certo  medicamento,  o \nqual é formado por quatro componentes, conforme indicado \nna tabela I. O custo do grama de cada um dos componentes \ndesse medicamento também é apresentado nessa tabela. \nTabela I \nComposição do medicamento | Quantidade (em mg) | Custo (em R$/g) \nComponente A | 200 | 700 \nComponente B | 70 | 500 \nComponente C | 130 | 300 \nComponente D | 100 | 120\nPara a produção do próximo lote do medicamento, a empresa \nterá um gasto diferente para fabricá-lo, pois os custos de \nalguns componentes sofreram alterações, conforme mostra a \ntabela II. \nTabela II \nComposição do medicamento | Variação no custo (em %)\nComponente A | +7\nComponente B | -5\nComponente C | 0\nComponente D | +10\nNote e adote: Considere que os outros custos de produção permaneceram inalterados.\nQual é o aumento, em reais, no custo do medicamento?",
+"desc": [],
+"alts": [
+"a) 9,25 ",
+"b) 12,00",
+"c) 12,75",
+"d) 36,00",
+"e) 86,00"
+],
+"ans": "A",
+"figs": []
+},
+{
+"src": "FUVEST 2024",
+"num": 34,
+"stem": "Os conceitos de moda, mediana, média e amplitude definem \nmedidas utilizadas para estudar um conjunto de informações \nnuméricas. Por exemplo, na lista de 5 números (2, 2, 4, 8, 14), \ntemos que a moda é igual a 2, a mediana é igual a 4, a média \né igual 6 e a amplitude é igual a 12. \nAssinale a alternativa que representa a quantidade de listas \nde 5 números inteiros positivos que cumprem a condição: \nmoda = mediana = média = amplitude = 23.",
+"desc": [],
+"alts": [
+"a) 8",
+"b) 9",
+"c) 11",
+"d) 22",
+"e) 44"
+],
+"ans": "A",
+"figs": []
+},
+{
+"src": "FUVEST 2024",
+"num": 35,
+"stem": "Um  relógio  digital  utiliza  os  seguintes  numerais  para \nrepresentar um determinado horário: \n[IMAGE 0]\nEsse relógio está colocado sobre uma mesa de vidro, de forma \nque  o  vidro  reflete  o  horário  em  sua  superfície.  A  figura \nmostra um exemplo dessa situação: \n[IMAGE 1]\nDe 00:00 até as 23:59, quantas vezes o vidro refletirá um \nhorário válido?",
+"desc": [],
+"alts": [
+"a) 96",
+"b) 360",
+"c) 540",
+"d) 640",
+"e) 960"
+],
+"ans": "B",
+"figs": [
+"imgs/USP/2024/35/0.jpg",
+"imgs/USP/2024/35/1.jpg"
+]
+},
+{
+"src": "FUVEST 2024",
+"num": 48,
+"stem": "Uma empresa de alimentos utiliza embalagens, no formato de \nparalelepípedo reto-retângulo, de dimensões 2 cm x 3 cm x \n11 cm,  para  armazenar  biscoitos.  Para  o  transporte  desse \nproduto,  são  utilizadas  caixas  para  acondicionar  essas \nembalagens,  também  no  formato  de  paralelepípedo  reto-\nretângulo, de dimensões 12 cm x 13 cm x 26 cm. A imagem a \nseguir ilustra um paralelepípedo reto-retângulo. \n[IMAGE 0]\nDetermine o número máximo de embalagens que podem ser \nacondicionadas em cada caixa fechada para transporte, sem \nque o produto seja danificado.",
+"desc": [],
+"alts": [
+"a) 48",
+"b) 52",
+"c) 56",
+"d) 60",
+"e) 61"
+],
+"ans": "D",
+"figs": [
+"imgs/USP/2024/48/1.jpg"
+]
+},
+{
+"src": "FUVEST 2024",
+"num": 49,
+"stem": "No Código de Obras e Edificações da Prefeitura de São Paulo, \nencontra-se a regulamentação para vagas de estacionamento \nem um edifício para diferentes tipos de veículos. De acordo \ncom o código, as dimensões de uma vaga de estacionamento \nsão estabelecidas de acordo com o tipo de veículo, conforme \na seguinte tabela: \nTabela: Dimensões das vagas de estacionamento em função do tipo \nde veículo (medidas em metros).\n[IMAGE 0] \nCódigo de Obras e Edificações da Prefeitura de São Paulo. Adaptado. \nNa figura a seguir, é apresentada parte de um projeto de \ngaragem  para  um  edifício.  Foram  projetadas  vagas  para \nautomóveis  e  uma  vaga  para  moto,  no  formato  de \nparalelogramo, com ângulo α de medida 60°. \n[IMAGE 1]\nObservação: A imagem não está em escala.\nApós a vaga da moto, restou um espaço na garagem. Os \nresponsáveis pela obra estão avaliando a possibilidade de \ncolocar  algum  objeto  que  possa  ser  utilizado  pelos \ncondôminos  do  edifício.  Qual  a  medida  do  segmento \ndestacado (tracejado) nesse espaço? Note e adote: \ncos (60°) = 0,5 ;  sen (60°) =  √3/2",
+"desc": [],
+"alts": [
+"a) 0,75 m",
+"b) 1,15 m",
+"c) 1,25 m",
+"d) 2,20 m",
+"e) 2,25 m"
+],
+"ans": "C",
+"figs": [
+"imgs/USP/2024/49/0.jpg",
+"imgs/USP/2024/49/1.jpg"
+]
+},
+{
+"src": "FUVEST 2024",
+"num": 59,
+"stem": "Considere a função 𝑓, dada por 𝑓(𝑥) = 𝑏^x, com 𝑏 > 0,𝑏 ≠ 1 \ne 𝑥 ∈ ℝ, e a sua inversa 𝑓^(-1) A figura destaca dois pontos, um \npertencente  ao  gráfico  de  𝑓  e  outro  ao  gráfico  de  𝑓^(-1). \nDetermine 𝑏 + 𝑘.\n [IMAGE 0]",
+"desc": [],
+"alts": [
+"a) 5/6",
+"b) 1",
+"c) 6/5",
+"d) 13/5",
+"e) 18/5"
+],
+"ans": "D",
+"figs": [
+"imgs/USP/2024/59/1.jpg"
+]
+},
+{
+"src": "FUVEST 2024",
+"num": 60,
+"stem": "\nConsidere  o  sistema  linear:\n 𝑥 +2𝑦 = 4\n 3𝑥 −𝑦 = 5.  Assinale  a \nalternativa que representa graficamente esse sistema.",
+"desc": [],
+"alts": [
+"a) [IMAGE 0]",
+"b) [IMAGE 1]",
+"c) [IMAGE 2]",
+"d) [IMAGE 3]",
+"e) [IMAGE 4]"
+],
+"ans": "E",
+"figs": [
+"imgs/USP/2024/60/0.jpg",
+"imgs/USP/2024/60/1.jpg",
+"imgs/USP/2024/60/2.jpg",
+"imgs/USP/2024/60/3.jpg",
+"imgs/USP/2024/60/4.jpg"
+]
+},
+{
+"src": "FUVEST 2024",
+"num": 62,
+"stem": "Os domínios morfoclimáticos e fitogeográficos propostos pelo \ngeógrafo  Aziz  Nacib  Ab´Sáber  nos  anos  1960  continuam \nválidos  na  atualidade.  Representam  um  mapeamento  do \nterritório brasileiro, na escala zonal, onde foram identificados \nseis grandes domínios, além de uma faixa denominada de \ntransição,  que  sintetizam  os  elementos  do  clima,  da \nvegetação, do solo, do relevo e outros atributos presentes na \npaisagem. Observe as imagens: \n [IMAGE 0] \n(1) \n [IMAGE 1]\n(2) \n[IMAGE 2]\n(3) \nAB'SÁBER, Aziz Nacib. Os domínios de natureza no Brasil. Potencialidades \npaisagísticas. São Paulo: Ateliê Editorial, 2003. \nAs  imagens  representam  aspectos  paisagísticos  dos  tipos \nclimáticos  semiárido  (1),  tropical  (2)  e  subtropical  (3), \npresentes,  respectivamente,  nos  seguintes  domínios \nmorfoclimáticos:",
+"desc": [],
+"alts": [
+"a) Caatingas, Cerrado e Araucárias.",
+"b) Pradarias, Caatingas e Amazônico.",
+"c) Cerrado, Caatingas e Pradarias.",
+"d) Mares de Morros, Pradarias e Amazônico.",
+"e) Cerrado, Araucárias e Mares de Morros."
+],
+"ans": "A",
+"figs": [
+"imgs/USP/2024/62/0.jpg",
+"imgs/USP/2024/62/1.jpg",
+"imgs/USP/2024/62/2.jpg"
+]
+},
+{
+"src": "FUVEST 2024",
+"num": 63,
+"stem": "Uma Árvore Pitagórica é uma figura plana que é construída \npor etapas. Na Etapa 1, ela começa com um quadrado de lado \n1 cm. Na Etapa 2, constroem-se dois quadrados acima do \nquadrado da Etapa 1, de tal forma que a medida de seus lados \nseja  igual  à  medida  dos  catetos  do  triângulo  retângulo \nisósceles que possui hipotenusa igual ao lado do quadrado da \nEtapa 1. Na Etapa 3, aplica-se a Etapa 2 em cada um dos novos \nquadrados obtidos, e assim por diante. Ou seja, em cada nova \netapa,  aplica-se  a  etapa  anterior  em  cada  um  dos  novos \nquadrados obtidos. A figura a seguir exibe as quatro primeiras \netapas da construção da Árvore Pitagórica.\n [IMAGE 0] \nDomínio público. Disponível em https://commons.wikimedia.org/. \nA partir de qual etapa da construção o lado de cada um dos \nnovos quadrados obtidos fica, pela primeira vez, menor do \nque 1 décimo de milésimo do lado do quadrado da Etapa 1?\n Note e adote: 𝑙𝑜𝑔_10 (2) = 0,3",
+"desc": [],
+"alts": [
+"a) 26",
+"b) 27",
+"c) 28",
+"d) 29",
+"e) 30"
+],
+"ans": "C",
+"figs": [
+"imgs/USP/2024/63/0.jpg"
+]
+},
+{
+"src": "FUVEST 2024",
+"num": 84,
+"stem": "O Atlas da Violência, publicado em 2019 e organizado pelo \nInstituto de Pesquisa Econômica Aplicada e Fórum Brasileiro \nde  Segurança  Pública,  apresenta  um  estudo  para  melhor \ncompreender a violência no país. Os dados que ali constam \nreferem-se ao período de 2007 a 2017. Um dos capítulos \ndesse documento trata, especificamente, da violência contra \na mulher. O gráfico a seguir mostra a evolução da taxa de \nhomicídios  de  mulheres  (equivalente  ao  número  de \nhomicídios por 100 mil mulheres), de 2007 a 2017, no Brasil e \nnas três unidades federativas com as menores taxas em 2017. \n[IMAGE 0]\nIpea/FBSP. Atlas da Violência, 2019.  \nDe acordo com os dados apresentados, é correto afirmar:",
+"desc": [],
+"alts": [
+"a) Dentre as unidades federativas citadas, a que teve maior \ndecréscimo na taxa de homicídios de mulheres no período \nentre 2014 e 2017 foi São Paulo.",
+"b) As  três  unidades  federativas  indicadas  tiveram  um \ndecréscimo na taxa de homicídios de mulheres em 2017 \nquando comparada com a taxa de 2007.",
+"c) A taxa de homicídios de mulheres no Brasil em 2017 é \nmaior que a soma das taxas das três unidades federativas \napresentadas neste mesmo ano.",
+"d) Dentre  as  unidades  federativas  apontadas,  a  que \napresentou a maior taxa de homicídios de mulheres em \n2017 é Santa Catarina, superando a taxa registrada nos \ndemais estados da região Sul.",
+"e) Dentre  as  unidades  federativas  mencionadas,  a  maior \nredução na taxa de homicídios de mulheres, entre 2016 e \n2017, registrada na pesquisa ocorreu no Distrito Federal."
+],
+"ans": "E",
+"figs": [
+"imgs/USP/2024/84/0.jpg"
+]
+},
+{
+"src": "FUVEST 2024",
+"num": 85,
+"stem": "Números figurados são números que expressam o total de \npontos em certas configurações geométricas. Um exemplo de \nnúmeros figurados são os triangulares, os quais são números \nnaturais que podem ser representados geometricamente na \nforma  de  um  triângulo.  Os  quatro  primeiros  números \ntriangulares estão ilustrados na figura I. Apesar de o número \n1 não representar um triângulo, ele é considerado um número \ntriangular. \n [IMAGE 0] \nFigura I \nOutro exemplo de número figurado é o número oblongo, o \nqual representa o total de pontos de um quadro retangular \nem que o número de colunas é uma unidade a mais do que o \nnúmero de linhas. Os quatro primeiros números oblongos \nestão  ilustrados  na  figura  II.  Apesar  de  o  número  2  não \nrepresentar  um  quadro  retangular,  ele  é  considerado  um \nnúmero oblongo. \n [IMAGE 1]\nFigura II \nA  respeito  de  números  triangulares  e  números  oblongos, \nassinale a alternativa correta.",
+"desc": [],
+"alts": [
+"a) 162 é o 15º número triangular.",
+"b) O 13º número triangular é primo e o 30º número oblongo \né ímpar.",
+"c) 156 não é um número oblongo, nem triangular.",
+"d) 210 é um número triangular e oblongo.",
+"e) A diferença entre dois números triangulares consecutivos \nsão termos de uma progressão geométrica."
+],
+"ans": "D",
+"figs": [
+"imgs/USP/2024/85/0.jpg",
+"imgs/USP/2024/85/1.jpg"
+]
+}
+]

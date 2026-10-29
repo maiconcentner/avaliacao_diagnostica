@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Teste do motor</title>
+  <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="css/estilo.css">
+  <script defer src="js/motor.js"></script>
+  <script defer src="js/teste_motor.js"></script>
+</head>
+<body>
+  <main>
+    <section class="cartao">
+      <h1>Teste de aceitação do motor</h1>
+      <p>Refaz no navegador as 3 aplicações gravadas pelo motor Python (<code>teste/teste_motor.json</code>) e confere item a item se o porte em JavaScript chega aos mesmos números.</p>
+      <pre class="teste-saida" id="saida">Rodando…</pre>
+    </section>
+  </main>
+  <script>
+    window.addEventListener("DOMContentLoaded", async () => {
+      const saida = document.getElementById("saida");
+      try {
+        const ler = f => fetch(f).then(r => { if (!r.ok) throw new Error(f + ": HTTP " + r.status); return r.json(); });
+        const [banco, matriz, teste] = await Promise.all([ler("banco/itens.json"), ler("banco/matriz.json"), ler("teste/teste_motor.json")]);
+        const r = TesteMotor.verificar(MotorDiag, banco.itens, matriz, teste.casos);
+        saida.textContent = r.linhas.join("\n");
+        saida.className = "teste-saida " + (r.ok ? "ok" : "falhou");
+        document.title = (r.ok ? "OK · " : "FALHA · ") + document.title;
+      } catch (e) {
+        saida.textContent = "Erro: " + e.message;
+        saida.className = "teste-saida falhou";
+      }
+    });
+  </script>
+</body>
+</html>

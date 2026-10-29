@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Diagnóstico · Professor</title>
+  <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/estilo.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/lz-string@1.5.0/libs/lz-string.min.js" crossorigin="anonymous"></script>
+  <script defer src="js/motor.js"></script>
+  <script defer src="js/render.js"></script>
+  <script defer src="js/relatorio.js"></script>
+  <script defer src="js/professor.js"></script>
+</head>
+<body>
+  <main class="tela-relatorio">
+    <section class="cartao prof-entrada nao-imprimir">
+      <p class="sobretitulo">Para o professor</p>
+      <h1>Reconstruir um relatório</h1>
+      <p>Cole o código de dados (o bloco no fim do relatório da aluna, que começa com <code>LZ1:</code>).</p>
+      <label class="vis-oculto" for="codigo">Código de dados</label>
+      <textarea id="codigo" spellcheck="false" placeholder="LZ1:…"></textarea>
+      <p class="erro-form" id="erro" role="alert"></p>
+      <div class="acoes">
+        <button class="btn secundario" id="local" hidden>Usar a aplicação salva neste navegador</button>
+        <button class="btn primario" id="montar">Reconstruir relatório</button>
+      </div>
+    </section>
+    <section class="cartao nao-imprimir" id="painel-filtros" hidden>
+      <div class="filtros">
+        <label>Eixo<select id="f-eixo"><option value="">Todos</option></select></label>
+        <label>Habilidade<select id="f-hab"><option value="">Todas</option></select></label>
+        <label>Resultado<select id="f-acerto"><option value="">Todos</option><option value="ok">Acertos</option><option value="nok">Erros</option></select></label>
+        <button class="btn secundario" id="imprimir">Exportar PDF</button>
+      </div>
+      <p class="nota" id="contagem"></p>
+    </section>
+    <div class="relatorio" id="saida" hidden></div>
+  </main>
+</body>
+</html>

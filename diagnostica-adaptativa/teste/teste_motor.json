@@ -1,0 +1,2204 @@
+{
+ "gerado_por": "scripts/gerar_teste_motor.py",
+ "casos": [
+  {
+   "nome": "base fraca (N1)",
+   "seed": 11,
+   "passos": [
+    {
+     "id": "ENEM2024-Q178",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "duvida",
+     "tempo_s": 268,
+     "theta_eixo": -1.271,
+     "media": -1.2713474110469056,
+     "ep": 0.9229008770077581
+    },
+    {
+     "id": "AUT-B1-01",
+     "modo": "sondagem",
+     "letra": "E",
+     "confianca": "chutei",
+     "tempo_s": 103,
+     "theta_eixo": -1.838,
+     "media": -1.8382332287862304,
+     "ep": 0.6969894341220471
+    },
+    {
+     "id": "ENEM2024-Q176",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "duvida",
+     "tempo_s": 80,
+     "theta_eixo": 0.167,
+     "media": 0.1667901036821782,
+     "ep": 1.203194767294796
+    },
+    {
+     "id": "ENEM2024-Q155",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "chutei",
+     "tempo_s": 29,
+     "theta_eixo": 0.167,
+     "media": 0.1667901036821782,
+     "ep": 1.203194767294796
+    },
+    {
+     "id": "ENEM2024-Q141",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "chutei",
+     "tempo_s": 88,
+     "theta_eixo": -1.271,
+     "media": -1.2713474110469056,
+     "ep": 0.9229008770077581
+    },
+    {
+     "id": "ENEM2022-Q142",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "certeza",
+     "tempo_s": 26,
+     "theta_eixo": -1.271,
+     "media": -1.2713474110469056,
+     "ep": 0.9229008770077581
+    },
+    {
+     "id": "ENEM2024-Q168",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "certeza",
+     "tempo_s": 23,
+     "theta_eixo": 0.167,
+     "media": 0.1667901036821782,
+     "ep": 1.203194767294796
+    },
+    {
+     "id": "FUVEST2023-Q88",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "chutei",
+     "tempo_s": 127,
+     "theta_eixo": -1.271,
+     "media": -1.2713474110469056,
+     "ep": 0.9229008770077581
+    },
+    {
+     "id": "AUT-I1-01",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "duvida",
+     "tempo_s": 150,
+     "theta_eixo": -1.271,
+     "media": -1.2713474110469056,
+     "ep": 0.9229008770077581
+    },
+    {
+     "id": "AUT-F1-02",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "chutei",
+     "tempo_s": 138,
+     "theta_eixo": -1.271,
+     "media": -1.2713474110469056,
+     "ep": 0.9229008770077581
+    },
+    {
+     "id": "AUT-B3-01",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "certeza",
+     "tempo_s": 270,
+     "theta_eixo": -1.585,
+     "media": -1.5847412644735885,
+     "ep": 0.7134867758790915
+    },
+    {
+     "id": "ENEM2024-Q154",
+     "modo": "rodizio",
+     "letra": null,
+     "confianca": "nao_sei",
+     "tempo_s": 63,
+     "theta_eixo": -0.458,
+     "media": -0.45774289758757936,
+     "ep": 0.9960252500767812
+    },
+    {
+     "id": "ENEM2022-Q138",
+     "modo": "sondagem",
+     "letra": "E",
+     "confianca": "duvida",
+     "tempo_s": 205,
+     "theta_eixo": -0.24,
+     "media": -0.23983692381090668,
+     "ep": 0.8941494212969818
+    },
+    {
+     "id": "ENEM2022-Q170",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "certeza",
+     "tempo_s": 8,
+     "theta_eixo": 0.706,
+     "media": 0.706487040636394,
+     "ep": 1.1013935644316408
+    },
+    {
+     "id": "AUT-D2-01",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "certeza",
+     "tempo_s": 248,
+     "theta_eixo": -0.963,
+     "media": -0.9628189860970394,
+     "ep": 0.8836433804437502
+    },
+    {
+     "id": "AUT-H4-01",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "chutei",
+     "tempo_s": 211,
+     "theta_eixo": -0.963,
+     "media": -0.9628189860970394,
+     "ep": 0.8836433804437502
+    },
+    {
+     "id": "ENEM2024-Q137",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "chutei",
+     "tempo_s": 146,
+     "theta_eixo": -0.458,
+     "media": -0.45774289758757936,
+     "ep": 0.9960252500767812
+    },
+    {
+     "id": "AUT-G1-01",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "duvida",
+     "tempo_s": 178,
+     "theta_eixo": -0.963,
+     "media": -0.9628189860970394,
+     "ep": 0.8836433804437502
+    },
+    {
+     "id": "AUT-I2-01",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "duvida",
+     "tempo_s": 68,
+     "theta_eixo": -0.858,
+     "media": -0.8578747405217354,
+     "ep": 0.9483276306941973
+    },
+    {
+     "id": "AUT-F1-01",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "chutei",
+     "tempo_s": 59,
+     "theta_eixo": -0.858,
+     "media": -0.8578747405217354,
+     "ep": 0.9483276306941973
+    },
+    {
+     "id": "AUT-B2-01",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "duvida",
+     "tempo_s": 257,
+     "theta_eixo": -1.348,
+     "media": -1.3483769720198147,
+     "ep": 0.694911043616375
+    },
+    {
+     "id": "ENEM2024-Q144",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "chutei",
+     "tempo_s": 104,
+     "theta_eixo": 0.04,
+     "media": 0.039819407164831996,
+     "ep": 0.8107263630573875
+    },
+    {
+     "id": "FUVEST2022-Q34",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "duvida",
+     "tempo_s": 204,
+     "theta_eixo": -0.034,
+     "media": -0.03428621456282568,
+     "ep": 0.9789293268101872
+    },
+    {
+     "id": "AUT-C4-01",
+     "modo": "sondagem",
+     "letra": "A",
+     "confianca": "duvida",
+     "tempo_s": 116,
+     "theta_eixo": 0.259,
+     "media": 0.2592096513240513,
+     "ep": 0.8461209323846292
+    },
+    {
+     "id": "AUT-D4-01",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "chutei",
+     "tempo_s": 163,
+     "theta_eixo": -0.602,
+     "media": -0.6018067792260692,
+     "ep": 0.8668000483014574
+    },
+    {
+     "id": "AUT-H3-01",
+     "modo": "rodizio",
+     "letra": null,
+     "confianca": "nao_sei",
+     "tempo_s": 103,
+     "theta_eixo": -1.31,
+     "media": -1.3096977018213096,
+     "ep": 0.7507345534453159
+    },
+    {
+     "id": "AUT-H2-01",
+     "modo": "sondagem",
+     "letra": "C",
+     "confianca": "chutei",
+     "tempo_s": 59,
+     "theta_eixo": -1.085,
+     "media": -1.0850696146920922,
+     "ep": 0.7042045712610085
+    },
+    {
+     "id": "AUT-E3-01",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "certeza",
+     "tempo_s": 117,
+     "theta_eixo": -0.091,
+     "media": -0.09080143367713274,
+     "ep": 0.8919885443376963
+    },
+    {
+     "id": "AUT-G3-01",
+     "modo": "rodizio",
+     "letra": null,
+     "confianca": "nao_sei",
+     "tempo_s": 176,
+     "theta_eixo": -1.31,
+     "media": -1.3096977018213096,
+     "ep": 0.7507345534453159
+    },
+    {
+     "id": "AUT-I3-01",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "certeza",
+     "tempo_s": 114,
+     "theta_eixo": -1.28,
+     "media": -1.2795443496254841,
+     "ep": 0.811386481921096
+    },
+    {
+     "id": "AUT-F3-01",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "duvida",
+     "tempo_s": 240,
+     "theta_eixo": -1.044,
+     "media": -1.0436720251488432,
+     "ep": 0.8645217646920287
+    },
+    {
+     "id": "AUT-B5-01",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "chutei",
+     "tempo_s": 255,
+     "theta_eixo": -1.099,
+     "media": -1.099248208263078,
+     "ep": 0.7062125758492718
+    },
+    {
+     "id": "FUVEST2021-Q7",
+     "modo": "rodizio",
+     "letra": null,
+     "confianca": "nao_sei",
+     "tempo_s": 205,
+     "theta_eixo": -0.25,
+     "media": -0.25024576003909177,
+     "ep": 0.7272889992659806
+    },
+    {
+     "id": "ENEM2022-Q144",
+     "modo": "sondagem",
+     "letra": "D",
+     "confianca": "certeza",
+     "tempo_s": 167,
+     "theta_eixo": -0.152,
+     "media": -0.15241118814845778,
+     "ep": 0.6691750991480317
+    },
+    {
+     "id": "ENEM2024-Q138",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "chutei",
+     "tempo_s": 105,
+     "theta_eixo": -0.414,
+     "media": -0.413767867399118,
+     "ep": 0.8194542004030303
+    },
+    {
+     "id": "AUT-D5-01",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "chutei",
+     "tempo_s": 291,
+     "theta_eixo": -0.291,
+     "media": -0.29074968865433404,
+     "ep": 0.811307007951969
+    },
+    {
+     "id": "AUT-H1-01",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "duvida",
+     "tempo_s": 255,
+     "theta_eixo": -0.91,
+     "media": -0.9103813592136417,
+     "ep": 0.6542307653632058
+    },
+    {
+     "id": "AUT-E4-02",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "certeza",
+     "tempo_s": 27,
+     "theta_eixo": -0.695,
+     "media": -0.6945261360107339,
+     "ep": 0.8215568606681053
+    },
+    {
+     "id": "AUT-G2-01",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "duvida",
+     "tempo_s": 130,
+     "theta_eixo": -1.085,
+     "media": -1.0850696146920922,
+     "ep": 0.7042045712610085
+    },
+    {
+     "id": "AUT-I4-01",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "chutei",
+     "tempo_s": 259,
+     "theta_eixo": -1.513,
+     "media": -1.5133230189684084,
+     "ep": 0.7342486735429947
+    },
+    {
+     "id": "AUT-F2-02",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "certeza",
+     "tempo_s": 124,
+     "theta_eixo": -1.164,
+     "media": -1.1635283541169417,
+     "ep": 0.8187855887385657
+    },
+    {
+     "id": "AUT-B4-01",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "chutei",
+     "tempo_s": 45,
+     "theta_eixo": -0.922,
+     "media": -0.9220308110443071,
+     "ep": 0.6564445187801945
+    },
+    {
+     "id": "ENEM2024-Q158",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "certeza",
+     "tempo_s": 16,
+     "theta_eixo": -0.153,
+     "media": -0.15268493851767587,
+     "ep": 0.7213352619147836
+    },
+    {
+     "id": "AUT-D3-01",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "duvida",
+     "tempo_s": 236,
+     "theta_eixo": -0.048,
+     "media": -0.04828974085763412,
+     "ep": 0.7495362468771064
+    },
+    {
+     "id": "ENEM2024-Q136",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "certeza",
+     "tempo_s": 98,
+     "theta_eixo": -0.693,
+     "media": -0.6932587379274568,
+     "ep": 0.6361527993436409
+    }
+   ],
+   "resultado": {
+    "theta_geral": -0.61,
+    "nivel_geral": 2,
+    "eixos": {
+     "B": {
+      "theta": -0.92,
+      "ep": 0.66,
+      "nivel": 2,
+      "n": 6
+     },
+     "A": {
+      "theta": -0.15,
+      "ep": 0.67,
+      "nivel": 2,
+      "n": 6
+     },
+     "C": {
+      "theta": -0.15,
+      "ep": 0.72,
+      "nivel": 2,
+      "n": 6
+     },
+     "D": {
+      "theta": -0.05,
+      "ep": 0.75,
+      "nivel": 2,
+      "n": 5
+     },
+     "H": {
+      "theta": -0.69,
+      "ep": 0.64,
+      "nivel": 2,
+      "n": 6
+     },
+     "E": {
+      "theta": -0.69,
+      "ep": 0.82,
+      "nivel": 2,
+      "n": 4
+     },
+     "G": {
+      "theta": -1.09,
+      "ep": 0.7,
+      "nivel": 1,
+      "n": 4
+     },
+     "I": {
+      "theta": -1.51,
+      "ep": 0.73,
+      "nivel": 1,
+      "n": 4
+     },
+     "F": {
+      "theta": -1.16,
+      "ep": 0.82,
+      "nivel": 1,
+      "n": 4
+     }
+    },
+    "habilidades": {
+     "A1": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "A2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "A3": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "A4": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "A5": {
+      "status": "em_desenvolvimento",
+      "itens": 1
+     },
+     "A6": {
+      "status": "em_desenvolvimento",
+      "itens": 1
+     },
+     "B1": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "B2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "B3": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "B4": {
+      "status": "dominada",
+      "itens": 2
+     },
+     "B5": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "C1": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "C2": {
+      "status": "dominada",
+      "itens": 2
+     },
+     "C3": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "C4": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "C5": {
+      "status": "em_desenvolvimento",
+      "itens": 1
+     },
+     "D1": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "D2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "D3": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "D4": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "D5": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "D6": {
+      "status": "nao_avaliada",
+      "itens": 0
+     },
+     "E1": {
+      "status": "nao_avaliada",
+      "itens": 0
+     },
+     "E2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "E3": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "E4": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "E5": {
+      "status": "em_desenvolvimento",
+      "itens": 1
+     },
+     "F1": {
+      "status": "em_desenvolvimento",
+      "itens": 2
+     },
+     "F2": {
+      "status": "em_desenvolvimento",
+      "itens": 1
+     },
+     "F3": {
+      "status": "em_desenvolvimento",
+      "itens": 1
+     },
+     "G1": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "G2": {
+      "status": "dominada",
+      "itens": 2
+     },
+     "G3": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "H1": {
+      "status": "em_desenvolvimento",
+      "itens": 3
+     },
+     "H2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "H3": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "H4": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "I1": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "I2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "I3": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "I4": {
+      "status": "lacuna",
+      "itens": 1
+     }
+    },
+    "confianca": {
+     "erro_inseguro": 15,
+     "acerto_inseguro": 18,
+     "erro_seguro": 4,
+     "acerto_seguro": 8
+    },
+    "total_itens": 45,
+    "plano_acao": [
+     {
+      "habilidade": "B1",
+      "nome": "Razão, proporção e grandezas (velocidade, densidade)",
+      "status": "lacuna",
+      "prioridade": 3.0
+     },
+     {
+      "habilidade": "D1",
+      "nome": "Leitura e interpretação de gráficos e tabelas",
+      "status": "lacuna",
+      "prioridade": 3.0
+     },
+     {
+      "habilidade": "E4",
+      "nome": "Teorema de Pitágoras e triângulos notáveis",
+      "status": "lacuna",
+      "prioridade": 2.8
+     },
+     {
+      "habilidade": "I3",
+      "nome": "Juros simples e compostos",
+      "status": "lacuna",
+      "prioridade": 2.3
+     },
+     {
+      "habilidade": "H1",
+      "nome": "Média, mediana e moda",
+      "status": "em_desenvolvimento",
+      "prioridade": 2.1
+     },
+     {
+      "habilidade": "C1",
+      "nome": "Expressões algébricas e modelagem (traduzir texto em expressão)",
+      "status": "lacuna",
+      "prioridade": 2.0
+     },
+     {
+      "habilidade": "G3",
+      "nome": "Volume de cones, pirâmides e esferas",
+      "status": "lacuna",
+      "prioridade": 2.0
+     },
+     {
+      "habilidade": "H3",
+      "nome": "Arranjos e combinações",
+      "status": "lacuna",
+      "prioridade": 2.0
+     }
+    ]
+   }
+  },
+  {
+   "nome": "insegura, real entre N2 e N3",
+   "seed": 22,
+   "passos": [
+    {
+     "id": "ENEM2024-Q152",
+     "modo": "rodizio",
+     "letra": null,
+     "confianca": "nao_sei",
+     "tempo_s": 20,
+     "theta_eixo": -1.271,
+     "media": -1.2713474110469056,
+     "ep": 0.9229008770077581
+    },
+    {
+     "id": "AUT-A2-01",
+     "modo": "sondagem",
+     "letra": "B",
+     "confianca": "duvida",
+     "tempo_s": 102,
+     "theta_eixo": -0.054,
+     "media": -0.05367539940399604,
+     "ep": 1.2036392557823954
+    },
+    {
+     "id": "ENEM2024-Q144",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "chutei",
+     "tempo_s": 184,
+     "theta_eixo": 0.364,
+     "media": 0.3640614463984721,
+     "ep": 1.0960656660774957
+    },
+    {
+     "id": "ENEM2024-Q158",
+     "modo": "rodizio",
+     "letra": null,
+     "confianca": "nao_sei",
+     "tempo_s": 145,
+     "theta_eixo": -1.271,
+     "media": -1.2713474110469056,
+     "ep": 0.9229008770077581
+    },
+    {
+     "id": "AUT-C1-01",
+     "modo": "sondagem",
+     "letra": "C",
+     "confianca": "chutei",
+     "tempo_s": 228,
+     "theta_eixo": -1.838,
+     "media": -1.8382332287862304,
+     "ep": 0.6969894341220471
+    },
+    {
+     "id": "ENEM2024-Q141",
+     "modo": "rodizio",
+     "letra": null,
+     "confianca": "nao_sei",
+     "tempo_s": 18,
+     "theta_eixo": -1.271,
+     "media": -1.2713474110469056,
+     "ep": 0.9229008770077581
+    },
+    {
+     "id": "ENEM2022-Q142",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "duvida",
+     "tempo_s": 223,
+     "theta_eixo": 0.167,
+     "media": 0.1667901036821782,
+     "ep": 1.203194767294796
+    },
+    {
+     "id": "ENEM2024-Q168",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "certeza",
+     "tempo_s": 279,
+     "theta_eixo": 0.167,
+     "media": 0.1667901036821782,
+     "ep": 1.203194767294796
+    },
+    {
+     "id": "FUVEST2023-Q88",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "chutei",
+     "tempo_s": 175,
+     "theta_eixo": -1.271,
+     "media": -1.2713474110469056,
+     "ep": 0.9229008770077581
+    },
+    {
+     "id": "AUT-I1-01",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "duvida",
+     "tempo_s": 271,
+     "theta_eixo": -1.271,
+     "media": -1.2713474110469056,
+     "ep": 0.9229008770077581
+    },
+    {
+     "id": "AUT-F1-02",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "duvida",
+     "tempo_s": 102,
+     "theta_eixo": 0.167,
+     "media": 0.1667901036821782,
+     "ep": 1.203194767294796
+    },
+    {
+     "id": "AUT-B1-01",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "duvida",
+     "tempo_s": 280,
+     "theta_eixo": -0.963,
+     "media": -0.9628189860970394,
+     "ep": 0.8836433804437502
+    },
+    {
+     "id": "ENEM2024-Q154",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "chutei",
+     "tempo_s": 153,
+     "theta_eixo": -0.24,
+     "media": -0.23983692381090668,
+     "ep": 0.8941494212969818
+    },
+    {
+     "id": "ENEM2022-Q138",
+     "modo": "sondagem",
+     "letra": "E",
+     "confianca": "duvida",
+     "tempo_s": 211,
+     "theta_eixo": -0.095,
+     "media": -0.09545583603000113,
+     "ep": 0.8212343547043882
+    },
+    {
+     "id": "AUT-C2-01",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "certeza",
+     "tempo_s": 165,
+     "theta_eixo": -1.585,
+     "media": -1.5847412644735885,
+     "ep": 0.7134867758790915
+    },
+    {
+     "id": "AUT-D2-01",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "duvida",
+     "tempo_s": 20,
+     "theta_eixo": -0.963,
+     "media": -0.9628189860970394,
+     "ep": 0.8836433804437502
+    },
+    {
+     "id": "ENEM2024-Q167",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "chutei",
+     "tempo_s": 295,
+     "theta_eixo": 0.706,
+     "media": 0.706487040636394,
+     "ep": 1.1013935644316408
+    },
+    {
+     "id": "ENEM2024-Q179",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "certeza",
+     "tempo_s": 54,
+     "theta_eixo": -0.458,
+     "media": -0.45774289758757936,
+     "ep": 0.9960252500767812
+    },
+    {
+     "id": "AUT-G1-01",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "duvida",
+     "tempo_s": 37,
+     "theta_eixo": -1.838,
+     "media": -1.8382332287862304,
+     "ep": 0.6969894341220471
+    },
+    {
+     "id": "AUT-I3-01",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "duvida",
+     "tempo_s": 11,
+     "theta_eixo": -1.58,
+     "media": -1.579728187242269,
+     "ep": 0.7704895885568125
+    },
+    {
+     "id": "AUT-F2-01",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "certeza",
+     "tempo_s": 95,
+     "theta_eixo": 0.706,
+     "media": 0.706487040636394,
+     "ep": 1.1013935644316408
+    },
+    {
+     "id": "ENEM2024-Q178",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "duvida",
+     "tempo_s": 186,
+     "theta_eixo": -0.602,
+     "media": -0.6018067792260692,
+     "ep": 0.8668000483014574
+    },
+    {
+     "id": "ENEM2022-Q174",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "duvida",
+     "tempo_s": 105,
+     "theta_eixo": 0.129,
+     "media": 0.12860822854442236,
+     "ep": 0.759771675045767
+    },
+    {
+     "id": "ENEM2024-Q155",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "certeza",
+     "tempo_s": 282,
+     "theta_eixo": -1.326,
+     "media": -1.3262780420312155,
+     "ep": 0.7513987130182573
+    },
+    {
+     "id": "AUT-D5-01",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "chutei",
+     "tempo_s": 111,
+     "theta_eixo": -0.602,
+     "media": -0.6018067792260692,
+     "ep": 0.8668000483014574
+    },
+    {
+     "id": "ENEM2022-Q163",
+     "modo": "rodizio",
+     "letra": null,
+     "confianca": "nao_sei",
+     "tempo_s": 107,
+     "theta_eixo": -0.034,
+     "media": -0.03428621456282568,
+     "ep": 0.9789293268101872
+    },
+    {
+     "id": "AUT-H2-02",
+     "modo": "sondagem",
+     "letra": "A",
+     "confianca": "certeza",
+     "tempo_s": 243,
+     "theta_eixo": 0.259,
+     "media": 0.2592096513240513,
+     "ep": 0.8461209323846292
+    },
+    {
+     "id": "AUT-E5-01",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "certeza",
+     "tempo_s": 263,
+     "theta_eixo": -0.091,
+     "media": -0.09080143367713274,
+     "ep": 0.8919885443376963
+    },
+    {
+     "id": "AUT-G2-01",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "certeza",
+     "tempo_s": 153,
+     "theta_eixo": -1.585,
+     "media": -1.5847412644735885,
+     "ep": 0.7134867758790915
+    },
+    {
+     "id": "AUT-I2-01",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "duvida",
+     "tempo_s": 41,
+     "theta_eixo": -1.747,
+     "media": -1.7473595702706526,
+     "ep": 0.6921754006114744
+    },
+    {
+     "id": "AUT-F3-01",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "chutei",
+     "tempo_s": 140,
+     "theta_eixo": -0.034,
+     "media": -0.03428621456282568,
+     "ep": 0.9789293268101872
+    },
+    {
+     "id": "AUT-B2-02",
+     "modo": "rodizio",
+     "letra": null,
+     "confianca": "nao_sei",
+     "tempo_s": 264,
+     "theta_eixo": -1.025,
+     "media": -1.0252220452951863,
+     "ep": 0.7530711812687403
+    },
+    {
+     "id": "FUVEST2022-Q57",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "certeza",
+     "tempo_s": 182,
+     "theta_eixo": 0.404,
+     "media": 0.4040195229732235,
+     "ep": 0.7422128250085748
+    },
+    {
+     "id": "AUT-C5-01",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "chutei",
+     "tempo_s": 230,
+     "theta_eixo": -1.041,
+     "media": -1.0410265020230682,
+     "ep": 0.7559711360513612
+    },
+    {
+     "id": "AUT-D3-01",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "certeza",
+     "tempo_s": 188,
+     "theta_eixo": -1.025,
+     "media": -1.0252220452951863,
+     "ep": 0.7530711812687403
+    },
+    {
+     "id": "ENEM2022-Q136",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "duvida",
+     "tempo_s": 42,
+     "theta_eixo": -0.102,
+     "media": -0.1021734040616091,
+     "ep": 0.7823228752460011
+    },
+    {
+     "id": "AUT-E3-01",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "duvida",
+     "tempo_s": 57,
+     "theta_eixo": 0.165,
+     "media": 0.1650506006192711,
+     "ep": 0.7917482776313857
+    },
+    {
+     "id": "ENEM2024-Q149",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "chutei",
+     "tempo_s": 114,
+     "theta_eixo": -1.326,
+     "media": -1.3262780420312155,
+     "ep": 0.7513987130182573
+    },
+    {
+     "id": "AUT-I4-01",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "certeza",
+     "tempo_s": 276,
+     "theta_eixo": -1.513,
+     "media": -1.5133230189684084,
+     "ep": 0.7342486735429947
+    },
+    {
+     "id": "AUT-F1-01",
+     "modo": "rodizio",
+     "letra": null,
+     "confianca": "nao_sei",
+     "tempo_s": 201,
+     "theta_eixo": -0.763,
+     "media": -0.7629400537523519,
+     "ep": 0.902919821944355
+    },
+    {
+     "id": "AUT-B5-01",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "chutei",
+     "tempo_s": 24,
+     "theta_eixo": -0.749,
+     "media": -0.7491808851961963,
+     "ep": 0.7205583843438705
+    },
+    {
+     "id": "FUVEST2021-Q6",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "duvida",
+     "tempo_s": 203,
+     "theta_eixo": -0.762,
+     "media": -0.7624114178472692,
+     "ep": 0.7247489460615797
+    },
+    {
+     "id": "AUT-D4-01",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "chutei",
+     "tempo_s": 222,
+     "theta_eixo": -0.749,
+     "media": -0.7491808851961963,
+     "ep": 0.7205583843438705
+    },
+    {
+     "id": "ENEM2024-Q162",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "certeza",
+     "tempo_s": 126,
+     "theta_eixo": 0.106,
+     "media": 0.10551781473933719,
+     "ep": 0.6815677531164352
+    },
+    {
+     "id": "AUT-E1-03",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "certeza",
+     "tempo_s": 297,
+     "theta_eixo": 0.448,
+     "media": 0.44805964067437054,
+     "ep": 0.7520826519552148
+    }
+   ],
+   "resultado": {
+    "theta_geral": -0.47,
+    "nivel_geral": 2,
+    "eixos": {
+     "B": {
+      "theta": -0.75,
+      "ep": 0.72,
+      "nivel": 2,
+      "n": 5
+     },
+     "A": {
+      "theta": 0.4,
+      "ep": 0.74,
+      "nivel": 3,
+      "n": 6
+     },
+     "C": {
+      "theta": -0.76,
+      "ep": 0.72,
+      "nivel": 2,
+      "n": 6
+     },
+     "D": {
+      "theta": -0.75,
+      "ep": 0.72,
+      "nivel": 2,
+      "n": 5
+     },
+     "H": {
+      "theta": 0.11,
+      "ep": 0.68,
+      "nivel": 3,
+      "n": 6
+     },
+     "E": {
+      "theta": 0.45,
+      "ep": 0.75,
+      "nivel": 3,
+      "n": 5
+     },
+     "G": {
+      "theta": -1.33,
+      "ep": 0.75,
+      "nivel": 1,
+      "n": 4
+     },
+     "I": {
+      "theta": -1.51,
+      "ep": 0.73,
+      "nivel": 1,
+      "n": 4
+     },
+     "F": {
+      "theta": -0.76,
+      "ep": 0.9,
+      "nivel": 2,
+      "n": 4
+     }
+    },
+    "habilidades": {
+     "A1": {
+      "status": "nao_avaliada",
+      "itens": 0
+     },
+     "A2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "A3": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "A4": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "A5": {
+      "status": "em_desenvolvimento",
+      "itens": 2
+     },
+     "A6": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "B1": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "B2": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "B3": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "B4": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "B5": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "C1": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "C2": {
+      "status": "em_desenvolvimento",
+      "itens": 3
+     },
+     "C3": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "C4": {
+      "status": "nao_avaliada",
+      "itens": 0
+     },
+     "C5": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "D1": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "D2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "D3": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "D4": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "D5": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "D6": {
+      "status": "nao_avaliada",
+      "itens": 0
+     },
+     "E1": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "E2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "E3": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "E4": {
+      "status": "em_desenvolvimento",
+      "itens": 1
+     },
+     "E5": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "F1": {
+      "status": "em_desenvolvimento",
+      "itens": 2
+     },
+     "F2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "F3": {
+      "status": "em_desenvolvimento",
+      "itens": 1
+     },
+     "G1": {
+      "status": "em_desenvolvimento",
+      "itens": 2
+     },
+     "G2": {
+      "status": "dominada",
+      "itens": 2
+     },
+     "G3": {
+      "status": "nao_avaliada",
+      "itens": 0
+     },
+     "H1": {
+      "status": "dominada",
+      "itens": 3
+     },
+     "H2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "H3": {
+      "status": "em_desenvolvimento",
+      "itens": 1
+     },
+     "H4": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "I1": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "I2": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "I3": {
+      "status": "lacuna",
+      "itens": 1
+     },
+     "I4": {
+      "status": "dominada",
+      "itens": 1
+     }
+    },
+    "confianca": {
+     "erro_inseguro": 15,
+     "acerto_inseguro": 17,
+     "acerto_seguro": 11,
+     "erro_seguro": 2
+    },
+    "total_itens": 45,
+    "plano_acao": [
+     {
+      "habilidade": "B3",
+      "nome": "Porcentagem: cálculo, aumentos e descontos sucessivos, valor original",
+      "status": "lacuna",
+      "prioridade": 3.5
+     },
+     {
+      "habilidade": "B2",
+      "nome": "Regra de três e divisão proporcional",
+      "status": "lacuna",
+      "prioridade": 3.0
+     },
+     {
+      "habilidade": "D1",
+      "nome": "Leitura e interpretação de gráficos e tabelas",
+      "status": "lacuna",
+      "prioridade": 3.0
+     },
+     {
+      "habilidade": "C1",
+      "nome": "Expressões algébricas e modelagem (traduzir texto em expressão)",
+      "status": "lacuna",
+      "prioridade": 2.5
+     },
+     {
+      "habilidade": "I2",
+      "nome": "Progressão geométrica e crescimento por fator",
+      "status": "lacuna",
+      "prioridade": 2.5
+     },
+     {
+      "habilidade": "C2",
+      "nome": "Equação do 1º grau e problemas",
+      "status": "em_desenvolvimento",
+      "prioridade": 2.3
+     },
+     {
+      "habilidade": "D3",
+      "nome": "Função quadrática: raízes, vértice, máximo e mínimo",
+      "status": "lacuna",
+      "prioridade": 2.3
+     },
+     {
+      "habilidade": "E4",
+      "nome": "Teorema de Pitágoras e triângulos notáveis",
+      "status": "em_desenvolvimento",
+      "prioridade": 2.0
+     }
+    ]
+   }
+  },
+  {
+   "nome": "forte (N4)",
+   "seed": 33,
+   "passos": [
+    {
+     "id": "ENEM2022-Q153",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "chutei",
+     "tempo_s": 127,
+     "theta_eixo": 0.167,
+     "media": 0.1667901036821782,
+     "ep": 1.203194767294796
+    },
+    {
+     "id": "ENEM2024-Q144",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "duvida",
+     "tempo_s": 253,
+     "theta_eixo": 0.167,
+     "media": 0.1667901036821782,
+     "ep": 1.203194767294796
+    },
+    {
+     "id": "ENEM2024-Q155",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "chutei",
+     "tempo_s": 278,
+     "theta_eixo": 0.167,
+     "media": 0.1667901036821782,
+     "ep": 1.203194767294796
+    },
+    {
+     "id": "ENEM2024-Q161",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "chutei",
+     "tempo_s": 265,
+     "theta_eixo": 0.167,
+     "media": 0.1667901036821782,
+     "ep": 1.203194767294796
+    },
+    {
+     "id": "ENEM2024-Q162",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "chutei",
+     "tempo_s": 278,
+     "theta_eixo": 0.167,
+     "media": 0.1667901036821782,
+     "ep": 1.203194767294796
+    },
+    {
+     "id": "ENEM2024-Q150",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "duvida",
+     "tempo_s": 44,
+     "theta_eixo": 0.167,
+     "media": 0.1667901036821782,
+     "ep": 1.203194767294796
+    },
+    {
+     "id": "FUVEST2023-Q88",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "duvida",
+     "tempo_s": 273,
+     "theta_eixo": 0.167,
+     "media": 0.1667901036821782,
+     "ep": 1.203194767294796
+    },
+    {
+     "id": "AUT-I3-01",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "certeza",
+     "tempo_s": 226,
+     "theta_eixo": 0.167,
+     "media": 0.1667901036821782,
+     "ep": 1.203194767294796
+    },
+    {
+     "id": "AUT-F1-02",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "duvida",
+     "tempo_s": 171,
+     "theta_eixo": 0.167,
+     "media": 0.1667901036821782,
+     "ep": 1.203194767294796
+    },
+    {
+     "id": "ENEM2024-Q175",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "chutei",
+     "tempo_s": 133,
+     "theta_eixo": 0.706,
+     "media": 0.706487040636394,
+     "ep": 1.1013935644316408
+    },
+    {
+     "id": "ENEM2024-Q154",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "certeza",
+     "tempo_s": 171,
+     "theta_eixo": 0.706,
+     "media": 0.706487040636394,
+     "ep": 1.1013935644316408
+    },
+    {
+     "id": "ENEM2022-Q170",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "certeza",
+     "tempo_s": 195,
+     "theta_eixo": -0.458,
+     "media": -0.45774289758757936,
+     "ep": 0.9960252500767812
+    },
+    {
+     "id": "ENEM2024-Q153",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "duvida",
+     "tempo_s": 132,
+     "theta_eixo": 0.706,
+     "media": 0.706487040636394,
+     "ep": 1.1013935644316408
+    },
+    {
+     "id": "ENEM2024-Q167",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "duvida",
+     "tempo_s": 11,
+     "theta_eixo": 0.706,
+     "media": 0.706487040636394,
+     "ep": 1.1013935644316408
+    },
+    {
+     "id": "ENEM2024-Q179",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "chutei",
+     "tempo_s": 163,
+     "theta_eixo": 0.706,
+     "media": 0.706487040636394,
+     "ep": 1.1013935644316408
+    },
+    {
+     "id": "ENEM2022-Q145",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "duvida",
+     "tempo_s": 102,
+     "theta_eixo": 0.706,
+     "media": 0.706487040636394,
+     "ep": 1.1013935644316408
+    },
+    {
+     "id": "ENEM2024-Q147",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "certeza",
+     "tempo_s": 194,
+     "theta_eixo": 0.706,
+     "media": 0.706487040636394,
+     "ep": 1.1013935644316408
+    },
+    {
+     "id": "AUT-F3-01",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "chutei",
+     "tempo_s": 294,
+     "theta_eixo": 0.706,
+     "media": 0.706487040636394,
+     "ep": 1.1013935644316408
+    },
+    {
+     "id": "ENEM2022-Q175",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "certeza",
+     "tempo_s": 84,
+     "theta_eixo": 1.1,
+     "media": 1.0997174771037748,
+     "ep": 0.9499378872183175
+    },
+    {
+     "id": "FUVEST2021-Q7",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "duvida",
+     "tempo_s": 9,
+     "theta_eixo": 1.1,
+     "media": 1.0997174771037748,
+     "ep": 0.9499378872183175
+    },
+    {
+     "id": "ENEM2024-Q138",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "duvida",
+     "tempo_s": 186,
+     "theta_eixo": -0.091,
+     "media": -0.09080143367713274,
+     "ep": 0.8919885443376963
+    },
+    {
+     "id": "ENEM2024-Q143",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "certeza",
+     "tempo_s": 206,
+     "theta_eixo": 1.1,
+     "media": 1.0997174771037748,
+     "ep": 0.9499378872183175
+    },
+    {
+     "id": "ENEM2024-Q156",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "duvida",
+     "tempo_s": 191,
+     "theta_eixo": 1.1,
+     "media": 1.0997174771037748,
+     "ep": 0.9499378872183175
+    },
+    {
+     "id": "ENEM2024-Q137",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "duvida",
+     "tempo_s": 165,
+     "theta_eixo": 1.1,
+     "media": 1.0997174771037748,
+     "ep": 0.9499378872183175
+    },
+    {
+     "id": "FUVEST2022-Q36",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "certeza",
+     "tempo_s": 254,
+     "theta_eixo": 1.1,
+     "media": 1.0997174771037748,
+     "ep": 0.9499378872183175
+    },
+    {
+     "id": "FUVEST2023-Q81",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "duvida",
+     "tempo_s": 64,
+     "theta_eixo": 1.1,
+     "media": 1.0997174771037748,
+     "ep": 0.9499378872183175
+    },
+    {
+     "id": "AUT-F2-01",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "certeza",
+     "tempo_s": 15,
+     "theta_eixo": 1.1,
+     "media": 1.0997174771037748,
+     "ep": 0.9499378872183175
+    },
+    {
+     "id": "ENEM2022-Q164",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "chutei",
+     "tempo_s": 91,
+     "theta_eixo": 0.703,
+     "media": 0.7033417476408477,
+     "ep": 0.8794737227303244
+    },
+    {
+     "id": "FUVEST2019-Q50",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "certeza",
+     "tempo_s": 52,
+     "theta_eixo": 0.703,
+     "media": 0.7033417476408477,
+     "ep": 0.8794737227303244
+    },
+    {
+     "id": "ENEM2022-Q138",
+     "modo": "sondagem",
+     "letra": "E",
+     "confianca": "chutei",
+     "tempo_s": 152,
+     "theta_eixo": 0.77,
+     "media": 0.7698901965928292,
+     "ep": 0.8136355626622558
+    },
+    {
+     "id": "AUT-C5-01",
+     "modo": "rodizio",
+     "letra": "A",
+     "confianca": "duvida",
+     "tempo_s": 267,
+     "theta_eixo": 0.165,
+     "media": 0.1650506006192711,
+     "ep": 0.7917482776313857
+    },
+    {
+     "id": "ENEM2024-Q145",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "duvida",
+     "tempo_s": 254,
+     "theta_eixo": 1.474,
+     "media": 1.4738979121579827,
+     "ep": 0.8577555779345324
+    },
+    {
+     "id": "ENEM2022-Q163",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "duvida",
+     "tempo_s": 170,
+     "theta_eixo": 1.357,
+     "media": 1.3568206008595518,
+     "ep": 0.8248128684697348
+    },
+    {
+     "id": "FUVEST2021-Q12",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "duvida",
+     "tempo_s": 93,
+     "theta_eixo": 1.357,
+     "media": 1.3568206008595518,
+     "ep": 0.8248128684697348
+    },
+    {
+     "id": "ENEM2022-Q161",
+     "modo": "rodizio",
+     "letra": "C",
+     "confianca": "certeza",
+     "tempo_s": 171,
+     "theta_eixo": 1.474,
+     "media": 1.4738979121579827,
+     "ep": 0.8577555779345324
+    },
+    {
+     "id": "FUVEST2020-Q22",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "chutei",
+     "tempo_s": 189,
+     "theta_eixo": 0.703,
+     "media": 0.7033417476408477,
+     "ep": 0.8794737227303244
+    },
+    {
+     "id": "FUVEST2022-Q37",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "chutei",
+     "tempo_s": 196,
+     "theta_eixo": 0.703,
+     "media": 0.7033417476408477,
+     "ep": 0.8794737227303244
+    },
+    {
+     "id": "ENEM2022-Q150",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "chutei",
+     "tempo_s": 269,
+     "theta_eixo": 0.974,
+     "media": 0.9738709922523553,
+     "ep": 0.7634228168254251
+    },
+    {
+     "id": "FUVEST2022-Q57",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "chutei",
+     "tempo_s": 14,
+     "theta_eixo": 1.006,
+     "media": 1.0059872918445283,
+     "ep": 0.7282980168114056
+    },
+    {
+     "id": "AUT-C4-02",
+     "modo": "rodizio",
+     "letra": "D",
+     "confianca": "certeza",
+     "tempo_s": 146,
+     "theta_eixo": 0.448,
+     "media": 0.44805964067437054,
+     "ep": 0.7520826519552148
+    },
+    {
+     "id": "ENEM2024-Q172",
+     "modo": "rodizio",
+     "letra": null,
+     "confianca": "nao_sei",
+     "tempo_s": 68,
+     "theta_eixo": 1.033,
+     "media": 1.0332165006483924,
+     "ep": 0.8308672697752089
+    },
+    {
+     "id": "ENEM2024-Q171",
+     "modo": "rodizio",
+     "letra": "E",
+     "confianca": "certeza",
+     "tempo_s": 109,
+     "theta_eixo": 1.647,
+     "media": 1.6468337151648507,
+     "ep": 0.7476548590893475
+    },
+    {
+     "id": "AUT-E1-03",
+     "modo": "rodizio",
+     "letra": null,
+     "confianca": "nao_sei",
+     "tempo_s": 13,
+     "theta_eixo": 0.676,
+     "media": 0.6758337675501527,
+     "ep": 0.7926358055577105
+    },
+    {
+     "id": "ENEM2022-Q143",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "chutei",
+     "tempo_s": 198,
+     "theta_eixo": 1.647,
+     "media": 1.6468337151648509,
+     "ep": 0.7476548590893475
+    },
+    {
+     "id": "FUVEST2022-Q35",
+     "modo": "rodizio",
+     "letra": "B",
+     "confianca": "certeza",
+     "tempo_s": 219,
+     "theta_eixo": 0.974,
+     "media": 0.9738709922523553,
+     "ep": 0.7634228168254251
+    }
+   ],
+   "resultado": {
+    "theta_geral": 1.02,
+    "nivel_geral": 4,
+    "eixos": {
+     "B": {
+      "theta": 0.97,
+      "ep": 0.76,
+      "nivel": 3,
+      "n": 5
+     },
+     "A": {
+      "theta": 1.01,
+      "ep": 0.73,
+      "nivel": 4,
+      "n": 6
+     },
+     "C": {
+      "theta": 0.45,
+      "ep": 0.75,
+      "nivel": 3,
+      "n": 5
+     },
+     "D": {
+      "theta": 1.03,
+      "ep": 0.83,
+      "nivel": 4,
+      "n": 5
+     },
+     "H": {
+      "theta": 1.65,
+      "ep": 0.75,
+      "nivel": 4,
+      "n": 5
+     },
+     "E": {
+      "theta": 0.68,
+      "ep": 0.79,
+      "nivel": 3,
+      "n": 5
+     },
+     "G": {
+      "theta": 1.65,
+      "ep": 0.75,
+      "nivel": 4,
+      "n": 5
+     },
+     "I": {
+      "theta": 0.97,
+      "ep": 0.76,
+      "nivel": 3,
+      "n": 5
+     },
+     "F": {
+      "theta": 0.7,
+      "ep": 0.88,
+      "nivel": 3,
+      "n": 4
+     }
+    },
+    "habilidades": {
+     "A1": {
+      "status": "nao_avaliada",
+      "itens": 0
+     },
+     "A2": {
+      "status": "nao_avaliada",
+      "itens": 0
+     },
+     "A3": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "A4": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "A5": {
+      "status": "dominada",
+      "itens": 3
+     },
+     "A6": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "B1": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "B2": {
+      "status": "em_desenvolvimento",
+      "itens": 1
+     },
+     "B3": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "B4": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "B5": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "C1": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "C2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "C3": {
+      "status": "em_desenvolvimento",
+      "itens": 1
+     },
+     "C4": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "C5": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "D1": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "D2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "D3": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "D4": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "D5": {
+      "status": "em_desenvolvimento",
+      "itens": 1
+     },
+     "D6": {
+      "status": "nao_avaliada",
+      "itens": 0
+     },
+     "E1": {
+      "status": "em_desenvolvimento",
+      "itens": 1
+     },
+     "E2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "E3": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "E4": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "E5": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "F1": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "F2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "F3": {
+      "status": "dominada",
+      "itens": 2
+     },
+     "G1": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "G2": {
+      "status": "dominada",
+      "itens": 2
+     },
+     "G3": {
+      "status": "dominada",
+      "itens": 2
+     },
+     "H1": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "H2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "H3": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "H4": {
+      "status": "dominada",
+      "itens": 2
+     },
+     "I1": {
+      "status": "dominada",
+      "itens": 2
+     },
+     "I2": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "I3": {
+      "status": "dominada",
+      "itens": 1
+     },
+     "I4": {
+      "status": "em_desenvolvimento",
+      "itens": 1
+     }
+    },
+    "confianca": {
+     "acerto_inseguro": 27,
+     "acerto_seguro": 11,
+     "erro_seguro": 2,
+     "erro_inseguro": 5
+    },
+    "total_itens": 45,
+    "plano_acao": [
+     {
+      "habilidade": "C3",
+      "nome": "Sistemas lineares e problemas",
+      "status": "em_desenvolvimento",
+      "prioridade": 2.0
+     },
+     {
+      "habilidade": "B2",
+      "nome": "Regra de três e divisão proporcional",
+      "status": "em_desenvolvimento",
+      "prioridade": 1.8
+     },
+     {
+      "habilidade": "D5",
+      "nome": "Logaritmo: definição, propriedades e equações",
+      "status": "em_desenvolvimento",
+      "prioridade": 1.2
+     },
+     {
+      "habilidade": "E1",
+      "nome": "Ângulos, retas paralelas e polígonos",
+      "status": "em_desenvolvimento",
+      "prioridade": 0.6
+     },
+     {
+      "habilidade": "I4",
+      "nome": "Geometria analítica: ponto, reta e circunferência",
+      "status": "em_desenvolvimento",
+      "prioridade": 0.6
+     }
+    ]
+   }
+  }
+ ]
+}
